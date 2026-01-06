@@ -1,0 +1,4897 @@
+﻿year,state,fuel_type,registrations,record_type
+2016,Alabama,EV,500,Historical
+2016,Alabama,PHEV,900,Historical
+2016,Alabama,HEV,29100,Historical
+2016,Alabama,Biodiesel,0,Historical
+2016,Alabama,E85,428300,Historical
+2016,Alabama,CNG,20100,Historical
+2016,Alabama,Propane,0,Historical
+2016,Alabama,Hydrogen,0,Historical
+2016,Alabama,Methanol,0,Historical
+2016,Alabama,Gasoline,3777300,Historical
+2016,Alabama,Diesel,126500,Historical
+2016,Alabama,Unknown Fuel,53900,Historical
+2016,Alaska,EV,200,Historical
+2016,Alaska,PHEV,200,Historical
+2016,Alaska,HEV,5000,Historical
+2016,Alaska,Biodiesel,0,Historical
+2016,Alaska,E85,55700,Historical
+2016,Alaska,CNG,4900,Historical
+2016,Alaska,Propane,0,Historical
+2016,Alaska,Hydrogen,0,Historical
+2016,Alaska,Methanol,0,Historical
+2016,Alaska,Gasoline,525900,Historical
+2016,Alaska,Diesel,44800,Historical
+2016,Alaska,Unknown Fuel,19400,Historical
+2016,Arizona,EV,4700,Historical
+2016,Arizona,PHEV,4400,Historical
+2016,Arizona,HEV,89600,Historical
+2016,Arizona,Biodiesel,0,Historical
+2016,Arizona,E85,427300,Historical
+2016,Arizona,CNG,17500,Historical
+2016,Arizona,Propane,0,Historical
+2016,Arizona,Hydrogen,0,Historical
+2016,Arizona,Methanol,100,Historical
+2016,Arizona,Gasoline,4805000,Historical
+2016,Arizona,Diesel,179500,Historical
+2016,Arizona,Unknown Fuel,112800,Historical
+2016,Arkansas,EV,200,Historical
+2016,Arkansas,PHEV,500,Historical
+2016,Arkansas,HEV,19100,Historical
+2016,Arkansas,Biodiesel,0,Historical
+2016,Arkansas,E85,320500,Historical
+2016,Arkansas,CNG,12600,Historical
+2016,Arkansas,Propane,0,Historical
+2016,Arkansas,Hydrogen,0,Historical
+2016,Arkansas,Methanol,0,Historical
+2016,Arkansas,Gasoline,2097800,Historical
+2016,Arkansas,Diesel,96800,Historical
+2016,Arkansas,Unknown Fuel,22200,Historical
+2016,California,EV,141500,Historical
+2016,California,PHEV,116700,Historical
+2016,California,HEV,966700,Historical
+2016,California,Biodiesel,0,Historical
+2016,California,E85,1322600,Historical
+2016,California,CNG,80600,Historical
+2016,California,Propane,0,Historical
+2016,California,Hydrogen,1300,Historical
+2016,California,Methanol,400,Historical
+2016,California,Gasoline,27241000,Historical
+2016,California,Diesel,710400,Historical
+2016,California,Unknown Fuel,115500,Historical
+2016,Colorado,EV,5300,Historical
+2016,Colorado,PHEV,3800,Historical
+2016,Colorado,HEV,74000,Historical
+2016,Colorado,Biodiesel,0,Historical
+2016,Colorado,E85,355500,Historical
+2016,Colorado,CNG,15900,Historical
+2016,Colorado,Propane,0,Historical
+2016,Colorado,Hydrogen,0,Historical
+2016,Colorado,Methanol,0,Historical
+2016,Colorado,Gasoline,4180500,Historical
+2016,Colorado,Diesel,226800,Historical
+2016,Colorado,Unknown Fuel,89900,Historical
+2016,Connecticut,EV,2000,Historical
+2016,Connecticut,PHEV,2800,Historical
+2016,Connecticut,HEV,43200,Historical
+2016,Connecticut,Biodiesel,0,Historical
+2016,Connecticut,E85,160800,Historical
+2016,Connecticut,CNG,3200,Historical
+2016,Connecticut,Propane,0,Historical
+2016,Connecticut,Hydrogen,0,Historical
+2016,Connecticut,Methanol,0,Historical
+2016,Connecticut,Gasoline,2690900,Historical
+2016,Connecticut,Diesel,59700,Historical
+2016,Connecticut,Unknown Fuel,30200,Historical
+2016,Delaware,EV,300,Historical
+2016,Delaware,PHEV,700,Historical
+2016,Delaware,HEV,11200,Historical
+2016,Delaware,Biodiesel,0,Historical
+2016,Delaware,E85,68300,Historical
+2016,Delaware,CNG,1400,Historical
+2016,Delaware,Propane,0,Historical
+2016,Delaware,Hydrogen,0,Historical
+2016,Delaware,Methanol,0,Historical
+2016,Delaware,Gasoline,749800,Historical
+2016,Delaware,Diesel,17000,Historical
+2016,Delaware,Unknown Fuel,7200,Historical
+2016,District of Columbia,EV,600,Historical
+2016,District of Columbia,PHEV,500,Historical
+2016,District of Columbia,HEV,11800,Historical
+2016,District of Columbia,Biodiesel,0,Historical
+2016,District of Columbia,E85,17600,Historical
+2016,District of Columbia,CNG,300,Historical
+2016,District of Columbia,Propane,0,Historical
+2016,District of Columbia,Hydrogen,0,Historical
+2016,District of Columbia,Methanol,0,Historical
+2016,District of Columbia,Gasoline,277800,Historical
+2016,District of Columbia,Diesel,3200,Historical
+2016,District of Columbia,Unknown Fuel,1300,Historical
+2016,Florida,EV,11600,Historical
+2016,Florida,PHEV,10100,Historical
+2016,Florida,HEV,207100,Historical
+2016,Florida,Biodiesel,0,Historical
+2016,Florida,E85,1168900,Historical
+2016,Florida,CNG,18000,Historical
+2016,Florida,Propane,0,Historical
+2016,Florida,Hydrogen,0,Historical
+2016,Florida,Methanol,0,Historical
+2016,Florida,Gasoline,13929200,Historical
+2016,Florida,Diesel,353300,Historical
+2016,Florida,Unknown Fuel,133600,Historical
+2016,Georgia,EV,18000,Historical
+2016,Georgia,PHEV,4000,Historical
+2016,Georgia,HEV,86400,Historical
+2016,Georgia,Biodiesel,0,Historical
+2016,Georgia,E85,710700,Historical
+2016,Georgia,CNG,26900,Historical
+2016,Georgia,Propane,0,Historical
+2016,Georgia,Hydrogen,0,Historical
+2016,Georgia,Methanol,0,Historical
+2016,Georgia,Gasoline,7377700,Historical
+2016,Georgia,Diesel,206700,Historical
+2016,Georgia,Unknown Fuel,114800,Historical
+2016,Hawaii,EV,4200,Historical
+2016,Hawaii,PHEV,1200,Historical
+2016,Hawaii,HEV,22600,Historical
+2016,Hawaii,Biodiesel,0,Historical
+2016,Hawaii,E85,43600,Historical
+2016,Hawaii,CNG,1500,Historical
+2016,Hawaii,Propane,0,Historical
+2016,Hawaii,Hydrogen,0,Historical
+2016,Hawaii,Methanol,0,Historical
+2016,Hawaii,Gasoline,953300,Historical
+2016,Hawaii,Diesel,17800,Historical
+2016,Hawaii,Unknown Fuel,7400,Historical
+2016,Idaho,EV,400,Historical
+2016,Idaho,PHEV,600,Historical
+2016,Idaho,HEV,16300,Historical
+2016,Idaho,Biodiesel,0,Historical
+2016,Idaho,E85,107100,Historical
+2016,Idaho,CNG,12800,Historical
+2016,Idaho,Propane,0,Historical
+2016,Idaho,Hydrogen,0,Historical
+2016,Idaho,Methanol,0,Historical
+2016,Idaho,Gasoline,1354300,Historical
+2016,Idaho,Diesel,123000,Historical
+2016,Idaho,Unknown Fuel,56200,Historical
+2016,Illinois,EV,5800,Historical
+2016,Illinois,PHEV,6000,Historical
+2016,Illinois,HEV,146500,Historical
+2016,Illinois,Biodiesel,0,Historical
+2016,Illinois,E85,968600,Historical
+2016,Illinois,CNG,18500,Historical
+2016,Illinois,Propane,0,Historical
+2016,Illinois,Hydrogen,0,Historical
+2016,Illinois,Methanol,0,Historical
+2016,Illinois,Gasoline,8748600,Historical
+2016,Illinois,Diesel,200900,Historical
+2016,Illinois,Unknown Fuel,94500,Historical
+2016,Indiana,EV,1300,Historical
+2016,Indiana,PHEV,2400,Historical
+2016,Indiana,HEV,54500,Historical
+2016,Indiana,Biodiesel,0,Historical
+2016,Indiana,E85,569300,Historical
+2016,Indiana,CNG,19900,Historical
+2016,Indiana,Propane,0,Historical
+2016,Indiana,Hydrogen,0,Historical
+2016,Indiana,Methanol,0,Historical
+2016,Indiana,Gasoline,4855200,Historical
+2016,Indiana,Diesel,156800,Historical
+2016,Indiana,Unknown Fuel,82500,Historical
+2016,Iowa,EV,400,Historical
+2016,Iowa,PHEV,1200,Historical
+2016,Iowa,HEV,26900,Historical
+2016,Iowa,Biodiesel,0,Historical
+2016,Iowa,E85,367400,Historical
+2016,Iowa,CNG,13400,Historical
+2016,Iowa,Propane,0,Historical
+2016,Iowa,Hydrogen,0,Historical
+2016,Iowa,Methanol,0,Historical
+2016,Iowa,Gasoline,2418600,Historical
+2016,Iowa,Diesel,107600,Historical
+2016,Iowa,Unknown Fuel,80600,Historical
+2016,Kansas,EV,600,Historical
+2016,Kansas,PHEV,1000,Historical
+2016,Kansas,HEV,26200,Historical
+2016,Kansas,Biodiesel,0,Historical
+2016,Kansas,E85,250600,Historical
+2016,Kansas,CNG,14200,Historical
+2016,Kansas,Propane,0,Historical
+2016,Kansas,Hydrogen,0,Historical
+2016,Kansas,Methanol,0,Historical
+2016,Kansas,Gasoline,2095000,Historical
+2016,Kansas,Diesel,90000,Historical
+2016,Kansas,Unknown Fuel,42400,Historical
+2016,Kentucky,EV,500,Historical
+2016,Kentucky,PHEV,900,Historical
+2016,Kentucky,HEV,30900,Historical
+2016,Kentucky,Biodiesel,0,Historical
+2016,Kentucky,E85,336000,Historical
+2016,Kentucky,CNG,15600,Historical
+2016,Kentucky,Propane,0,Historical
+2016,Kentucky,Hydrogen,0,Historical
+2016,Kentucky,Methanol,0,Historical
+2016,Kentucky,Gasoline,3285300,Historical
+2016,Kentucky,Diesel,115200,Historical
+2016,Kentucky,Unknown Fuel,47500,Historical
+2016,Louisiana,EV,400,Historical
+2016,Louisiana,PHEV,500,Historical
+2016,Louisiana,HEV,17700,Historical
+2016,Louisiana,Biodiesel,0,Historical
+2016,Louisiana,E85,469700,Historical
+2016,Louisiana,CNG,11900,Historical
+2016,Louisiana,Propane,0,Historical
+2016,Louisiana,Hydrogen,0,Historical
+2016,Louisiana,Methanol,0,Historical
+2016,Louisiana,Gasoline,3047300,Historical
+2016,Louisiana,Diesel,152400,Historical
+2016,Louisiana,Unknown Fuel,36600,Historical
+2016,Maine,EV,300,Historical
+2016,Maine,PHEV,1000,Historical
+2016,Maine,HEV,17900,Historical
+2016,Maine,Biodiesel,0,Historical
+2016,Maine,E85,104700,Historical
+2016,Maine,CNG,1700,Historical
+2016,Maine,Propane,0,Historical
+2016,Maine,Hydrogen,0,Historical
+2016,Maine,Methanol,0,Historical
+2016,Maine,Gasoline,1011700,Historical
+2016,Maine,Diesel,31000,Historical
+2016,Maine,Unknown Fuel,12900,Historical
+2016,Maryland,EV,3200,Historical
+2016,Maryland,PHEV,5000,Historical
+2016,Maryland,HEV,85900,Historical
+2016,Maryland,Biodiesel,0,Historical
+2016,Maryland,E85,327800,Historical
+2016,Maryland,CNG,6100,Historical
+2016,Maryland,Propane,0,Historical
+2016,Maryland,Hydrogen,0,Historical
+2016,Maryland,Methanol,0,Historical
+2016,Maryland,Gasoline,4039100,Historical
+2016,Maryland,Diesel,105200,Historical
+2016,Maryland,Unknown Fuel,44500,Historical
+2016,Massachusetts,EV,3600,Historical
+2016,Massachusetts,PHEV,5200,Historical
+2016,Massachusetts,HEV,98300,Historical
+2016,Massachusetts,Biodiesel,0,Historical
+2016,Massachusetts,E85,315600,Historical
+2016,Massachusetts,CNG,3400,Historical
+2016,Massachusetts,Propane,0,Historical
+2016,Massachusetts,Hydrogen,0,Historical
+2016,Massachusetts,Methanol,0,Historical
+2016,Massachusetts,Gasoline,4623900,Historical
+2016,Massachusetts,Diesel,79000,Historical
+2016,Massachusetts,Unknown Fuel,38800,Historical
+2016,Michigan,EV,1600,Historical
+2016,Michigan,PHEV,11600,Historical
+2016,Michigan,HEV,64900,Historical
+2016,Michigan,Biodiesel,0,Historical
+2016,Michigan,E85,1186000,Historical
+2016,Michigan,CNG,19800,Historical
+2016,Michigan,Propane,0,Historical
+2016,Michigan,Hydrogen,0,Historical
+2016,Michigan,Methanol,0,Historical
+2016,Michigan,Gasoline,6902900,Historical
+2016,Michigan,Diesel,190800,Historical
+2016,Michigan,Unknown Fuel,81100,Historical
+2016,Minnesota,EV,1600,Historical
+2016,Minnesota,PHEV,2400,Historical
+2016,Minnesota,HEV,58900,Historical
+2016,Minnesota,Biodiesel,0,Historical
+2016,Minnesota,E85,549600,Historical
+2016,Minnesota,CNG,13600,Historical
+2016,Minnesota,Propane,0,Historical
+2016,Minnesota,Hydrogen,0,Historical
+2016,Minnesota,Methanol,0,Historical
+2016,Minnesota,Gasoline,3981400,Historical
+2016,Minnesota,Diesel,135100,Historical
+2016,Minnesota,Unknown Fuel,51900,Historical
+2016,Mississippi,EV,100,Historical
+2016,Mississippi,PHEV,200,Historical
+2016,Mississippi,HEV,11800,Historical
+2016,Mississippi,Biodiesel,0,Historical
+2016,Mississippi,E85,279600,Historical
+2016,Mississippi,CNG,9500,Historical
+2016,Mississippi,Propane,0,Historical
+2016,Mississippi,Hydrogen,0,Historical
+2016,Mississippi,Methanol,0,Historical
+2016,Mississippi,Gasoline,2106700,Historical
+2016,Mississippi,Diesel,78300,Historical
+2016,Mississippi,Unknown Fuel,16300,Historical
+2016,Missouri,EV,1400,Historical
+2016,Missouri,PHEV,2100,Historical
+2016,Missouri,HEV,63800,Historical
+2016,Missouri,Biodiesel,0,Historical
+2016,Missouri,E85,589600,Historical
+2016,Missouri,CNG,21800,Historical
+2016,Missouri,Propane,0,Historical
+2016,Missouri,Hydrogen,0,Historical
+2016,Missouri,Methanol,0,Historical
+2016,Missouri,Gasoline,4597300,Historical
+2016,Missouri,Diesel,194200,Historical
+2016,Missouri,Unknown Fuel,71300,Historical
+2016,Montana,EV,200,Historical
+2016,Montana,PHEV,200,Historical
+2016,Montana,HEV,9800,Historical
+2016,Montana,Biodiesel,0,Historical
+2016,Montana,E85,111700,Historical
+2016,Montana,CNG,5400,Historical
+2016,Montana,Propane,0,Historical
+2016,Montana,Hydrogen,0,Historical
+2016,Montana,Methanol,0,Historical
+2016,Montana,Gasoline,750600,Historical
+2016,Montana,Diesel,87600,Historical
+2016,Montana,Unknown Fuel,22600,Historical
+2016,Nebraska,EV,300,Historical
+2016,Nebraska,PHEV,600,Historical
+2016,Nebraska,HEV,14500,Historical
+2016,Nebraska,Biodiesel,0,Historical
+2016,Nebraska,E85,208300,Historical
+2016,Nebraska,CNG,9900,Historical
+2016,Nebraska,Propane,0,Historical
+2016,Nebraska,Hydrogen,0,Historical
+2016,Nebraska,Methanol,0,Historical
+2016,Nebraska,Gasoline,1468900,Historical
+2016,Nebraska,Diesel,79800,Historical
+2016,Nebraska,Unknown Fuel,38300,Historical
+2016,Nevada,EV,2000,Historical
+2016,Nevada,PHEV,1400,Historical
+2016,Nevada,HEV,30700,Historical
+2016,Nevada,Biodiesel,0,Historical
+2016,Nevada,E85,138800,Historical
+2016,Nevada,CNG,7100,Historical
+2016,Nevada,Propane,0,Historical
+2016,Nevada,Hydrogen,0,Historical
+2016,Nevada,Methanol,0,Historical
+2016,Nevada,Gasoline,1923600,Historical
+2016,Nevada,Diesel,83000,Historical
+2016,Nevada,Unknown Fuel,36000,Historical
+2016,New Hampshire,EV,400,Historical
+2016,New Hampshire,PHEV,1000,Historical
+2016,New Hampshire,HEV,19200,Historical
+2016,New Hampshire,Biodiesel,0,Historical
+2016,New Hampshire,E85,100900,Historical
+2016,New Hampshire,CNG,1800,Historical
+2016,New Hampshire,Propane,0,Historical
+2016,New Hampshire,Hydrogen,0,Historical
+2016,New Hampshire,Methanol,0,Historical
+2016,New Hampshire,Gasoline,1132600,Historical
+2016,New Hampshire,Diesel,34300,Historical
+2016,New Hampshire,Unknown Fuel,16900,Historical
+2016,New Jersey,EV,4200,Historical
+2016,New Jersey,PHEV,5500,Historical
+2016,New Jersey,HEV,80900,Historical
+2016,New Jersey,Biodiesel,0,Historical
+2016,New Jersey,E85,470400,Historical
+2016,New Jersey,CNG,4400,Historical
+2016,New Jersey,Propane,0,Historical
+2016,New Jersey,Hydrogen,0,Historical
+2016,New Jersey,Methanol,0,Historical
+2016,New Jersey,Gasoline,6001300,Historical
+2016,New Jersey,Diesel,111500,Historical
+2016,New Jersey,Unknown Fuel,51600,Historical
+2016,New Mexico,EV,500,Historical
+2016,New Mexico,PHEV,600,Historical
+2016,New Mexico,HEV,20800,Historical
+2016,New Mexico,Biodiesel,0,Historical
+2016,New Mexico,E85,142300,Historical
+2016,New Mexico,CNG,7800,Historical
+2016,New Mexico,Propane,0,Historical
+2016,New Mexico,Hydrogen,0,Historical
+2016,New Mexico,Methanol,0,Historical
+2016,New Mexico,Gasoline,1375900,Historical
+2016,New Mexico,Diesel,88400,Historical
+2016,New Mexico,Unknown Fuel,37200,Historical
+2016,New York,EV,6100,Historical
+2016,New York,PHEV,12100,Historical
+2016,New York,HEV,166500,Historical
+2016,New York,Biodiesel,0,Historical
+2016,New York,E85,895500,Historical
+2016,New York,CNG,10200,Historical
+2016,New York,Propane,0,Historical
+2016,New York,Hydrogen,0,Historical
+2016,New York,Methanol,0,Historical
+2016,New York,Gasoline,10013300,Historical
+2016,New York,Diesel,191300,Historical
+2016,New York,Unknown Fuel,112600,Historical
+2016,North Carolina,EV,2900,Historical
+2016,North Carolina,PHEV,3600,Historical
+2016,North Carolina,HEV,107400,Historical
+2016,North Carolina,Biodiesel,0,Historical
+2016,North Carolina,E85,642800,Historical
+2016,North Carolina,CNG,26100,Historical
+2016,North Carolina,Propane,0,Historical
+2016,North Carolina,Hydrogen,0,Historical
+2016,North Carolina,Methanol,0,Historical
+2016,North Carolina,Gasoline,7095700,Historical
+2016,North Carolina,Diesel,218900,Historical
+2016,North Carolina,Unknown Fuel,108900,Historical
+2016,North Dakota,EV,0,Historical
+2016,North Dakota,PHEV,100,Historical
+2016,North Dakota,HEV,3400,Historical
+2016,North Dakota,Biodiesel,0,Historical
+2016,North Dakota,E85,118500,Historical
+2016,North Dakota,CNG,5100,Historical
+2016,North Dakota,Propane,0,Historical
+2016,North Dakota,Hydrogen,0,Historical
+2016,North Dakota,Methanol,0,Historical
+2016,North Dakota,Gasoline,566300,Historical
+2016,North Dakota,Diesel,51900,Historical
+2016,North Dakota,Unknown Fuel,20200,Historical
+2016,Ohio,EV,2600,Historical
+2016,Ohio,PHEV,4400,Historical
+2016,Ohio,HEV,91900,Historical
+2016,Ohio,Biodiesel,0,Historical
+2016,Ohio,E85,909400,Historical
+2016,Ohio,CNG,21600,Historical
+2016,Ohio,Propane,0,Historical
+2016,Ohio,Hydrogen,0,Historical
+2016,Ohio,Methanol,0,Historical
+2016,Ohio,Gasoline,8740000,Historical
+2016,Ohio,Diesel,209700,Historical
+2016,Ohio,Unknown Fuel,109200,Historical
+2016,Oklahoma,EV,600,Historical
+2016,Oklahoma,PHEV,700,Historical
+2016,Oklahoma,HEV,24800,Historical
+2016,Oklahoma,Biodiesel,0,Historical
+2016,Oklahoma,E85,599800,Historical
+2016,Oklahoma,CNG,20300,Historical
+2016,Oklahoma,Propane,0,Historical
+2016,Oklahoma,Hydrogen,0,Historical
+2016,Oklahoma,Methanol,0,Historical
+2016,Oklahoma,Gasoline,3277300,Historical
+2016,Oklahoma,Diesel,171700,Historical
+2016,Oklahoma,Unknown Fuel,73100,Historical
+2016,Oregon,EV,7700,Historical
+2016,Oregon,PHEV,4300,Historical
+2016,Oregon,HEV,83300,Historical
+2016,Oregon,Biodiesel,0,Historical
+2016,Oregon,E85,168600,Historical
+2016,Oregon,CNG,15500,Historical
+2016,Oregon,Propane,0,Historical
+2016,Oregon,Hydrogen,0,Historical
+2016,Oregon,Methanol,0,Historical
+2016,Oregon,Gasoline,3077900,Historical
+2016,Oregon,Diesel,220300,Historical
+2016,Oregon,Unknown Fuel,100900,Historical
+2016,Pennsylvania,EV,3200,Historical
+2016,Pennsylvania,PHEV,5400,Historical
+2016,Pennsylvania,HEV,103200,Historical
+2016,Pennsylvania,Biodiesel,0,Historical
+2016,Pennsylvania,E85,776400,Historical
+2016,Pennsylvania,CNG,15300,Historical
+2016,Pennsylvania,Propane,0,Historical
+2016,Pennsylvania,Hydrogen,0,Historical
+2016,Pennsylvania,Methanol,0,Historical
+2016,Pennsylvania,Gasoline,8767400,Historical
+2016,Pennsylvania,Diesel,223100,Historical
+2016,Pennsylvania,Unknown Fuel,90200,Historical
+2016,Rhode Island,EV,300,Historical
+2016,Rhode Island,PHEV,600,Historical
+2016,Rhode Island,HEV,11000,Historical
+2016,Rhode Island,Biodiesel,0,Historical
+2016,Rhode Island,E85,44300,Historical
+2016,Rhode Island,CNG,700,Historical
+2016,Rhode Island,Propane,0,Historical
+2016,Rhode Island,Hydrogen,0,Historical
+2016,Rhode Island,Methanol,0,Historical
+2016,Rhode Island,Gasoline,778200,Historical
+2016,Rhode Island,Diesel,14000,Historical
+2016,Rhode Island,Unknown Fuel,8500,Historical
+2016,South Carolina,EV,800,Historical
+2016,South Carolina,PHEV,1200,Historical
+2016,South Carolina,HEV,39300,Historical
+2016,South Carolina,Biodiesel,0,Historical
+2016,South Carolina,E85,373900,Historical
+2016,South Carolina,CNG,16100,Historical
+2016,South Carolina,Propane,0,Historical
+2016,South Carolina,Hydrogen,0,Historical
+2016,South Carolina,Methanol,0,Historical
+2016,South Carolina,Gasoline,3814700,Historical
+2016,South Carolina,Diesel,102900,Historical
+2016,South Carolina,Unknown Fuel,67900,Historical
+2016,South Dakota,EV,100,Historical
+2016,South Dakota,PHEV,200,Historical
+2016,South Dakota,HEV,5300,Historical
+2016,South Dakota,Biodiesel,0,Historical
+2016,South Dakota,E85,113100,Historical
+2016,South Dakota,CNG,5700,Historical
+2016,South Dakota,Propane,0,Historical
+2016,South Dakota,Hydrogen,0,Historical
+2016,South Dakota,Methanol,0,Historical
+2016,South Dakota,Gasoline,667200,Historical
+2016,South Dakota,Diesel,56200,Historical
+2016,South Dakota,Unknown Fuel,24200,Historical
+2016,Tennessee,EV,2600,Historical
+2016,Tennessee,PHEV,1700,Historical
+2016,Tennessee,HEV,48400,Historical
+2016,Tennessee,Biodiesel,0,Historical
+2016,Tennessee,E85,442400,Historical
+2016,Tennessee,CNG,21300,Historical
+2016,Tennessee,Propane,0,Historical
+2016,Tennessee,Hydrogen,0,Historical
+2016,Tennessee,Methanol,0,Historical
+2016,Tennessee,Gasoline,4772600,Historical
+2016,Tennessee,Diesel,137900,Historical
+2016,Tennessee,Unknown Fuel,59800,Historical
+2016,Texas,EV,11900,Historical
+2016,Texas,PHEV,8000,Historical
+2016,Texas,HEV,205800,Historical
+2016,Texas,Biodiesel,0,Historical
+2016,Texas,E85,2596600,Historical
+2016,Texas,CNG,64700,Historical
+2016,Texas,Propane,0,Historical
+2016,Texas,Hydrogen,0,Historical
+2016,Texas,Methanol,0,Historical
+2016,Texas,Gasoline,18245400,Historical
+2016,Texas,Diesel,961200,Historical
+2016,Texas,Unknown Fuel,213100,Historical
+2016,Utah,EV,2500,Historical
+2016,Utah,PHEV,1700,Historical
+2016,Utah,HEV,32700,Historical
+2016,Utah,Biodiesel,0,Historical
+2016,Utah,E85,172900,Historical
+2016,Utah,CNG,10800,Historical
+2016,Utah,Propane,0,Historical
+2016,Utah,Hydrogen,0,Historical
+2016,Utah,Methanol,0,Historical
+2016,Utah,Gasoline,2072100,Historical
+2016,Utah,Diesel,150800,Historical
+2016,Utah,Unknown Fuel,38700,Historical
+2016,Vermont,EV,300,Historical
+2016,Vermont,PHEV,1200,Historical
+2016,Vermont,HEV,11600,Historical
+2016,Vermont,Biodiesel,0,Historical
+2016,Vermont,E85,49300,Historical
+2016,Vermont,CNG,800,Historical
+2016,Vermont,Propane,0,Historical
+2016,Vermont,Hydrogen,0,Historical
+2016,Vermont,Methanol,0,Historical
+2016,Vermont,Gasoline,521600,Historical
+2016,Vermont,Diesel,20200,Historical
+2016,Vermont,Unknown Fuel,8400,Historical
+2016,Virginia,EV,3100,Historical
+2016,Virginia,PHEV,4200,Historical
+2016,Virginia,HEV,126700,Historical
+2016,Virginia,Biodiesel,0,Historical
+2016,Virginia,E85,463300,Historical
+2016,Virginia,CNG,17900,Historical
+2016,Virginia,Propane,0,Historical
+2016,Virginia,Hydrogen,0,Historical
+2016,Virginia,Methanol,0,Historical
+2016,Virginia,Gasoline,6554200,Historical
+2016,Virginia,Diesel,168900,Historical
+2016,Virginia,Unknown Fuel,64900,Historical
+2016,Washington,EV,14900,Historical
+2016,Washington,PHEV,6400,Historical
+2016,Washington,HEV,143400,Historical
+2016,Washington,Biodiesel,0,Historical
+2016,Washington,E85,304100,Historical
+2016,Washington,CNG,24400,Historical
+2016,Washington,Propane,0,Historical
+2016,Washington,Hydrogen,0,Historical
+2016,Washington,Methanol,0,Historical
+2016,Washington,Gasoline,5329200,Historical
+2016,Washington,Diesel,272100,Historical
+2016,Washington,Unknown Fuel,133900,Historical
+2016,West Virginia,EV,100,Historical
+2016,West Virginia,PHEV,300,Historical
+2016,West Virginia,HEV,9200,Historical
+2016,West Virginia,Biodiesel,0,Historical
+2016,West Virginia,E85,150300,Historical
+2016,West Virginia,CNG,4400,Historical
+2016,West Virginia,Propane,0,Historical
+2016,West Virginia,Hydrogen,0,Historical
+2016,West Virginia,Methanol,0,Historical
+2016,West Virginia,Gasoline,1286500,Historical
+2016,West Virginia,Diesel,52000,Historical
+2016,West Virginia,Unknown Fuel,21600,Historical
+2016,Wisconsin,EV,2600,Historical
+2016,Wisconsin,PHEV,2600,Historical
+2016,Wisconsin,HEV,61700,Historical
+2016,Wisconsin,Biodiesel,0,Historical
+2016,Wisconsin,E85,579200,Historical
+2016,Wisconsin,CNG,14400,Historical
+2016,Wisconsin,Propane,0,Historical
+2016,Wisconsin,Hydrogen,0,Historical
+2016,Wisconsin,Methanol,0,Historical
+2016,Wisconsin,Gasoline,4500500,Historical
+2016,Wisconsin,Diesel,154400,Historical
+2016,Wisconsin,Unknown Fuel,52900,Historical
+2016,Wyoming,EV,100,Historical
+2016,Wyoming,PHEV,100,Historical
+2016,Wyoming,HEV,3800,Historical
+2016,Wyoming,Biodiesel,0,Historical
+2016,Wyoming,E85,64100,Historical
+2016,Wyoming,CNG,4800,Historical
+2016,Wyoming,Propane,0,Historical
+2016,Wyoming,Hydrogen,0,Historical
+2016,Wyoming,Methanol,0,Historical
+2016,Wyoming,Gasoline,448600,Historical
+2016,Wyoming,Diesel,69900,Historical
+2016,Wyoming,Unknown Fuel,23700,Historical
+2017,Alabama,EV,800,Historical
+2017,Alabama,PHEV,1100,Historical
+2017,Alabama,HEV,30600,Historical
+2017,Alabama,Biodiesel,0,Historical
+2017,Alabama,E85,476700,Historical
+2017,Alabama,CNG,18500,Historical
+2017,Alabama,Propane,0,Historical
+2017,Alabama,Hydrogen,0,Historical
+2017,Alabama,Methanol,0,Historical
+2017,Alabama,Gasoline,3750700,Historical
+2017,Alabama,Diesel,131500,Historical
+2017,Alabama,Unknown Fuel,49000,Historical
+2017,Alaska,EV,400,Historical
+2017,Alaska,PHEV,300,Historical
+2017,Alaska,HEV,5200,Historical
+2017,Alaska,Biodiesel,0,Historical
+2017,Alaska,E85,59400,Historical
+2017,Alaska,CNG,4400,Historical
+2017,Alaska,Propane,0,Historical
+2017,Alaska,Hydrogen,0,Historical
+2017,Alaska,Methanol,0,Historical
+2017,Alaska,Gasoline,506800,Historical
+2017,Alaska,Diesel,43200,Historical
+2017,Alaska,Unknown Fuel,16400,Historical
+2017,Arizona,EV,7200,Historical
+2017,Arizona,PHEV,5800,Historical
+2017,Arizona,HEV,96000,Historical
+2017,Arizona,Biodiesel,0,Historical
+2017,Arizona,E85,484600,Historical
+2017,Arizona,CNG,16600,Historical
+2017,Arizona,Propane,0,Historical
+2017,Arizona,Hydrogen,0,Historical
+2017,Arizona,Methanol,100,Historical
+2017,Arizona,Gasoline,4940200,Historical
+2017,Arizona,Diesel,187500,Historical
+2017,Arizona,Unknown Fuel,108300,Historical
+2017,Arkansas,EV,300,Historical
+2017,Arkansas,PHEV,600,Historical
+2017,Arkansas,HEV,20000,Historical
+2017,Arkansas,Biodiesel,0,Historical
+2017,Arkansas,E85,352700,Historical
+2017,Arkansas,CNG,10800,Historical
+2017,Arkansas,Propane,0,Historical
+2017,Arkansas,Hydrogen,0,Historical
+2017,Arkansas,Methanol,0,Historical
+2017,Arkansas,Gasoline,2097400,Historical
+2017,Arkansas,Diesel,100100,Historical
+2017,Arkansas,Unknown Fuel,19800,Historical
+2017,California,EV,189700,Historical
+2017,California,PHEV,159600,Historical
+2017,California,HEV,1039300,Historical
+2017,California,Biodiesel,0,Historical
+2017,California,E85,1495800,Historical
+2017,California,CNG,79300,Historical
+2017,California,Propane,0,Historical
+2017,California,Hydrogen,3200,Historical
+2017,California,Methanol,400,Historical
+2017,California,Gasoline,28171500,Historical
+2017,California,Diesel,738600,Historical
+2017,California,Unknown Fuel,122200,Historical
+2017,Colorado,EV,8000,Historical
+2017,Colorado,PHEV,5200,Historical
+2017,Colorado,HEV,79800,Historical
+2017,Colorado,Biodiesel,0,Historical
+2017,Colorado,E85,395500,Historical
+2017,Colorado,CNG,14800,Historical
+2017,Colorado,Propane,0,Historical
+2017,Colorado,Hydrogen,0,Historical
+2017,Colorado,Methanol,0,Historical
+2017,Colorado,Gasoline,4256700,Historical
+2017,Colorado,Diesel,232400,Historical
+2017,Colorado,Unknown Fuel,83100,Historical
+2017,Connecticut,EV,3000,Historical
+2017,Connecticut,PHEV,3900,Historical
+2017,Connecticut,HEV,45200,Historical
+2017,Connecticut,Biodiesel,0,Historical
+2017,Connecticut,E85,179800,Historical
+2017,Connecticut,CNG,2900,Historical
+2017,Connecticut,Propane,0,Historical
+2017,Connecticut,Hydrogen,0,Historical
+2017,Connecticut,Methanol,0,Historical
+2017,Connecticut,Gasoline,2715700,Historical
+2017,Connecticut,Diesel,57200,Historical
+2017,Connecticut,Unknown Fuel,29600,Historical
+2017,Delaware,EV,400,Historical
+2017,Delaware,PHEV,900,Historical
+2017,Delaware,HEV,11900,Historical
+2017,Delaware,Biodiesel,0,Historical
+2017,Delaware,E85,74900,Historical
+2017,Delaware,CNG,1300,Historical
+2017,Delaware,Propane,0,Historical
+2017,Delaware,Hydrogen,0,Historical
+2017,Delaware,Methanol,0,Historical
+2017,Delaware,Gasoline,754200,Historical
+2017,Delaware,Diesel,16900,Historical
+2017,Delaware,Unknown Fuel,7000,Historical
+2017,District of Columbia,EV,800,Historical
+2017,District of Columbia,PHEV,700,Historical
+2017,District of Columbia,HEV,13600,Historical
+2017,District of Columbia,Biodiesel,0,Historical
+2017,District of Columbia,E85,23000,Historical
+2017,District of Columbia,CNG,300,Historical
+2017,District of Columbia,Propane,0,Historical
+2017,District of Columbia,Hydrogen,0,Historical
+2017,District of Columbia,Methanol,0,Historical
+2017,District of Columbia,Gasoline,287400,Historical
+2017,District of Columbia,Diesel,3000,Historical
+2017,District of Columbia,Unknown Fuel,1200,Historical
+2017,Florida,EV,15900,Historical
+2017,Florida,PHEV,13400,Historical
+2017,Florida,HEV,219700,Historical
+2017,Florida,Biodiesel,0,Historical
+2017,Florida,E85,1318500,Historical
+2017,Florida,CNG,16800,Historical
+2017,Florida,Propane,0,Historical
+2017,Florida,Hydrogen,0,Historical
+2017,Florida,Methanol,0,Historical
+2017,Florida,Gasoline,14267800,Historical
+2017,Florida,Diesel,369900,Historical
+2017,Florida,Unknown Fuel,131600,Historical
+2017,Georgia,EV,14400,Historical
+2017,Georgia,PHEV,5200,Historical
+2017,Georgia,HEV,92200,Historical
+2017,Georgia,Biodiesel,0,Historical
+2017,Georgia,E85,793600,Historical
+2017,Georgia,CNG,25100,Historical
+2017,Georgia,Propane,0,Historical
+2017,Georgia,Hydrogen,0,Historical
+2017,Georgia,Methanol,0,Historical
+2017,Georgia,Gasoline,7435300,Historical
+2017,Georgia,Diesel,218100,Historical
+2017,Georgia,Unknown Fuel,108000,Historical
+2017,Hawaii,EV,5400,Historical
+2017,Hawaii,PHEV,1700,Historical
+2017,Hawaii,HEV,23700,Historical
+2017,Hawaii,Biodiesel,0,Historical
+2017,Hawaii,E85,48400,Historical
+2017,Hawaii,CNG,1300,Historical
+2017,Hawaii,Propane,0,Historical
+2017,Hawaii,Hydrogen,0,Historical
+2017,Hawaii,Methanol,0,Historical
+2017,Hawaii,Gasoline,961200,Historical
+2017,Hawaii,Diesel,18100,Historical
+2017,Hawaii,Unknown Fuel,7000,Historical
+2017,Idaho,EV,700,Historical
+2017,Idaho,PHEV,800,Historical
+2017,Idaho,HEV,17700,Historical
+2017,Idaho,Biodiesel,0,Historical
+2017,Idaho,E85,123600,Historical
+2017,Idaho,CNG,12000,Historical
+2017,Idaho,Propane,0,Historical
+2017,Idaho,Hydrogen,0,Historical
+2017,Idaho,Methanol,0,Historical
+2017,Idaho,Gasoline,1387400,Historical
+2017,Idaho,Diesel,130600,Historical
+2017,Idaho,Unknown Fuel,34500,Historical
+2017,Illinois,EV,8300,Historical
+2017,Illinois,PHEV,7700,Historical
+2017,Illinois,HEV,155800,Historical
+2017,Illinois,Biodiesel,0,Historical
+2017,Illinois,E85,1056300,Historical
+2017,Illinois,CNG,16400,Historical
+2017,Illinois,Propane,0,Historical
+2017,Illinois,Hydrogen,0,Historical
+2017,Illinois,Methanol,0,Historical
+2017,Illinois,Gasoline,8689700,Historical
+2017,Illinois,Diesel,200300,Historical
+2017,Illinois,Unknown Fuel,89700,Historical
+2017,Indiana,EV,1900,Historical
+2017,Indiana,PHEV,3200,Historical
+2017,Indiana,HEV,59700,Historical
+2017,Indiana,Biodiesel,0,Historical
+2017,Indiana,E85,645000,Historical
+2017,Indiana,CNG,17900,Historical
+2017,Indiana,Propane,0,Historical
+2017,Indiana,Hydrogen,0,Historical
+2017,Indiana,Methanol,0,Historical
+2017,Indiana,Gasoline,4880700,Historical
+2017,Indiana,Diesel,161600,Historical
+2017,Indiana,Unknown Fuel,76900,Historical
+2017,Iowa,EV,600,Historical
+2017,Iowa,PHEV,1500,Historical
+2017,Iowa,HEV,29000,Historical
+2017,Iowa,Biodiesel,0,Historical
+2017,Iowa,E85,405200,Historical
+2017,Iowa,CNG,12300,Historical
+2017,Iowa,Propane,0,Historical
+2017,Iowa,Hydrogen,0,Historical
+2017,Iowa,Methanol,0,Historical
+2017,Iowa,Gasoline,2413800,Historical
+2017,Iowa,Diesel,112500,Historical
+2017,Iowa,Unknown Fuel,75400,Historical
+2017,Kansas,EV,1000,Historical
+2017,Kansas,PHEV,1300,Historical
+2017,Kansas,HEV,28200,Historical
+2017,Kansas,Biodiesel,0,Historical
+2017,Kansas,E85,277900,Historical
+2017,Kansas,CNG,13200,Historical
+2017,Kansas,Propane,0,Historical
+2017,Kansas,Hydrogen,0,Historical
+2017,Kansas,Methanol,0,Historical
+2017,Kansas,Gasoline,2099900,Historical
+2017,Kansas,Diesel,92600,Historical
+2017,Kansas,Unknown Fuel,35900,Historical
+2017,Kentucky,EV,700,Historical
+2017,Kentucky,PHEV,1200,Historical
+2017,Kentucky,HEV,33900,Historical
+2017,Kentucky,Biodiesel,0,Historical
+2017,Kentucky,E85,381500,Historical
+2017,Kentucky,CNG,14500,Historical
+2017,Kentucky,Propane,0,Historical
+2017,Kentucky,Hydrogen,0,Historical
+2017,Kentucky,Methanol,0,Historical
+2017,Kentucky,Gasoline,3319800,Historical
+2017,Kentucky,Diesel,120300,Historical
+2017,Kentucky,Unknown Fuel,44300,Historical
+2017,Louisiana,EV,600,Historical
+2017,Louisiana,PHEV,700,Historical
+2017,Louisiana,HEV,18700,Historical
+2017,Louisiana,Biodiesel,0,Historical
+2017,Louisiana,E85,512300,Historical
+2017,Louisiana,CNG,10500,Historical
+2017,Louisiana,Propane,0,Historical
+2017,Louisiana,Hydrogen,0,Historical
+2017,Louisiana,Methanol,0,Historical
+2017,Louisiana,Gasoline,3055100,Historical
+2017,Louisiana,Diesel,155900,Historical
+2017,Louisiana,Unknown Fuel,33900,Historical
+2017,Maine,EV,500,Historical
+2017,Maine,PHEV,1300,Historical
+2017,Maine,HEV,18900,Historical
+2017,Maine,Biodiesel,0,Historical
+2017,Maine,E85,120700,Historical
+2017,Maine,CNG,1600,Historical
+2017,Maine,Propane,0,Historical
+2017,Maine,Hydrogen,0,Historical
+2017,Maine,Methanol,0,Historical
+2017,Maine,Gasoline,1013200,Historical
+2017,Maine,Diesel,31200,Historical
+2017,Maine,Unknown Fuel,12300,Historical
+2017,Maryland,EV,4400,Historical
+2017,Maryland,PHEV,6500,Historical
+2017,Maryland,HEV,91200,Historical
+2017,Maryland,Biodiesel,0,Historical
+2017,Maryland,E85,369400,Historical
+2017,Maryland,CNG,5500,Historical
+2017,Maryland,Propane,0,Historical
+2017,Maryland,Hydrogen,0,Historical
+2017,Maryland,Methanol,0,Historical
+2017,Maryland,Gasoline,4056000,Historical
+2017,Maryland,Diesel,105500,Historical
+2017,Maryland,Unknown Fuel,42100,Historical
+2017,Massachusetts,EV,5600,Historical
+2017,Massachusetts,PHEV,7900,Historical
+2017,Massachusetts,HEV,103600,Historical
+2017,Massachusetts,Biodiesel,0,Historical
+2017,Massachusetts,E85,356300,Historical
+2017,Massachusetts,CNG,3000,Historical
+2017,Massachusetts,Propane,0,Historical
+2017,Massachusetts,Hydrogen,0,Historical
+2017,Massachusetts,Methanol,0,Historical
+2017,Massachusetts,Gasoline,4667100,Historical
+2017,Massachusetts,Diesel,76900,Historical
+2017,Massachusetts,Unknown Fuel,37800,Historical
+2017,Michigan,EV,2500,Historical
+2017,Michigan,PHEV,12000,Historical
+2017,Michigan,HEV,72000,Historical
+2017,Michigan,Biodiesel,0,Historical
+2017,Michigan,E85,1300200,Historical
+2017,Michigan,CNG,17400,Historical
+2017,Michigan,Propane,0,Historical
+2017,Michigan,Hydrogen,0,Historical
+2017,Michigan,Methanol,0,Historical
+2017,Michigan,Gasoline,6879500,Historical
+2017,Michigan,Diesel,342300,Historical
+2017,Michigan,Unknown Fuel,75100,Historical
+2017,Minnesota,EV,2300,Historical
+2017,Minnesota,PHEV,3100,Historical
+2017,Minnesota,HEV,63300,Historical
+2017,Minnesota,Biodiesel,0,Historical
+2017,Minnesota,E85,595100,Historical
+2017,Minnesota,CNG,12100,Historical
+2017,Minnesota,Propane,0,Historical
+2017,Minnesota,Hydrogen,0,Historical
+2017,Minnesota,Methanol,0,Historical
+2017,Minnesota,Gasoline,3960100,Historical
+2017,Minnesota,Diesel,137200,Historical
+2017,Minnesota,Unknown Fuel,47100,Historical
+2017,Mississippi,EV,200,Historical
+2017,Mississippi,PHEV,300,Historical
+2017,Mississippi,HEV,12800,Historical
+2017,Mississippi,Biodiesel,0,Historical
+2017,Mississippi,E85,319400,Historical
+2017,Mississippi,CNG,7700,Historical
+2017,Mississippi,Propane,0,Historical
+2017,Mississippi,Hydrogen,0,Historical
+2017,Mississippi,Methanol,0,Historical
+2017,Mississippi,Gasoline,2136700,Historical
+2017,Mississippi,Diesel,83400,Historical
+2017,Mississippi,Unknown Fuel,15100,Historical
+2017,Missouri,EV,2100,Historical
+2017,Missouri,PHEV,3300,Historical
+2017,Missouri,HEV,88800,Historical
+2017,Missouri,Biodiesel,0,Historical
+2017,Missouri,E85,709800,Historical
+2017,Missouri,CNG,19800,Historical
+2017,Missouri,Propane,0,Historical
+2017,Missouri,Hydrogen,0,Historical
+2017,Missouri,Methanol,0,Historical
+2017,Missouri,Gasoline,4645900,Historical
+2017,Missouri,Diesel,206100,Historical
+2017,Missouri,Unknown Fuel,64900,Historical
+2017,Montana,EV,300,Historical
+2017,Montana,PHEV,300,Historical
+2017,Montana,HEV,10000,Historical
+2017,Montana,Biodiesel,0,Historical
+2017,Montana,E85,118100,Historical
+2017,Montana,CNG,4900,Historical
+2017,Montana,Propane,0,Historical
+2017,Montana,Hydrogen,0,Historical
+2017,Montana,Methanol,0,Historical
+2017,Montana,Gasoline,737900,Historical
+2017,Montana,Diesel,89000,Historical
+2017,Montana,Unknown Fuel,19700,Historical
+2017,Nebraska,EV,500,Historical
+2017,Nebraska,PHEV,800,Historical
+2017,Nebraska,HEV,15800,Historical
+2017,Nebraska,Biodiesel,0,Historical
+2017,Nebraska,E85,230800,Historical
+2017,Nebraska,CNG,9100,Historical
+2017,Nebraska,Propane,0,Historical
+2017,Nebraska,Hydrogen,0,Historical
+2017,Nebraska,Methanol,0,Historical
+2017,Nebraska,Gasoline,1475100,Historical
+2017,Nebraska,Diesel,82400,Historical
+2017,Nebraska,Unknown Fuel,35700,Historical
+2017,Nevada,EV,3100,Historical
+2017,Nevada,PHEV,2000,Historical
+2017,Nevada,HEV,34400,Historical
+2017,Nevada,Biodiesel,0,Historical
+2017,Nevada,E85,157000,Historical
+2017,Nevada,CNG,6600,Historical
+2017,Nevada,Propane,0,Historical
+2017,Nevada,Hydrogen,0,Historical
+2017,Nevada,Methanol,0,Historical
+2017,Nevada,Gasoline,1965700,Historical
+2017,Nevada,Diesel,86900,Historical
+2017,Nevada,Unknown Fuel,33800,Historical
+2017,New Hampshire,EV,600,Historical
+2017,New Hampshire,PHEV,1500,Historical
+2017,New Hampshire,HEV,20300,Historical
+2017,New Hampshire,Biodiesel,0,Historical
+2017,New Hampshire,E85,113100,Historical
+2017,New Hampshire,CNG,1600,Historical
+2017,New Hampshire,Propane,0,Historical
+2017,New Hampshire,Hydrogen,0,Historical
+2017,New Hampshire,Methanol,0,Historical
+2017,New Hampshire,Gasoline,1138200,Historical
+2017,New Hampshire,Diesel,33600,Historical
+2017,New Hampshire,Unknown Fuel,16100,Historical
+2017,New Jersey,EV,6900,Historical
+2017,New Jersey,PHEV,8100,Historical
+2017,New Jersey,HEV,84900,Historical
+2017,New Jersey,Biodiesel,0,Historical
+2017,New Jersey,E85,508700,Historical
+2017,New Jersey,CNG,4100,Historical
+2017,New Jersey,Propane,0,Historical
+2017,New Jersey,Hydrogen,0,Historical
+2017,New Jersey,Methanol,0,Historical
+2017,New Jersey,Gasoline,6137800,Historical
+2017,New Jersey,Diesel,110500,Historical
+2017,New Jersey,Unknown Fuel,50300,Historical
+2017,New Mexico,EV,700,Historical
+2017,New Mexico,PHEV,1000,Historical
+2017,New Mexico,HEV,23600,Historical
+2017,New Mexico,Biodiesel,0,Historical
+2017,New Mexico,E85,173100,Historical
+2017,New Mexico,CNG,7600,Historical
+2017,New Mexico,Propane,0,Historical
+2017,New Mexico,Hydrogen,0,Historical
+2017,New Mexico,Methanol,0,Historical
+2017,New Mexico,Gasoline,1474900,Historical
+2017,New Mexico,Diesel,97600,Historical
+2017,New Mexico,Unknown Fuel,35600,Historical
+2017,New York,EV,9400,Historical
+2017,New York,PHEV,17100,Historical
+2017,New York,HEV,171000,Historical
+2017,New York,Biodiesel,0,Historical
+2017,New York,E85,960800,Historical
+2017,New York,CNG,8700,Historical
+2017,New York,Propane,0,Historical
+2017,New York,Hydrogen,0,Historical
+2017,New York,Methanol,0,Historical
+2017,New York,Gasoline,9995700,Historical
+2017,New York,Diesel,186700,Historical
+2017,New York,Unknown Fuel,108400,Historical
+2017,North Carolina,EV,4400,Historical
+2017,North Carolina,PHEV,4800,Historical
+2017,North Carolina,HEV,114300,Historical
+2017,North Carolina,Biodiesel,0,Historical
+2017,North Carolina,E85,727600,Historical
+2017,North Carolina,CNG,24100,Historical
+2017,North Carolina,Propane,0,Historical
+2017,North Carolina,Hydrogen,0,Historical
+2017,North Carolina,Methanol,0,Historical
+2017,North Carolina,Gasoline,7161700,Historical
+2017,North Carolina,Diesel,225500,Historical
+2017,North Carolina,Unknown Fuel,103900,Historical
+2017,North Dakota,EV,100,Historical
+2017,North Dakota,PHEV,200,Historical
+2017,North Dakota,HEV,3700,Historical
+2017,North Dakota,Biodiesel,0,Historical
+2017,North Dakota,E85,128400,Historical
+2017,North Dakota,CNG,4700,Historical
+2017,North Dakota,Propane,0,Historical
+2017,North Dakota,Hydrogen,0,Historical
+2017,North Dakota,Methanol,0,Historical
+2017,North Dakota,Gasoline,566800,Historical
+2017,North Dakota,Diesel,53500,Historical
+2017,North Dakota,Unknown Fuel,17700,Historical
+2017,Ohio,EV,3700,Historical
+2017,Ohio,PHEV,5600,Historical
+2017,Ohio,HEV,98600,Historical
+2017,Ohio,Biodiesel,0,Historical
+2017,Ohio,E85,1010100,Historical
+2017,Ohio,CNG,19500,Historical
+2017,Ohio,Propane,0,Historical
+2017,Ohio,Hydrogen,0,Historical
+2017,Ohio,Methanol,0,Historical
+2017,Ohio,Gasoline,8722000,Historical
+2017,Ohio,Diesel,215300,Historical
+2017,Ohio,Unknown Fuel,101200,Historical
+2017,Oklahoma,EV,1200,Historical
+2017,Oklahoma,PHEV,900,Historical
+2017,Oklahoma,HEV,25900,Historical
+2017,Oklahoma,Biodiesel,0,Historical
+2017,Oklahoma,E85,624400,Historical
+2017,Oklahoma,CNG,18800,Historical
+2017,Oklahoma,Propane,0,Historical
+2017,Oklahoma,Hydrogen,0,Historical
+2017,Oklahoma,Methanol,0,Historical
+2017,Oklahoma,Gasoline,3238300,Historical
+2017,Oklahoma,Diesel,175100,Historical
+2017,Oklahoma,Unknown Fuel,67200,Historical
+2017,Oregon,EV,10000,Historical
+2017,Oregon,PHEV,6000,Historical
+2017,Oregon,HEV,90900,Historical
+2017,Oregon,Biodiesel,0,Historical
+2017,Oregon,E85,192900,Historical
+2017,Oregon,CNG,14500,Historical
+2017,Oregon,Propane,0,Historical
+2017,Oregon,Hydrogen,0,Historical
+2017,Oregon,Methanol,0,Historical
+2017,Oregon,Gasoline,3130800,Historical
+2017,Oregon,Diesel,229000,Historical
+2017,Oregon,Unknown Fuel,91400,Historical
+2017,Pennsylvania,EV,4400,Historical
+2017,Pennsylvania,PHEV,7500,Historical
+2017,Pennsylvania,HEV,110100,Historical
+2017,Pennsylvania,Biodiesel,0,Historical
+2017,Pennsylvania,E85,846200,Historical
+2017,Pennsylvania,CNG,13400,Historical
+2017,Pennsylvania,Propane,0,Historical
+2017,Pennsylvania,Hydrogen,0,Historical
+2017,Pennsylvania,Methanol,0,Historical
+2017,Pennsylvania,Gasoline,8728400,Historical
+2017,Pennsylvania,Diesel,224600,Historical
+2017,Pennsylvania,Unknown Fuel,82400,Historical
+2017,Rhode Island,EV,400,Historical
+2017,Rhode Island,PHEV,800,Historical
+2017,Rhode Island,HEV,11800,Historical
+2017,Rhode Island,Biodiesel,0,Historical
+2017,Rhode Island,E85,49600,Historical
+2017,Rhode Island,CNG,600,Historical
+2017,Rhode Island,Propane,0,Historical
+2017,Rhode Island,Hydrogen,0,Historical
+2017,Rhode Island,Methanol,0,Historical
+2017,Rhode Island,Gasoline,776800,Historical
+2017,Rhode Island,Diesel,13300,Historical
+2017,Rhode Island,Unknown Fuel,7900,Historical
+2017,South Carolina,EV,1200,Historical
+2017,South Carolina,PHEV,1600,Historical
+2017,South Carolina,HEV,41900,Historical
+2017,South Carolina,Biodiesel,0,Historical
+2017,South Carolina,E85,426200,Historical
+2017,South Carolina,CNG,15000,Historical
+2017,South Carolina,Propane,0,Historical
+2017,South Carolina,Hydrogen,0,Historical
+2017,South Carolina,Methanol,0,Historical
+2017,South Carolina,Gasoline,3869600,Historical
+2017,South Carolina,Diesel,107800,Historical
+2017,South Carolina,Unknown Fuel,64600,Historical
+2017,South Dakota,EV,100,Historical
+2017,South Dakota,PHEV,200,Historical
+2017,South Dakota,HEV,5900,Historical
+2017,South Dakota,Biodiesel,0,Historical
+2017,South Dakota,E85,125700,Historical
+2017,South Dakota,CNG,5300,Historical
+2017,South Dakota,Propane,0,Historical
+2017,South Dakota,Hydrogen,0,Historical
+2017,South Dakota,Methanol,0,Historical
+2017,South Dakota,Gasoline,681900,Historical
+2017,South Dakota,Diesel,59700,Historical
+2017,South Dakota,Unknown Fuel,22600,Historical
+2017,Tennessee,EV,2900,Historical
+2017,Tennessee,PHEV,2100,Historical
+2017,Tennessee,HEV,53400,Historical
+2017,Tennessee,Biodiesel,0,Historical
+2017,Tennessee,E85,500300,Historical
+2017,Tennessee,CNG,19900,Historical
+2017,Tennessee,Propane,0,Historical
+2017,Tennessee,Hydrogen,0,Historical
+2017,Tennessee,Methanol,0,Historical
+2017,Tennessee,Gasoline,4834800,Historical
+2017,Tennessee,Diesel,144000,Historical
+2017,Tennessee,Unknown Fuel,55200,Historical
+2017,Texas,EV,16100,Historical
+2017,Texas,PHEV,10900,Historical
+2017,Texas,HEV,217100,Historical
+2017,Texas,Biodiesel,0,Historical
+2017,Texas,E85,2813400,Historical
+2017,Texas,CNG,56900,Historical
+2017,Texas,Propane,0,Historical
+2017,Texas,Hydrogen,0,Historical
+2017,Texas,Methanol,0,Historical
+2017,Texas,Gasoline,18252800,Historical
+2017,Texas,Diesel,982900,Historical
+2017,Texas,Unknown Fuel,194300,Historical
+2017,Utah,EV,3600,Historical
+2017,Utah,PHEV,2500,Historical
+2017,Utah,HEV,36700,Historical
+2017,Utah,Biodiesel,0,Historical
+2017,Utah,E85,192600,Historical
+2017,Utah,CNG,10100,Historical
+2017,Utah,Propane,0,Historical
+2017,Utah,Hydrogen,0,Historical
+2017,Utah,Methanol,0,Historical
+2017,Utah,Gasoline,2136000,Historical
+2017,Utah,Diesel,161000,Historical
+2017,Utah,Unknown Fuel,36200,Historical
+2017,Vermont,EV,700,Historical
+2017,Vermont,PHEV,1600,Historical
+2017,Vermont,HEV,12200,Historical
+2017,Vermont,Biodiesel,0,Historical
+2017,Vermont,E85,54600,Historical
+2017,Vermont,CNG,700,Historical
+2017,Vermont,Propane,0,Historical
+2017,Vermont,Hydrogen,0,Historical
+2017,Vermont,Methanol,0,Historical
+2017,Vermont,Gasoline,518700,Historical
+2017,Vermont,Diesel,19600,Historical
+2017,Vermont,Unknown Fuel,8000,Historical
+2017,Virginia,EV,5100,Historical
+2017,Virginia,PHEV,6100,Historical
+2017,Virginia,HEV,136800,Historical
+2017,Virginia,Biodiesel,0,Historical
+2017,Virginia,E85,534100,Historical
+2017,Virginia,CNG,16500,Historical
+2017,Virginia,Propane,0,Historical
+2017,Virginia,Hydrogen,0,Historical
+2017,Virginia,Methanol,0,Historical
+2017,Virginia,Gasoline,6707400,Historical
+2017,Virginia,Diesel,173300,Historical
+2017,Virginia,Unknown Fuel,60100,Historical
+2017,Washington,EV,21000,Historical
+2017,Washington,PHEV,9800,Historical
+2017,Washington,HEV,165100,Historical
+2017,Washington,Biodiesel,0,Historical
+2017,Washington,E85,362100,Historical
+2017,Washington,CNG,23000,Historical
+2017,Washington,Propane,0,Historical
+2017,Washington,Hydrogen,0,Historical
+2017,Washington,Methanol,0,Historical
+2017,Washington,Gasoline,5557300,Historical
+2017,Washington,Diesel,287500,Historical
+2017,Washington,Unknown Fuel,119700,Historical
+2017,West Virginia,EV,100,Historical
+2017,West Virginia,PHEV,400,Historical
+2017,West Virginia,HEV,9700,Historical
+2017,West Virginia,Biodiesel,0,Historical
+2017,West Virginia,E85,164700,Historical
+2017,West Virginia,CNG,4000,Historical
+2017,West Virginia,Propane,0,Historical
+2017,West Virginia,Hydrogen,0,Historical
+2017,West Virginia,Methanol,0,Historical
+2017,West Virginia,Gasoline,1278100,Historical
+2017,West Virginia,Diesel,53800,Historical
+2017,West Virginia,Unknown Fuel,18400,Historical
+2017,Wisconsin,EV,2800,Historical
+2017,Wisconsin,PHEV,3500,Historical
+2017,Wisconsin,HEV,67100,Historical
+2017,Wisconsin,Biodiesel,0,Historical
+2017,Wisconsin,E85,648900,Historical
+2017,Wisconsin,CNG,13000,Historical
+2017,Wisconsin,Propane,0,Historical
+2017,Wisconsin,Hydrogen,0,Historical
+2017,Wisconsin,Methanol,0,Historical
+2017,Wisconsin,Gasoline,4530600,Historical
+2017,Wisconsin,Diesel,159100,Historical
+2017,Wisconsin,Unknown Fuel,49500,Historical
+2017,Wyoming,EV,100,Historical
+2017,Wyoming,PHEV,100,Historical
+2017,Wyoming,HEV,4000,Historical
+2017,Wyoming,Biodiesel,0,Historical
+2017,Wyoming,E85,68700,Historical
+2017,Wyoming,CNG,4500,Historical
+2017,Wyoming,Propane,0,Historical
+2017,Wyoming,Hydrogen,0,Historical
+2017,Wyoming,Methanol,0,Historical
+2017,Wyoming,Gasoline,448600,Historical
+2017,Wyoming,Diesel,71200,Historical
+2017,Wyoming,Unknown Fuel,21700,Historical
+2018,Alabama,EV,1300,Historical
+2018,Alabama,PHEV,1500,Historical
+2018,Alabama,HEV,31800,Historical
+2018,Alabama,Biodiesel,0,Historical
+2018,Alabama,E85,509500,Historical
+2018,Alabama,CNG,17000,Historical
+2018,Alabama,Propane,0,Historical
+2018,Alabama,Hydrogen,0,Historical
+2018,Alabama,Methanol,0,Historical
+2018,Alabama,Gasoline,3733700,Historical
+2018,Alabama,Diesel,135900,Historical
+2018,Alabama,Unknown Fuel,46000,Historical
+2018,Alaska,EV,500,Historical
+2018,Alaska,PHEV,300,Historical
+2018,Alaska,HEV,5400,Historical
+2018,Alaska,Biodiesel,0,Historical
+2018,Alaska,E85,62000,Historical
+2018,Alaska,CNG,3700,Historical
+2018,Alaska,Propane,0,Historical
+2018,Alaska,Hydrogen,0,Historical
+2018,Alaska,Methanol,0,Historical
+2018,Alaska,Gasoline,484900,Historical
+2018,Alaska,Diesel,41000,Historical
+2018,Alaska,Unknown Fuel,16100,Historical
+2018,Arizona,EV,12600,Historical
+2018,Arizona,PHEV,7700,Historical
+2018,Arizona,HEV,102000,Historical
+2018,Arizona,Biodiesel,0,Historical
+2018,Arizona,E85,533600,Historical
+2018,Arizona,CNG,15500,Historical
+2018,Arizona,Propane,0,Historical
+2018,Arizona,Hydrogen,0,Historical
+2018,Arizona,Methanol,0,Historical
+2018,Arizona,Gasoline,5061900,Historical
+2018,Arizona,Diesel,196300,Historical
+2018,Arizona,Unknown Fuel,103700,Historical
+2018,Arkansas,EV,600,Historical
+2018,Arkansas,PHEV,800,Historical
+2018,Arkansas,HEV,20300,Historical
+2018,Arkansas,Biodiesel,0,Historical
+2018,Arkansas,E85,370600,Historical
+2018,Arkansas,CNG,9200,Historical
+2018,Arkansas,Propane,0,Historical
+2018,Arkansas,Hydrogen,0,Historical
+2018,Arkansas,Methanol,0,Historical
+2018,Arkansas,Gasoline,2070200,Historical
+2018,Arkansas,Diesel,101700,Historical
+2018,Arkansas,Unknown Fuel,18100,Historical
+2018,California,EV,273500,Historical
+2018,California,PHEV,215000,Historical
+2018,California,HEV,1085300,Historical
+2018,California,Biodiesel,0,Historical
+2018,California,E85,1615200,Historical
+2018,California,CNG,77700,Historical
+2018,California,Propane,0,Historical
+2018,California,Hydrogen,9400,Historical
+2018,California,Methanol,300,Historical
+2018,California,Gasoline,28646700,Historical
+2018,California,Diesel,761600,Historical
+2018,California,Unknown Fuel,129800,Historical
+2018,Colorado,EV,12500,Historical
+2018,Colorado,PHEV,7400,Historical
+2018,Colorado,HEV,84700,Historical
+2018,Colorado,Biodiesel,0,Historical
+2018,Colorado,E85,420500,Historical
+2018,Colorado,CNG,13500,Historical
+2018,Colorado,Propane,0,Historical
+2018,Colorado,Hydrogen,0,Historical
+2018,Colorado,Methanol,0,Historical
+2018,Colorado,Gasoline,4278900,Historical
+2018,Colorado,Diesel,236200,Historical
+2018,Colorado,Unknown Fuel,78200,Historical
+2018,Connecticut,EV,5000,Historical
+2018,Connecticut,PHEV,5200,Historical
+2018,Connecticut,HEV,45100,Historical
+2018,Connecticut,Biodiesel,0,Historical
+2018,Connecticut,E85,188100,Historical
+2018,Connecticut,CNG,2500,Historical
+2018,Connecticut,Propane,0,Historical
+2018,Connecticut,Hydrogen,0,Historical
+2018,Connecticut,Methanol,0,Historical
+2018,Connecticut,Gasoline,2643300,Historical
+2018,Connecticut,Diesel,54000,Historical
+2018,Connecticut,Unknown Fuel,28200,Historical
+2018,Delaware,EV,800,Historical
+2018,Delaware,PHEV,1200,Historical
+2018,Delaware,HEV,12300,Historical
+2018,Delaware,Biodiesel,0,Historical
+2018,Delaware,E85,80700,Historical
+2018,Delaware,CNG,1200,Historical
+2018,Delaware,Propane,0,Historical
+2018,Delaware,Hydrogen,0,Historical
+2018,Delaware,Methanol,0,Historical
+2018,Delaware,Gasoline,758500,Historical
+2018,Delaware,Diesel,17000,Historical
+2018,Delaware,Unknown Fuel,6900,Historical
+2018,District of Columbia,EV,1100,Historical
+2018,District of Columbia,PHEV,1000,Historical
+2018,District of Columbia,HEV,13900,Historical
+2018,District of Columbia,Biodiesel,0,Historical
+2018,District of Columbia,E85,23500,Historical
+2018,District of Columbia,CNG,200,Historical
+2018,District of Columbia,Propane,0,Historical
+2018,District of Columbia,Hydrogen,0,Historical
+2018,District of Columbia,Methanol,0,Historical
+2018,District of Columbia,Gasoline,291000,Historical
+2018,District of Columbia,Diesel,2600,Historical
+2018,District of Columbia,Unknown Fuel,1100,Historical
+2018,Florida,EV,27400,Historical
+2018,Florida,PHEV,17400,Historical
+2018,Florida,HEV,226900,Historical
+2018,Florida,Biodiesel,0,Historical
+2018,Florida,E85,1423900,Historical
+2018,Florida,CNG,15500,Historical
+2018,Florida,Propane,0,Historical
+2018,Florida,Hydrogen,0,Historical
+2018,Florida,Methanol,0,Historical
+2018,Florida,Gasoline,14541500,Historical
+2018,Florida,Diesel,386500,Historical
+2018,Florida,Unknown Fuel,135600,Historical
+2018,Georgia,EV,15900,Historical
+2018,Georgia,PHEV,7000,Historical
+2018,Georgia,HEV,97100,Historical
+2018,Georgia,Biodiesel,0,Historical
+2018,Georgia,E85,852500,Historical
+2018,Georgia,CNG,23400,Historical
+2018,Georgia,Propane,0,Historical
+2018,Georgia,Hydrogen,0,Historical
+2018,Georgia,Methanol,0,Historical
+2018,Georgia,Gasoline,7500000,Historical
+2018,Georgia,Diesel,230100,Historical
+2018,Georgia,Unknown Fuel,104100,Historical
+2018,Hawaii,EV,6600,Historical
+2018,Hawaii,PHEV,2400,Historical
+2018,Hawaii,HEV,24800,Historical
+2018,Hawaii,Biodiesel,0,Historical
+2018,Hawaii,E85,52100,Historical
+2018,Hawaii,CNG,1100,Historical
+2018,Hawaii,Propane,0,Historical
+2018,Hawaii,Hydrogen,0,Historical
+2018,Hawaii,Methanol,0,Historical
+2018,Hawaii,Gasoline,969000,Historical
+2018,Hawaii,Diesel,17800,Historical
+2018,Hawaii,Unknown Fuel,6900,Historical
+2018,Idaho,EV,1100,Historical
+2018,Idaho,PHEV,1100,Historical
+2018,Idaho,HEV,19600,Historical
+2018,Idaho,Biodiesel,0,Historical
+2018,Idaho,E85,136900,Historical
+2018,Idaho,CNG,11200,Historical
+2018,Idaho,Propane,0,Historical
+2018,Idaho,Hydrogen,0,Historical
+2018,Idaho,Methanol,0,Historical
+2018,Idaho,Gasoline,1426000,Historical
+2018,Idaho,Diesel,138400,Historical
+2018,Idaho,Unknown Fuel,26300,Historical
+2018,Illinois,EV,13600,Historical
+2018,Illinois,PHEV,9900,Historical
+2018,Illinois,HEV,163800,Historical
+2018,Illinois,Biodiesel,0,Historical
+2018,Illinois,E85,1110700,Historical
+2018,Illinois,CNG,14800,Historical
+2018,Illinois,Propane,0,Historical
+2018,Illinois,Hydrogen,0,Historical
+2018,Illinois,Methanol,0,Historical
+2018,Illinois,Gasoline,8631200,Historical
+2018,Illinois,Diesel,200800,Historical
+2018,Illinois,Unknown Fuel,89600,Historical
+2018,Indiana,EV,3400,Historical
+2018,Indiana,PHEV,4100,Historical
+2018,Indiana,HEV,64000,Historical
+2018,Indiana,Biodiesel,0,Historical
+2018,Indiana,E85,698200,Historical
+2018,Indiana,CNG,16100,Historical
+2018,Indiana,Propane,0,Historical
+2018,Indiana,Hydrogen,0,Historical
+2018,Indiana,Methanol,0,Historical
+2018,Indiana,Gasoline,4881200,Historical
+2018,Indiana,Diesel,168300,Historical
+2018,Indiana,Unknown Fuel,73400,Historical
+2018,Iowa,EV,1100,Historical
+2018,Iowa,PHEV,2000,Historical
+2018,Iowa,HEV,30700,Historical
+2018,Iowa,Biodiesel,0,Historical
+2018,Iowa,E85,430600,Historical
+2018,Iowa,CNG,11200,Historical
+2018,Iowa,Propane,0,Historical
+2018,Iowa,Hydrogen,0,Historical
+2018,Iowa,Methanol,0,Historical
+2018,Iowa,Gasoline,2397500,Historical
+2018,Iowa,Diesel,115300,Historical
+2018,Iowa,Unknown Fuel,72800,Historical
+2018,Kansas,EV,1700,Historical
+2018,Kansas,PHEV,1800,Historical
+2018,Kansas,HEV,29600,Historical
+2018,Kansas,Biodiesel,0,Historical
+2018,Kansas,E85,295700,Historical
+2018,Kansas,CNG,12100,Historical
+2018,Kansas,Propane,0,Historical
+2018,Kansas,Hydrogen,0,Historical
+2018,Kansas,Methanol,0,Historical
+2018,Kansas,Gasoline,2087000,Historical
+2018,Kansas,Diesel,94500,Historical
+2018,Kansas,Unknown Fuel,32400,Historical
+2018,Kentucky,EV,1200,Historical
+2018,Kentucky,PHEV,1500,Historical
+2018,Kentucky,HEV,35800,Historical
+2018,Kentucky,Biodiesel,0,Historical
+2018,Kentucky,E85,414300,Historical
+2018,Kentucky,CNG,13200,Historical
+2018,Kentucky,Propane,0,Historical
+2018,Kentucky,Hydrogen,0,Historical
+2018,Kentucky,Methanol,0,Historical
+2018,Kentucky,Gasoline,3308700,Historical
+2018,Kentucky,Diesel,123600,Historical
+2018,Kentucky,Unknown Fuel,41100,Historical
+2018,Louisiana,EV,900,Historical
+2018,Louisiana,PHEV,900,Historical
+2018,Louisiana,HEV,19000,Historical
+2018,Louisiana,Biodiesel,0,Historical
+2018,Louisiana,E85,539200,Historical
+2018,Louisiana,CNG,9500,Historical
+2018,Louisiana,Propane,0,Historical
+2018,Louisiana,Hydrogen,0,Historical
+2018,Louisiana,Methanol,0,Historical
+2018,Louisiana,Gasoline,3034700,Historical
+2018,Louisiana,Diesel,158400,Historical
+2018,Louisiana,Unknown Fuel,32200,Historical
+2018,Maine,EV,800,Historical
+2018,Maine,PHEV,1800,Historical
+2018,Maine,HEV,19600,Historical
+2018,Maine,Biodiesel,0,Historical
+2018,Maine,E85,132700,Historical
+2018,Maine,CNG,1400,Historical
+2018,Maine,Propane,0,Historical
+2018,Maine,Hydrogen,0,Historical
+2018,Maine,Methanol,0,Historical
+2018,Maine,Gasoline,1006500,Historical
+2018,Maine,Diesel,31100,Historical
+2018,Maine,Unknown Fuel,11700,Historical
+2018,Maryland,EV,8400,Historical
+2018,Maryland,PHEV,8400,Historical
+2018,Maryland,HEV,95300,Historical
+2018,Maryland,Biodiesel,0,Historical
+2018,Maryland,E85,389100,Historical
+2018,Maryland,CNG,4900,Historical
+2018,Maryland,Propane,0,Historical
+2018,Maryland,Hydrogen,0,Historical
+2018,Maryland,Methanol,0,Historical
+2018,Maryland,Gasoline,4075000,Historical
+2018,Maryland,Diesel,104600,Historical
+2018,Maryland,Unknown Fuel,40700,Historical
+2018,Massachusetts,EV,10300,Historical
+2018,Massachusetts,PHEV,11600,Historical
+2018,Massachusetts,HEV,107000,Historical
+2018,Massachusetts,Biodiesel,0,Historical
+2018,Massachusetts,E85,387200,Historical
+2018,Massachusetts,CNG,2600,Historical
+2018,Massachusetts,Propane,0,Historical
+2018,Massachusetts,Hydrogen,0,Historical
+2018,Massachusetts,Methanol,0,Historical
+2018,Massachusetts,Gasoline,4667700,Historical
+2018,Massachusetts,Diesel,74200,Historical
+2018,Massachusetts,Unknown Fuel,37500,Historical
+2018,Michigan,EV,4200,Historical
+2018,Michigan,PHEV,12300,Historical
+2018,Michigan,HEV,79000,Historical
+2018,Michigan,Biodiesel,0,Historical
+2018,Michigan,E85,1351800,Historical
+2018,Michigan,CNG,15300,Historical
+2018,Michigan,Propane,0,Historical
+2018,Michigan,Hydrogen,0,Historical
+2018,Michigan,Methanol,0,Historical
+2018,Michigan,Gasoline,6879900,Historical
+2018,Michigan,Diesel,285300,Historical
+2018,Michigan,Unknown Fuel,70300,Historical
+2018,Minnesota,EV,4900,Historical
+2018,Minnesota,PHEV,4800,Historical
+2018,Minnesota,HEV,71000,Historical
+2018,Minnesota,Biodiesel,0,Historical
+2018,Minnesota,E85,660700,Historical
+2018,Minnesota,CNG,10700,Historical
+2018,Minnesota,Propane,0,Historical
+2018,Minnesota,Hydrogen,0,Historical
+2018,Minnesota,Methanol,0,Historical
+2018,Minnesota,Gasoline,4078700,Historical
+2018,Minnesota,Diesel,138800,Historical
+2018,Minnesota,Unknown Fuel,42600,Historical
+2018,Mississippi,EV,300,Historical
+2018,Mississippi,PHEV,500,Historical
+2018,Mississippi,HEV,13600,Historical
+2018,Mississippi,Biodiesel,0,Historical
+2018,Mississippi,E85,342300,Historical
+2018,Mississippi,CNG,6300,Historical
+2018,Mississippi,Propane,0,Historical
+2018,Mississippi,Hydrogen,0,Historical
+2018,Mississippi,Methanol,0,Historical
+2018,Mississippi,Gasoline,2125900,Historical
+2018,Mississippi,Diesel,89700,Historical
+2018,Mississippi,Unknown Fuel,15000,Historical
+2018,Missouri,EV,3500,Historical
+2018,Missouri,PHEV,4200,Historical
+2018,Missouri,HEV,98600,Historical
+2018,Missouri,Biodiesel,0,Historical
+2018,Missouri,E85,744500,Historical
+2018,Missouri,CNG,17800,Historical
+2018,Missouri,Propane,0,Historical
+2018,Missouri,Hydrogen,0,Historical
+2018,Missouri,Methanol,0,Historical
+2018,Missouri,Gasoline,4638300,Historical
+2018,Missouri,Diesel,212900,Historical
+2018,Missouri,Unknown Fuel,60600,Historical
+2018,Montana,EV,500,Historical
+2018,Montana,PHEV,400,Historical
+2018,Montana,HEV,10000,Historical
+2018,Montana,Biodiesel,0,Historical
+2018,Montana,E85,123700,Historical
+2018,Montana,CNG,4400,Historical
+2018,Montana,Propane,0,Historical
+2018,Montana,Hydrogen,0,Historical
+2018,Montana,Methanol,0,Historical
+2018,Montana,Gasoline,729000,Historical
+2018,Montana,Diesel,89600,Historical
+2018,Montana,Unknown Fuel,18400,Historical
+2018,Nebraska,EV,900,Historical
+2018,Nebraska,PHEV,1000,Historical
+2018,Nebraska,HEV,16800,Historical
+2018,Nebraska,Biodiesel,0,Historical
+2018,Nebraska,E85,246300,Historical
+2018,Nebraska,CNG,8400,Historical
+2018,Nebraska,Propane,0,Historical
+2018,Nebraska,Hydrogen,0,Historical
+2018,Nebraska,Methanol,0,Historical
+2018,Nebraska,Gasoline,1474400,Historical
+2018,Nebraska,Diesel,84200,Historical
+2018,Nebraska,Unknown Fuel,34000,Historical
+2018,Nevada,EV,5100,Historical
+2018,Nevada,PHEV,2900,Historical
+2018,Nevada,HEV,37300,Historical
+2018,Nevada,Biodiesel,0,Historical
+2018,Nevada,E85,171800,Historical
+2018,Nevada,CNG,6200,Historical
+2018,Nevada,Propane,0,Historical
+2018,Nevada,Hydrogen,0,Historical
+2018,Nevada,Methanol,0,Historical
+2018,Nevada,Gasoline,2005700,Historical
+2018,Nevada,Diesel,90600,Historical
+2018,Nevada,Unknown Fuel,32800,Historical
+2018,New Hampshire,EV,1200,Historical
+2018,New Hampshire,PHEV,2000,Historical
+2018,New Hampshire,HEV,20700,Historical
+2018,New Hampshire,Biodiesel,0,Historical
+2018,New Hampshire,E85,124700,Historical
+2018,New Hampshire,CNG,1400,Historical
+2018,New Hampshire,Propane,0,Historical
+2018,New Hampshire,Hydrogen,0,Historical
+2018,New Hampshire,Methanol,0,Historical
+2018,New Hampshire,Gasoline,1145600,Historical
+2018,New Hampshire,Diesel,33600,Historical
+2018,New Hampshire,Unknown Fuel,15800,Historical
+2018,New Jersey,EV,13400,Historical
+2018,New Jersey,PHEV,10800,Historical
+2018,New Jersey,HEV,89200,Historical
+2018,New Jersey,Biodiesel,0,Historical
+2018,New Jersey,E85,540100,Historical
+2018,New Jersey,CNG,3800,Historical
+2018,New Jersey,Propane,0,Historical
+2018,New Jersey,Hydrogen,0,Historical
+2018,New Jersey,Methanol,0,Historical
+2018,New Jersey,Gasoline,6333400,Historical
+2018,New Jersey,Diesel,109700,Historical
+2018,New Jersey,Unknown Fuel,50700,Historical
+2018,New Mexico,EV,1300,Historical
+2018,New Mexico,PHEV,1300,Historical
+2018,New Mexico,HEV,25000,Historical
+2018,New Mexico,Biodiesel,0,Historical
+2018,New Mexico,E85,183700,Historical
+2018,New Mexico,CNG,6900,Historical
+2018,New Mexico,Propane,0,Historical
+2018,New Mexico,Hydrogen,0,Historical
+2018,New Mexico,Methanol,0,Historical
+2018,New Mexico,Gasoline,1478700,Historical
+2018,New Mexico,Diesel,100000,Historical
+2018,New Mexico,Unknown Fuel,33500,Historical
+2018,New York,EV,15500,Historical
+2018,New York,PHEV,24300,Historical
+2018,New York,HEV,173200,Historical
+2018,New York,Biodiesel,0,Historical
+2018,New York,E85,1003900,Historical
+2018,New York,CNG,7800,Historical
+2018,New York,Propane,0,Historical
+2018,New York,Hydrogen,0,Historical
+2018,New York,Methanol,0,Historical
+2018,New York,Gasoline,9967300,Historical
+2018,New York,Diesel,184600,Historical
+2018,New York,Unknown Fuel,107000,Historical
+2018,North Carolina,EV,7300,Historical
+2018,North Carolina,PHEV,6500,Historical
+2018,North Carolina,HEV,119400,Historical
+2018,North Carolina,Biodiesel,0,Historical
+2018,North Carolina,E85,791100,Historical
+2018,North Carolina,CNG,22300,Historical
+2018,North Carolina,Propane,0,Historical
+2018,North Carolina,Hydrogen,0,Historical
+2018,North Carolina,Methanol,0,Historical
+2018,North Carolina,Gasoline,7205800,Historical
+2018,North Carolina,Diesel,229300,Historical
+2018,North Carolina,Unknown Fuel,99200,Historical
+2018,North Dakota,EV,100,Historical
+2018,North Dakota,PHEV,200,Historical
+2018,North Dakota,HEV,3700,Historical
+2018,North Dakota,Biodiesel,0,Historical
+2018,North Dakota,E85,133300,Historical
+2018,North Dakota,CNG,4300,Historical
+2018,North Dakota,Propane,0,Historical
+2018,North Dakota,Hydrogen,0,Historical
+2018,North Dakota,Methanol,0,Historical
+2018,North Dakota,Gasoline,560300,Historical
+2018,North Dakota,Diesel,54700,Historical
+2018,North Dakota,Unknown Fuel,15900,Historical
+2018,Ohio,EV,6400,Historical
+2018,Ohio,PHEV,7200,Historical
+2018,Ohio,HEV,104900,Historical
+2018,Ohio,Biodiesel,0,Historical
+2018,Ohio,E85,1075400,Historical
+2018,Ohio,CNG,17600,Historical
+2018,Ohio,Propane,0,Historical
+2018,Ohio,Hydrogen,0,Historical
+2018,Ohio,Methanol,0,Historical
+2018,Ohio,Gasoline,8725900,Historical
+2018,Ohio,Diesel,220800,Historical
+2018,Ohio,Unknown Fuel,96000,Historical
+2018,Oklahoma,EV,3700,Historical
+2018,Oklahoma,PHEV,1300,Historical
+2018,Oklahoma,HEV,27800,Historical
+2018,Oklahoma,Biodiesel,0,Historical
+2018,Oklahoma,E85,629100,Historical
+2018,Oklahoma,CNG,17100,Historical
+2018,Oklahoma,Propane,0,Historical
+2018,Oklahoma,Hydrogen,0,Historical
+2018,Oklahoma,Methanol,0,Historical
+2018,Oklahoma,Gasoline,3204200,Historical
+2018,Oklahoma,Diesel,178300,Historical
+2018,Oklahoma,Unknown Fuel,64500,Historical
+2018,Oregon,EV,13800,Historical
+2018,Oregon,PHEV,8400,Historical
+2018,Oregon,HEV,96300,Historical
+2018,Oregon,Biodiesel,0,Historical
+2018,Oregon,E85,210600,Historical
+2018,Oregon,CNG,13500,Historical
+2018,Oregon,Propane,0,Historical
+2018,Oregon,Hydrogen,0,Historical
+2018,Oregon,Methanol,0,Historical
+2018,Oregon,Gasoline,3177400,Historical
+2018,Oregon,Diesel,238000,Historical
+2018,Oregon,Unknown Fuel,85700,Historical
+2018,Pennsylvania,EV,8000,Historical
+2018,Pennsylvania,PHEV,9500,Historical
+2018,Pennsylvania,HEV,114800,Historical
+2018,Pennsylvania,Biodiesel,0,Historical
+2018,Pennsylvania,E85,893300,Historical
+2018,Pennsylvania,CNG,11900,Historical
+2018,Pennsylvania,Propane,0,Historical
+2018,Pennsylvania,Hydrogen,0,Historical
+2018,Pennsylvania,Methanol,0,Historical
+2018,Pennsylvania,Gasoline,8661000,Historical
+2018,Pennsylvania,Diesel,227000,Historical
+2018,Pennsylvania,Unknown Fuel,77500,Historical
+2018,Rhode Island,EV,700,Historical
+2018,Rhode Island,PHEV,1200,Historical
+2018,Rhode Island,HEV,12400,Historical
+2018,Rhode Island,Biodiesel,0,Historical
+2018,Rhode Island,E85,55500,Historical
+2018,Rhode Island,CNG,600,Historical
+2018,Rhode Island,Propane,0,Historical
+2018,Rhode Island,Hydrogen,0,Historical
+2018,Rhode Island,Methanol,0,Historical
+2018,Rhode Island,Gasoline,792000,Historical
+2018,Rhode Island,Diesel,13200,Historical
+2018,Rhode Island,Unknown Fuel,7800,Historical
+2018,South Carolina,EV,2000,Historical
+2018,South Carolina,PHEV,2200,Historical
+2018,South Carolina,HEV,43800,Historical
+2018,South Carolina,Biodiesel,0,Historical
+2018,South Carolina,E85,462200,Historical
+2018,South Carolina,CNG,14100,Historical
+2018,South Carolina,Propane,0,Historical
+2018,South Carolina,Hydrogen,0,Historical
+2018,South Carolina,Methanol,0,Historical
+2018,South Carolina,Gasoline,3906000,Historical
+2018,South Carolina,Diesel,112500,Historical
+2018,South Carolina,Unknown Fuel,61700,Historical
+2018,South Dakota,EV,200,Historical
+2018,South Dakota,PHEV,300,Historical
+2018,South Dakota,HEV,6300,Historical
+2018,South Dakota,Biodiesel,0,Historical
+2018,South Dakota,E85,135300,Historical
+2018,South Dakota,CNG,5000,Historical
+2018,South Dakota,Propane,0,Historical
+2018,South Dakota,Hydrogen,0,Historical
+2018,South Dakota,Methanol,0,Historical
+2018,South Dakota,Gasoline,689100,Historical
+2018,South Dakota,Diesel,62000,Historical
+2018,South Dakota,Unknown Fuel,21600,Historical
+2018,Tennessee,EV,3900,Historical
+2018,Tennessee,PHEV,2900,Historical
+2018,Tennessee,HEV,59200,Historical
+2018,Tennessee,Biodiesel,0,Historical
+2018,Tennessee,E85,567600,Historical
+2018,Tennessee,CNG,19100,Historical
+2018,Tennessee,Propane,0,Historical
+2018,Tennessee,Hydrogen,0,Historical
+2018,Tennessee,Methanol,0,Historical
+2018,Tennessee,Gasoline,5059400,Historical
+2018,Tennessee,Diesel,164100,Historical
+2018,Tennessee,Unknown Fuel,55600,Historical
+2018,Texas,EV,24500,Historical
+2018,Texas,PHEV,14700,Historical
+2018,Texas,HEV,227700,Historical
+2018,Texas,Biodiesel,0,Historical
+2018,Texas,E85,3005900,Historical
+2018,Texas,CNG,51300,Historical
+2018,Texas,Propane,0,Historical
+2018,Texas,Hydrogen,0,Historical
+2018,Texas,Methanol,0,Historical
+2018,Texas,Gasoline,18453800,Historical
+2018,Texas,Diesel,1019300,Historical
+2018,Texas,Unknown Fuel,175300,Historical
+2018,Utah,EV,5600,Historical
+2018,Utah,PHEV,3400,Historical
+2018,Utah,HEV,40900,Historical
+2018,Utah,Biodiesel,0,Historical
+2018,Utah,E85,214100,Historical
+2018,Utah,CNG,9700,Historical
+2018,Utah,Propane,0,Historical
+2018,Utah,Hydrogen,0,Historical
+2018,Utah,Methanol,0,Historical
+2018,Utah,Gasoline,2221100,Historical
+2018,Utah,Diesel,173700,Historical
+2018,Utah,Unknown Fuel,36600,Historical
+2018,Vermont,EV,1100,Historical
+2018,Vermont,PHEV,2000,Historical
+2018,Vermont,HEV,12600,Historical
+2018,Vermont,Biodiesel,0,Historical
+2018,Vermont,E85,57500,Historical
+2018,Vermont,CNG,600,Historical
+2018,Vermont,Propane,0,Historical
+2018,Vermont,Hydrogen,0,Historical
+2018,Vermont,Methanol,0,Historical
+2018,Vermont,Gasoline,513600,Historical
+2018,Vermont,Diesel,19100,Historical
+2018,Vermont,Unknown Fuel,7700,Historical
+2018,Virginia,EV,9900,Historical
+2018,Virginia,PHEV,8100,Historical
+2018,Virginia,HEV,141300,Historical
+2018,Virginia,Biodiesel,0,Historical
+2018,Virginia,E85,569100,Historical
+2018,Virginia,CNG,15100,Historical
+2018,Virginia,Propane,0,Historical
+2018,Virginia,Hydrogen,0,Historical
+2018,Virginia,Methanol,0,Historical
+2018,Virginia,Gasoline,6721800,Historical
+2018,Virginia,Diesel,173400,Historical
+2018,Virginia,Unknown Fuel,55800,Historical
+2018,Washington,EV,30200,Historical
+2018,Washington,PHEV,13700,Historical
+2018,Washington,HEV,177800,Historical
+2018,Washington,Biodiesel,0,Historical
+2018,Washington,E85,387400,Historical
+2018,Washington,CNG,21400,Historical
+2018,Washington,Propane,0,Historical
+2018,Washington,Hydrogen,0,Historical
+2018,Washington,Methanol,0,Historical
+2018,Washington,Gasoline,5608000,Historical
+2018,Washington,Diesel,295400,Historical
+2018,Washington,Unknown Fuel,110600,Historical
+2018,West Virginia,EV,200,Historical
+2018,West Virginia,PHEV,500,Historical
+2018,West Virginia,HEV,10100,Historical
+2018,West Virginia,Biodiesel,0,Historical
+2018,West Virginia,E85,172900,Historical
+2018,West Virginia,CNG,3500,Historical
+2018,West Virginia,Propane,0,Historical
+2018,West Virginia,Hydrogen,0,Historical
+2018,West Virginia,Methanol,0,Historical
+2018,West Virginia,Gasoline,1256800,Historical
+2018,West Virginia,Diesel,54700,Historical
+2018,West Virginia,Unknown Fuel,16500,Historical
+2018,Wisconsin,EV,3700,Historical
+2018,Wisconsin,PHEV,4500,Historical
+2018,Wisconsin,HEV,70900,Historical
+2018,Wisconsin,Biodiesel,0,Historical
+2018,Wisconsin,E85,696300,Historical
+2018,Wisconsin,CNG,11400,Historical
+2018,Wisconsin,Propane,0,Historical
+2018,Wisconsin,Hydrogen,0,Historical
+2018,Wisconsin,Methanol,0,Historical
+2018,Wisconsin,Gasoline,4515800,Historical
+2018,Wisconsin,Diesel,162500,Historical
+2018,Wisconsin,Unknown Fuel,47100,Historical
+2018,Wyoming,EV,200,Historical
+2018,Wyoming,PHEV,200,Historical
+2018,Wyoming,HEV,4100,Historical
+2018,Wyoming,Biodiesel,0,Historical
+2018,Wyoming,E85,71500,Historical
+2018,Wyoming,CNG,4200,Historical
+2018,Wyoming,Propane,0,Historical
+2018,Wyoming,Hydrogen,0,Historical
+2018,Wyoming,Methanol,0,Historical
+2018,Wyoming,Gasoline,450100,Historical
+2018,Wyoming,Diesel,72900,Historical
+2018,Wyoming,Unknown Fuel,20400,Historical
+2019,Alabama,EV,2000,Historical
+2019,Alabama,PHEV,1800,Historical
+2019,Alabama,HEV,33700,Historical
+2019,Alabama,Biodiesel,0,Historical
+2019,Alabama,E85,543900,Historical
+2019,Alabama,CNG,15900,Historical
+2019,Alabama,Propane,0,Historical
+2019,Alabama,Hydrogen,0,Historical
+2019,Alabama,Methanol,0,Historical
+2019,Alabama,Gasoline,3806700,Historical
+2019,Alabama,Diesel,144900,Historical
+2019,Alabama,Unknown Fuel,44300,Historical
+2019,Alaska,EV,700,Historical
+2019,Alaska,PHEV,400,Historical
+2019,Alaska,HEV,5800,Historical
+2019,Alaska,Biodiesel,0,Historical
+2019,Alaska,E85,64000,Historical
+2019,Alaska,CNG,3200,Historical
+2019,Alaska,Propane,0,Historical
+2019,Alaska,Hydrogen,0,Historical
+2019,Alaska,Methanol,0,Historical
+2019,Alaska,Gasoline,473700,Historical
+2019,Alaska,Diesel,40100,Historical
+2019,Alaska,Unknown Fuel,14600,Historical
+2019,Arizona,EV,19500,Historical
+2019,Arizona,PHEV,9600,Historical
+2019,Arizona,HEV,108100,Historical
+2019,Arizona,Biodiesel,0,Historical
+2019,Arizona,E85,571500,Historical
+2019,Arizona,CNG,14300,Historical
+2019,Arizona,Propane,0,Historical
+2019,Arizona,Hydrogen,0,Historical
+2019,Arizona,Methanol,0,Historical
+2019,Arizona,Gasoline,5186900,Historical
+2019,Arizona,Diesel,208800,Historical
+2019,Arizona,Unknown Fuel,99000,Historical
+2019,Arkansas,EV,900,Historical
+2019,Arkansas,PHEV,1000,Historical
+2019,Arkansas,HEV,21100,Historical
+2019,Arkansas,Biodiesel,0,Historical
+2019,Arkansas,E85,383000,Historical
+2019,Arkansas,CNG,8000,Historical
+2019,Arkansas,Propane,0,Historical
+2019,Arkansas,Hydrogen,0,Historical
+2019,Arkansas,Methanol,0,Historical
+2019,Arkansas,Gasoline,2059000,Historical
+2019,Arkansas,Diesel,105200,Historical
+2019,Arkansas,Unknown Fuel,16700,Historical
+2019,California,EV,349700,Historical
+2019,California,PHEV,247300,Historical
+2019,California,HEV,1154200,Historical
+2019,California,Biodiesel,0,Historical
+2019,California,E85,1698700,Historical
+2019,California,CNG,76200,Historical
+2019,California,Propane,0,Historical
+2019,California,Hydrogen,12700,Historical
+2019,California,Methanol,300,Historical
+2019,California,Gasoline,29210100,Historical
+2019,California,Diesel,785800,Historical
+2019,California,Unknown Fuel,136900,Historical
+2019,Colorado,EV,19200,Historical
+2019,Colorado,PHEV,9300,Historical
+2019,Colorado,HEV,92400,Historical
+2019,Colorado,Biodiesel,0,Historical
+2019,Colorado,E85,447700,Historical
+2019,Colorado,CNG,12600,Historical
+2019,Colorado,Propane,0,Historical
+2019,Colorado,Hydrogen,0,Historical
+2019,Colorado,Methanol,0,Historical
+2019,Colorado,Gasoline,4347900,Historical
+2019,Colorado,Diesel,246700,Historical
+2019,Colorado,Unknown Fuel,73600,Historical
+2019,Connecticut,EV,6900,Historical
+2019,Connecticut,PHEV,5700,Historical
+2019,Connecticut,HEV,47400,Historical
+2019,Connecticut,Biodiesel,0,Historical
+2019,Connecticut,E85,196800,Historical
+2019,Connecticut,CNG,2300,Historical
+2019,Connecticut,Propane,0,Historical
+2019,Connecticut,Hydrogen,0,Historical
+2019,Connecticut,Methanol,0,Historical
+2019,Connecticut,Gasoline,2632800,Historical
+2019,Connecticut,Diesel,53100,Historical
+2019,Connecticut,Unknown Fuel,27700,Historical
+2019,Delaware,EV,1300,Historical
+2019,Delaware,PHEV,1300,Historical
+2019,Delaware,HEV,13200,Historical
+2019,Delaware,Biodiesel,0,Historical
+2019,Delaware,E85,85500,Historical
+2019,Delaware,CNG,1000,Historical
+2019,Delaware,Propane,0,Historical
+2019,Delaware,Hydrogen,0,Historical
+2019,Delaware,Methanol,0,Historical
+2019,Delaware,Gasoline,768600,Historical
+2019,Delaware,Diesel,17200,Historical
+2019,Delaware,Unknown Fuel,6800,Historical
+2019,District of Columbia,EV,1800,Historical
+2019,District of Columbia,PHEV,1300,Historical
+2019,District of Columbia,HEV,13700,Historical
+2019,District of Columbia,Biodiesel,0,Historical
+2019,District of Columbia,E85,22500,Historical
+2019,District of Columbia,CNG,200,Historical
+2019,District of Columbia,Propane,0,Historical
+2019,District of Columbia,Hydrogen,0,Historical
+2019,District of Columbia,Methanol,0,Historical
+2019,District of Columbia,Gasoline,286300,Historical
+2019,District of Columbia,Diesel,2400,Historical
+2019,District of Columbia,Unknown Fuel,1100,Historical
+2019,Florida,EV,40300,Historical
+2019,Florida,PHEV,20400,Historical
+2019,Florida,HEV,235300,Historical
+2019,Florida,Biodiesel,0,Historical
+2019,Florida,E85,1486600,Historical
+2019,Florida,CNG,14200,Historical
+2019,Florida,Propane,0,Historical
+2019,Florida,Hydrogen,0,Historical
+2019,Florida,Methanol,0,Historical
+2019,Florida,Gasoline,14726700,Historical
+2019,Florida,Diesel,408500,Historical
+2019,Florida,Unknown Fuel,139200,Historical
+2019,Georgia,EV,19000,Historical
+2019,Georgia,PHEV,8400,Historical
+2019,Georgia,HEV,101800,Historical
+2019,Georgia,Biodiesel,0,Historical
+2019,Georgia,E85,890400,Historical
+2019,Georgia,CNG,22000,Historical
+2019,Georgia,Propane,0,Historical
+2019,Georgia,Hydrogen,0,Historical
+2019,Georgia,Methanol,0,Historical
+2019,Georgia,Gasoline,7552700,Historical
+2019,Georgia,Diesel,237500,Historical
+2019,Georgia,Unknown Fuel,101800,Historical
+2019,Hawaii,EV,8800,Historical
+2019,Hawaii,PHEV,2900,Historical
+2019,Hawaii,HEV,25800,Historical
+2019,Hawaii,Biodiesel,0,Historical
+2019,Hawaii,E85,55600,Historical
+2019,Hawaii,CNG,1000,Historical
+2019,Hawaii,Propane,0,Historical
+2019,Hawaii,Hydrogen,0,Historical
+2019,Hawaii,Methanol,0,Historical
+2019,Hawaii,Gasoline,970900,Historical
+2019,Hawaii,Diesel,17900,Historical
+2019,Hawaii,Unknown Fuel,6800,Historical
+2019,Idaho,EV,1600,Historical
+2019,Idaho,PHEV,1500,Historical
+2019,Idaho,HEV,21900,Historical
+2019,Idaho,Biodiesel,0,Historical
+2019,Idaho,E85,148600,Historical
+2019,Idaho,CNG,10500,Historical
+2019,Idaho,Propane,0,Historical
+2019,Idaho,Hydrogen,0,Historical
+2019,Idaho,Methanol,0,Historical
+2019,Idaho,Gasoline,1453500,Historical
+2019,Idaho,Diesel,147200,Historical
+2019,Idaho,Unknown Fuel,25500,Historical
+2019,Illinois,EV,19300,Historical
+2019,Illinois,PHEV,11600,Historical
+2019,Illinois,HEV,177300,Historical
+2019,Illinois,Biodiesel,0,Historical
+2019,Illinois,E85,1153600,Historical
+2019,Illinois,CNG,13400,Historical
+2019,Illinois,Propane,0,Historical
+2019,Illinois,Hydrogen,0,Historical
+2019,Illinois,Methanol,0,Historical
+2019,Illinois,Gasoline,8665900,Historical
+2019,Illinois,Diesel,209000,Historical
+2019,Illinois,Unknown Fuel,98000,Historical
+2019,Indiana,EV,5100,Historical
+2019,Indiana,PHEV,4700,Historical
+2019,Indiana,HEV,68900,Historical
+2019,Indiana,Biodiesel,0,Historical
+2019,Indiana,E85,745100,Historical
+2019,Indiana,CNG,14500,Historical
+2019,Indiana,Propane,0,Historical
+2019,Indiana,Hydrogen,0,Historical
+2019,Indiana,Methanol,0,Historical
+2019,Indiana,Gasoline,4887900,Historical
+2019,Indiana,Diesel,175900,Historical
+2019,Indiana,Unknown Fuel,70700,Historical
+2019,Iowa,EV,1600,Historical
+2019,Iowa,PHEV,2400,Historical
+2019,Iowa,HEV,33100,Historical
+2019,Iowa,Biodiesel,0,Historical
+2019,Iowa,E85,448900,Historical
+2019,Iowa,CNG,10200,Historical
+2019,Iowa,Propane,0,Historical
+2019,Iowa,Hydrogen,0,Historical
+2019,Iowa,Methanol,0,Historical
+2019,Iowa,Gasoline,2397900,Historical
+2019,Iowa,Diesel,120300,Historical
+2019,Iowa,Unknown Fuel,71000,Historical
+2019,Kansas,EV,2300,Historical
+2019,Kansas,PHEV,2100,Historical
+2019,Kansas,HEV,31700,Historical
+2019,Kansas,Biodiesel,0,Historical
+2019,Kansas,E85,313500,Historical
+2019,Kansas,CNG,11300,Historical
+2019,Kansas,Propane,0,Historical
+2019,Kansas,Hydrogen,0,Historical
+2019,Kansas,Methanol,0,Historical
+2019,Kansas,Gasoline,2094100,Historical
+2019,Kansas,Diesel,98800,Historical
+2019,Kansas,Unknown Fuel,29500,Historical
+2019,Kentucky,EV,1900,Historical
+2019,Kentucky,PHEV,1800,Historical
+2019,Kentucky,HEV,38000,Historical
+2019,Kentucky,Biodiesel,0,Historical
+2019,Kentucky,E85,442000,Historical
+2019,Kentucky,CNG,12000,Historical
+2019,Kentucky,Propane,0,Historical
+2019,Kentucky,Hydrogen,0,Historical
+2019,Kentucky,Methanol,0,Historical
+2019,Kentucky,Gasoline,3309900,Historical
+2019,Kentucky,Diesel,129100,Historical
+2019,Kentucky,Unknown Fuel,38900,Historical
+2019,Louisiana,EV,1400,Historical
+2019,Louisiana,PHEV,1000,Historical
+2019,Louisiana,HEV,19800,Historical
+2019,Louisiana,Biodiesel,0,Historical
+2019,Louisiana,E85,554400,Historical
+2019,Louisiana,CNG,8500,Historical
+2019,Louisiana,Propane,0,Historical
+2019,Louisiana,Hydrogen,0,Historical
+2019,Louisiana,Methanol,0,Historical
+2019,Louisiana,Gasoline,3030400,Historical
+2019,Louisiana,Diesel,162300,Historical
+2019,Louisiana,Unknown Fuel,30800,Historical
+2019,Maine,EV,1300,Historical
+2019,Maine,PHEV,2200,Historical
+2019,Maine,HEV,20600,Historical
+2019,Maine,Biodiesel,0,Historical
+2019,Maine,E85,141300,Historical
+2019,Maine,CNG,1300,Historical
+2019,Maine,Propane,0,Historical
+2019,Maine,Hydrogen,0,Historical
+2019,Maine,Methanol,0,Historical
+2019,Maine,Gasoline,1002000,Historical
+2019,Maine,Diesel,32500,Historical
+2019,Maine,Unknown Fuel,11200,Historical
+2019,Maryland,EV,13200,Historical
+2019,Maryland,PHEV,10000,Historical
+2019,Maryland,HEV,100700,Historical
+2019,Maryland,Biodiesel,0,Historical
+2019,Maryland,E85,400600,Historical
+2019,Maryland,CNG,4400,Historical
+2019,Maryland,Propane,0,Historical
+2019,Maryland,Hydrogen,0,Historical
+2019,Maryland,Methanol,0,Historical
+2019,Maryland,Gasoline,4068900,Historical
+2019,Maryland,Diesel,107000,Historical
+2019,Maryland,Unknown Fuel,39400,Historical
+2019,Massachusetts,EV,14100,Historical
+2019,Massachusetts,PHEV,12900,Historical
+2019,Massachusetts,HEV,112400,Historical
+2019,Massachusetts,Biodiesel,0,Historical
+2019,Massachusetts,E85,400100,Historical
+2019,Massachusetts,CNG,2300,Historical
+2019,Massachusetts,Propane,0,Historical
+2019,Massachusetts,Hydrogen,0,Historical
+2019,Massachusetts,Methanol,0,Historical
+2019,Massachusetts,Gasoline,4613000,Historical
+2019,Massachusetts,Diesel,72600,Historical
+2019,Massachusetts,Unknown Fuel,36800,Historical
+2019,Michigan,EV,6600,Historical
+2019,Michigan,PHEV,12400,Historical
+2019,Michigan,HEV,86500,Historical
+2019,Michigan,Biodiesel,0,Historical
+2019,Michigan,E85,1353800,Historical
+2019,Michigan,CNG,13100,Historical
+2019,Michigan,Propane,0,Historical
+2019,Michigan,Hydrogen,0,Historical
+2019,Michigan,Methanol,0,Historical
+2019,Michigan,Gasoline,6786400,Historical
+2019,Michigan,Diesel,224900,Historical
+2019,Michigan,Unknown Fuel,67800,Historical
+2019,Minnesota,EV,7700,Historical
+2019,Minnesota,PHEV,5800,Historical
+2019,Minnesota,HEV,77400,Historical
+2019,Minnesota,Biodiesel,0,Historical
+2019,Minnesota,E85,704600,Historical
+2019,Minnesota,CNG,10100,Historical
+2019,Minnesota,Propane,0,Historical
+2019,Minnesota,Hydrogen,0,Historical
+2019,Minnesota,Methanol,0,Historical
+2019,Minnesota,Gasoline,4174400,Historical
+2019,Minnesota,Diesel,155100,Historical
+2019,Minnesota,Unknown Fuel,43800,Historical
+2019,Mississippi,EV,500,Historical
+2019,Mississippi,PHEV,600,Historical
+2019,Mississippi,HEV,14400,Historical
+2019,Mississippi,Biodiesel,0,Historical
+2019,Mississippi,E85,366500,Historical
+2019,Mississippi,CNG,5600,Historical
+2019,Mississippi,Propane,0,Historical
+2019,Mississippi,Hydrogen,0,Historical
+2019,Mississippi,Methanol,0,Historical
+2019,Mississippi,Gasoline,2166800,Historical
+2019,Mississippi,Diesel,95100,Historical
+2019,Mississippi,Unknown Fuel,14800,Historical
+2019,Missouri,EV,4900,Historical
+2019,Missouri,PHEV,5000,Historical
+2019,Missouri,HEV,86200,Historical
+2019,Missouri,Biodiesel,0,Historical
+2019,Missouri,E85,764500,Historical
+2019,Missouri,CNG,15900,Historical
+2019,Missouri,Propane,0,Historical
+2019,Missouri,Hydrogen,0,Historical
+2019,Missouri,Methanol,0,Historical
+2019,Missouri,Gasoline,4591200,Historical
+2019,Missouri,Diesel,219600,Historical
+2019,Missouri,Unknown Fuel,55900,Historical
+2019,Montana,EV,700,Historical
+2019,Montana,PHEV,500,Historical
+2019,Montana,HEV,10500,Historical
+2019,Montana,Biodiesel,0,Historical
+2019,Montana,E85,129000,Historical
+2019,Montana,CNG,3900,Historical
+2019,Montana,Propane,0,Historical
+2019,Montana,Hydrogen,0,Historical
+2019,Montana,Methanol,0,Historical
+2019,Montana,Gasoline,717800,Historical
+2019,Montana,Diesel,90900,Historical
+2019,Montana,Unknown Fuel,16800,Historical
+2019,Nebraska,EV,1300,Historical
+2019,Nebraska,PHEV,1100,Historical
+2019,Nebraska,HEV,18200,Historical
+2019,Nebraska,Biodiesel,0,Historical
+2019,Nebraska,E85,256900,Historical
+2019,Nebraska,CNG,7700,Historical
+2019,Nebraska,Propane,0,Historical
+2019,Nebraska,Hydrogen,0,Historical
+2019,Nebraska,Methanol,0,Historical
+2019,Nebraska,Gasoline,1476500,Historical
+2019,Nebraska,Diesel,87000,Historical
+2019,Nebraska,Unknown Fuel,32400,Historical
+2019,Nevada,EV,7900,Historical
+2019,Nevada,PHEV,3600,Historical
+2019,Nevada,HEV,40100,Historical
+2019,Nevada,Biodiesel,0,Historical
+2019,Nevada,E85,181300,Historical
+2019,Nevada,CNG,5700,Historical
+2019,Nevada,Propane,0,Historical
+2019,Nevada,Hydrogen,0,Historical
+2019,Nevada,Methanol,0,Historical
+2019,Nevada,Gasoline,2037600,Historical
+2019,Nevada,Diesel,95500,Historical
+2019,Nevada,Unknown Fuel,32000,Historical
+2019,New Hampshire,EV,1900,Historical
+2019,New Hampshire,PHEV,2200,Historical
+2019,New Hampshire,HEV,21900,Historical
+2019,New Hampshire,Biodiesel,0,Historical
+2019,New Hampshire,E85,133100,Historical
+2019,New Hampshire,CNG,1300,Historical
+2019,New Hampshire,Propane,0,Historical
+2019,New Hampshire,Hydrogen,0,Historical
+2019,New Hampshire,Methanol,0,Historical
+2019,New Hampshire,Gasoline,1156800,Historical
+2019,New Hampshire,Diesel,35000,Historical
+2019,New Hampshire,Unknown Fuel,15700,Historical
+2019,New Jersey,EV,20200,Historical
+2019,New Jersey,PHEV,11700,Historical
+2019,New Jersey,HEV,99900,Historical
+2019,New Jersey,Biodiesel,0,Historical
+2019,New Jersey,E85,561100,Historical
+2019,New Jersey,CNG,3300,Historical
+2019,New Jersey,Propane,0,Historical
+2019,New Jersey,Hydrogen,0,Historical
+2019,New Jersey,Methanol,0,Historical
+2019,New Jersey,Gasoline,6384100,Historical
+2019,New Jersey,Diesel,110900,Historical
+2019,New Jersey,Unknown Fuel,51400,Historical
+2019,New Mexico,EV,1900,Historical
+2019,New Mexico,PHEV,1600,Historical
+2019,New Mexico,HEV,26800,Historical
+2019,New Mexico,Biodiesel,0,Historical
+2019,New Mexico,E85,194100,Historical
+2019,New Mexico,CNG,6400,Historical
+2019,New Mexico,Propane,0,Historical
+2019,New Mexico,Hydrogen,0,Historical
+2019,New Mexico,Methanol,0,Historical
+2019,New Mexico,Gasoline,1490400,Historical
+2019,New Mexico,Diesel,104300,Historical
+2019,New Mexico,Unknown Fuel,31600,Historical
+2019,New York,EV,23000,Historical
+2019,New York,PHEV,28000,Historical
+2019,New York,HEV,182800,Historical
+2019,New York,Biodiesel,0,Historical
+2019,New York,E85,1027800,Historical
+2019,New York,CNG,7000,Historical
+2019,New York,Propane,0,Historical
+2019,New York,Hydrogen,0,Historical
+2019,New York,Methanol,0,Historical
+2019,New York,Gasoline,9935300,Historical
+2019,New York,Diesel,186100,Historical
+2019,New York,Unknown Fuel,107200,Historical
+2019,North Carolina,EV,11600,Historical
+2019,North Carolina,PHEV,8100,Historical
+2019,North Carolina,HEV,126600,Historical
+2019,North Carolina,Biodiesel,0,Historical
+2019,North Carolina,E85,846400,Historical
+2019,North Carolina,CNG,20600,Historical
+2019,North Carolina,Propane,0,Historical
+2019,North Carolina,Hydrogen,0,Historical
+2019,North Carolina,Methanol,0,Historical
+2019,North Carolina,Gasoline,7311100,Historical
+2019,North Carolina,Diesel,242600,Historical
+2019,North Carolina,Unknown Fuel,96300,Historical
+2019,North Dakota,EV,200,Historical
+2019,North Dakota,PHEV,200,Historical
+2019,North Dakota,HEV,4000,Historical
+2019,North Dakota,Biodiesel,0,Historical
+2019,North Dakota,E85,135800,Historical
+2019,North Dakota,CNG,4000,Historical
+2019,North Dakota,Propane,0,Historical
+2019,North Dakota,Hydrogen,0,Historical
+2019,North Dakota,Methanol,0,Historical
+2019,North Dakota,Gasoline,563900,Historical
+2019,North Dakota,Diesel,56700,Historical
+2019,North Dakota,Unknown Fuel,14000,Historical
+2019,Ohio,EV,10200,Historical
+2019,Ohio,PHEV,8600,Historical
+2019,Ohio,HEV,114500,Historical
+2019,Ohio,Biodiesel,0,Historical
+2019,Ohio,E85,1127400,Historical
+2019,Ohio,CNG,15800,Historical
+2019,Ohio,Propane,0,Historical
+2019,Ohio,Hydrogen,0,Historical
+2019,Ohio,Methanol,0,Historical
+2019,Ohio,Gasoline,8735800,Historical
+2019,Ohio,Diesel,231500,Historical
+2019,Ohio,Unknown Fuel,92200,Historical
+2019,Oklahoma,EV,3400,Historical
+2019,Oklahoma,PHEV,1600,Historical
+2019,Oklahoma,HEV,28500,Historical
+2019,Oklahoma,Biodiesel,0,Historical
+2019,Oklahoma,E85,621500,Historical
+2019,Oklahoma,CNG,15700,Historical
+2019,Oklahoma,Propane,0,Historical
+2019,Oklahoma,Hydrogen,0,Historical
+2019,Oklahoma,Methanol,0,Historical
+2019,Oklahoma,Gasoline,3228200,Historical
+2019,Oklahoma,Diesel,186900,Historical
+2019,Oklahoma,Unknown Fuel,62000,Historical
+2019,Oregon,EV,18800,Historical
+2019,Oregon,PHEV,10400,Historical
+2019,Oregon,HEV,102000,Historical
+2019,Oregon,Biodiesel,0,Historical
+2019,Oregon,E85,222400,Historical
+2019,Oregon,CNG,12100,Historical
+2019,Oregon,Propane,0,Historical
+2019,Oregon,Hydrogen,0,Historical
+2019,Oregon,Methanol,0,Historical
+2019,Oregon,Gasoline,3125800,Historical
+2019,Oregon,Diesel,243500,Historical
+2019,Oregon,Unknown Fuel,80100,Historical
+2019,Pennsylvania,EV,12000,Historical
+2019,Pennsylvania,PHEV,11200,Historical
+2019,Pennsylvania,HEV,126300,Historical
+2019,Pennsylvania,Biodiesel,0,Historical
+2019,Pennsylvania,E85,931800,Historical
+2019,Pennsylvania,CNG,10500,Historical
+2019,Pennsylvania,Propane,0,Historical
+2019,Pennsylvania,Hydrogen,0,Historical
+2019,Pennsylvania,Methanol,0,Historical
+2019,Pennsylvania,Gasoline,8676900,Historical
+2019,Pennsylvania,Diesel,234000,Historical
+2019,Pennsylvania,Unknown Fuel,72900,Historical
+2019,Rhode Island,EV,1100,Historical
+2019,Rhode Island,PHEV,1300,Historical
+2019,Rhode Island,HEV,13100,Historical
+2019,Rhode Island,Biodiesel,0,Historical
+2019,Rhode Island,E85,57700,Historical
+2019,Rhode Island,CNG,500,Historical
+2019,Rhode Island,Propane,0,Historical
+2019,Rhode Island,Hydrogen,0,Historical
+2019,Rhode Island,Methanol,0,Historical
+2019,Rhode Island,Gasoline,792000,Historical
+2019,Rhode Island,Diesel,13100,Historical
+2019,Rhode Island,Unknown Fuel,7800,Historical
+2019,South Carolina,EV,3000,Historical
+2019,South Carolina,PHEV,2600,Historical
+2019,South Carolina,HEV,46500,Historical
+2019,South Carolina,Biodiesel,0,Historical
+2019,South Carolina,E85,493800,Historical
+2019,South Carolina,CNG,13000,Historical
+2019,South Carolina,Propane,0,Historical
+2019,South Carolina,Hydrogen,0,Historical
+2019,South Carolina,Methanol,0,Historical
+2019,South Carolina,Gasoline,3954600,Historical
+2019,South Carolina,Diesel,119000,Historical
+2019,South Carolina,Unknown Fuel,59600,Historical
+2019,South Dakota,EV,300,Historical
+2019,South Dakota,PHEV,400,Historical
+2019,South Dakota,HEV,6600,Historical
+2019,South Dakota,Biodiesel,0,Historical
+2019,South Dakota,E85,137000,Historical
+2019,South Dakota,CNG,4500,Historical
+2019,South Dakota,Propane,0,Historical
+2019,South Dakota,Hydrogen,0,Historical
+2019,South Dakota,Methanol,0,Historical
+2019,South Dakota,Gasoline,683200,Historical
+2019,South Dakota,Diesel,63200,Historical
+2019,South Dakota,Unknown Fuel,20000,Historical
+2019,Tennessee,EV,5700,Historical
+2019,Tennessee,PHEV,3600,Historical
+2019,Tennessee,HEV,64300,Historical
+2019,Tennessee,Biodiesel,0,Historical
+2019,Tennessee,E85,611900,Historical
+2019,Tennessee,CNG,17400,Historical
+2019,Tennessee,Propane,0,Historical
+2019,Tennessee,Hydrogen,0,Historical
+2019,Tennessee,Methanol,0,Historical
+2019,Tennessee,Gasoline,5160900,Historical
+2019,Tennessee,Diesel,172700,Historical
+2019,Tennessee,Unknown Fuel,53000,Historical
+2019,Texas,EV,38400,Historical
+2019,Texas,PHEV,18100,Historical
+2019,Texas,HEV,244600,Historical
+2019,Texas,Biodiesel,0,Historical
+2019,Texas,E85,3200700,Historical
+2019,Texas,CNG,47300,Historical
+2019,Texas,Propane,0,Historical
+2019,Texas,Hydrogen,100,Historical
+2019,Texas,Methanol,0,Historical
+2019,Texas,Gasoline,19293900,Historical
+2019,Texas,Diesel,1070200,Historical
+2019,Texas,Unknown Fuel,178000,Historical
+2019,Utah,EV,8000,Historical
+2019,Utah,PHEV,4400,Historical
+2019,Utah,HEV,45300,Historical
+2019,Utah,Biodiesel,0,Historical
+2019,Utah,E85,230100,Historical
+2019,Utah,CNG,9200,Historical
+2019,Utah,Propane,0,Historical
+2019,Utah,Hydrogen,0,Historical
+2019,Utah,Methanol,0,Historical
+2019,Utah,Gasoline,2291100,Historical
+2019,Utah,Diesel,183300,Historical
+2019,Utah,Unknown Fuel,36300,Historical
+2019,Vermont,EV,1700,Historical
+2019,Vermont,PHEV,2000,Historical
+2019,Vermont,HEV,13300,Historical
+2019,Vermont,Biodiesel,0,Historical
+2019,Vermont,E85,59100,Historical
+2019,Vermont,CNG,600,Historical
+2019,Vermont,Propane,0,Historical
+2019,Vermont,Hydrogen,0,Historical
+2019,Vermont,Methanol,0,Historical
+2019,Vermont,Gasoline,509000,Historical
+2019,Vermont,Diesel,19400,Historical
+2019,Vermont,Unknown Fuel,7400,Historical
+2019,Virginia,EV,15000,Historical
+2019,Virginia,PHEV,9800,Historical
+2019,Virginia,HEV,151000,Historical
+2019,Virginia,Biodiesel,0,Historical
+2019,Virginia,E85,603200,Historical
+2019,Virginia,CNG,13600,Historical
+2019,Virginia,Propane,0,Historical
+2019,Virginia,Hydrogen,0,Historical
+2019,Virginia,Methanol,0,Historical
+2019,Virginia,Gasoline,6750300,Historical
+2019,Virginia,Diesel,178400,Historical
+2019,Virginia,Unknown Fuel,52200,Historical
+2019,Washington,EV,40400,Historical
+2019,Washington,PHEV,16100,Historical
+2019,Washington,HEV,193400,Historical
+2019,Washington,Biodiesel,0,Historical
+2019,Washington,E85,408800,Historical
+2019,Washington,CNG,19600,Historical
+2019,Washington,Propane,0,Historical
+2019,Washington,Hydrogen,0,Historical
+2019,Washington,Methanol,0,Historical
+2019,Washington,Gasoline,5612100,Historical
+2019,Washington,Diesel,308700,Historical
+2019,Washington,Unknown Fuel,100300,Historical
+2019,West Virginia,EV,400,Historical
+2019,West Virginia,PHEV,600,Historical
+2019,West Virginia,HEV,10900,Historical
+2019,West Virginia,Biodiesel,0,Historical
+2019,West Virginia,E85,177300,Historical
+2019,West Virginia,CNG,3100,Historical
+2019,West Virginia,Propane,0,Historical
+2019,West Virginia,Hydrogen,0,Historical
+2019,West Virginia,Methanol,0,Historical
+2019,West Virginia,Gasoline,1234300,Historical
+2019,West Virginia,Diesel,56300,Historical
+2019,West Virginia,Unknown Fuel,15400,Historical
+2019,Wisconsin,EV,4700,Historical
+2019,Wisconsin,PHEV,5300,Historical
+2019,Wisconsin,HEV,76200,Historical
+2019,Wisconsin,Biodiesel,0,Historical
+2019,Wisconsin,E85,733700,Historical
+2019,Wisconsin,CNG,10100,Historical
+2019,Wisconsin,Propane,0,Historical
+2019,Wisconsin,Hydrogen,0,Historical
+2019,Wisconsin,Methanol,0,Historical
+2019,Wisconsin,Gasoline,4519800,Historical
+2019,Wisconsin,Diesel,168800,Historical
+2019,Wisconsin,Unknown Fuel,45300,Historical
+2019,Wyoming,EV,200,Historical
+2019,Wyoming,PHEV,200,Historical
+2019,Wyoming,HEV,4200,Historical
+2019,Wyoming,Biodiesel,0,Historical
+2019,Wyoming,E85,75100,Historical
+2019,Wyoming,CNG,3800,Historical
+2019,Wyoming,Propane,0,Historical
+2019,Wyoming,Hydrogen,0,Historical
+2019,Wyoming,Methanol,0,Historical
+2019,Wyoming,Gasoline,452800,Historical
+2019,Wyoming,Diesel,75400,Historical
+2019,Wyoming,Unknown Fuel,19100,Historical
+2020,Alabama,EV,2900,Historical
+2020,Alabama,PHEV,2100,Historical
+2020,Alabama,HEV,36300,Historical
+2020,Alabama,Biodiesel,0,Historical
+2020,Alabama,E85,567600,Historical
+2020,Alabama,CNG,15100,Historical
+2020,Alabama,Propane,0,Historical
+2020,Alabama,Hydrogen,0,Historical
+2020,Alabama,Methanol,0,Historical
+2020,Alabama,Gasoline,3863500,Historical
+2020,Alabama,Diesel,154100,Historical
+2020,Alabama,Unknown Fuel,41600,Historical
+2020,Alaska,EV,900,Historical
+2020,Alaska,PHEV,400,Historical
+2020,Alaska,HEV,6200,Historical
+2020,Alaska,Biodiesel,0,Historical
+2020,Alaska,E85,64000,Historical
+2020,Alaska,CNG,2700,Historical
+2020,Alaska,Propane,0,Historical
+2020,Alaska,Hydrogen,0,Historical
+2020,Alaska,Methanol,0,Historical
+2020,Alaska,Gasoline,460900,Historical
+2020,Alaska,Diesel,39600,Historical
+2020,Alaska,Unknown Fuel,11400,Historical
+2020,Arizona,EV,28800,Historical
+2020,Arizona,PHEV,11200,Historical
+2020,Arizona,HEV,115400,Historical
+2020,Arizona,Biodiesel,0,Historical
+2020,Arizona,E85,584800,Historical
+2020,Arizona,CNG,13800,Historical
+2020,Arizona,Propane,0,Historical
+2020,Arizona,Hydrogen,0,Historical
+2020,Arizona,Methanol,0,Historical
+2020,Arizona,Gasoline,5202200,Historical
+2020,Arizona,Diesel,226000,Historical
+2020,Arizona,Unknown Fuel,103400,Historical
+2020,Arkansas,EV,1300,Historical
+2020,Arkansas,PHEV,1100,Historical
+2020,Arkansas,HEV,22400,Historical
+2020,Arkansas,Biodiesel,0,Historical
+2020,Arkansas,E85,392800,Historical
+2020,Arkansas,CNG,7200,Historical
+2020,Arkansas,Propane,0,Historical
+2020,Arkansas,Hydrogen,0,Historical
+2020,Arkansas,Methanol,0,Historical
+2020,Arkansas,Gasoline,2093700,Historical
+2020,Arkansas,Diesel,111100,Historical
+2020,Arkansas,Unknown Fuel,15700,Historical
+2020,California,EV,425300,Historical
+2020,California,PHEV,265500,Historical
+2020,California,HEV,1228700,Historical
+2020,California,Biodiesel,0,Historical
+2020,California,E85,1745100,Historical
+2020,California,CNG,75300,Historical
+2020,California,Propane,0,Historical
+2020,California,Hydrogen,14000,Historical
+2020,California,Methanol,300,Historical
+2020,California,Gasoline,29642700,Historical
+2020,California,Diesel,825900,Historical
+2020,California,Unknown Fuel,116700,Historical
+2020,Colorado,EV,24700,Historical
+2020,Colorado,PHEV,10800,Historical
+2020,Colorado,HEV,96500,Historical
+2020,Colorado,Biodiesel,0,Historical
+2020,Colorado,E85,447000,Historical
+2020,Colorado,CNG,11400,Historical
+2020,Colorado,Propane,0,Historical
+2020,Colorado,Hydrogen,0,Historical
+2020,Colorado,Methanol,0,Historical
+2020,Colorado,Gasoline,4263300,Historical
+2020,Colorado,Diesel,249700,Historical
+2020,Colorado,Unknown Fuel,89600,Historical
+2020,Connecticut,EV,9000,Historical
+2020,Connecticut,PHEV,6200,Historical
+2020,Connecticut,HEV,49600,Historical
+2020,Connecticut,Biodiesel,0,Historical
+2020,Connecticut,E85,199300,Historical
+2020,Connecticut,CNG,2000,Historical
+2020,Connecticut,Propane,0,Historical
+2020,Connecticut,Hydrogen,0,Historical
+2020,Connecticut,Methanol,0,Historical
+2020,Connecticut,Gasoline,2577600,Historical
+2020,Connecticut,Diesel,53000,Historical
+2020,Connecticut,Unknown Fuel,26100,Historical
+2020,Delaware,EV,1900,Historical
+2020,Delaware,PHEV,1500,Historical
+2020,Delaware,HEV,14800,Historical
+2020,Delaware,Biodiesel,0,Historical
+2020,Delaware,E85,89700,Historical
+2020,Delaware,CNG,1000,Historical
+2020,Delaware,Propane,0,Historical
+2020,Delaware,Hydrogen,0,Historical
+2020,Delaware,Methanol,0,Historical
+2020,Delaware,Gasoline,780600,Historical
+2020,Delaware,Diesel,17900,Historical
+2020,Delaware,Unknown Fuel,6600,Historical
+2020,District of Columbia,EV,2400,Historical
+2020,District of Columbia,PHEV,1600,Historical
+2020,District of Columbia,HEV,14300,Historical
+2020,District of Columbia,Biodiesel,0,Historical
+2020,District of Columbia,E85,21900,Historical
+2020,District of Columbia,CNG,200,Historical
+2020,District of Columbia,Propane,0,Historical
+2020,District of Columbia,Hydrogen,0,Historical
+2020,District of Columbia,Methanol,0,Historical
+2020,District of Columbia,Gasoline,274400,Historical
+2020,District of Columbia,Diesel,2300,Historical
+2020,District of Columbia,Unknown Fuel,1200,Historical
+2020,Florida,EV,58200,Historical
+2020,Florida,PHEV,22400,Historical
+2020,Florida,HEV,248500,Historical
+2020,Florida,Biodiesel,0,Historical
+2020,Florida,E85,1513000,Historical
+2020,Florida,CNG,13100,Historical
+2020,Florida,Propane,0,Historical
+2020,Florida,Hydrogen,0,Historical
+2020,Florida,Methanol,0,Historical
+2020,Florida,Gasoline,14925500,Historical
+2020,Florida,Diesel,433700,Historical
+2020,Florida,Unknown Fuel,127300,Historical
+2020,Georgia,EV,23500,Historical
+2020,Georgia,PHEV,9400,Historical
+2020,Georgia,HEV,109000,Historical
+2020,Georgia,Biodiesel,0,Historical
+2020,Georgia,E85,919400,Historical
+2020,Georgia,CNG,21000,Historical
+2020,Georgia,Propane,0,Historical
+2020,Georgia,Hydrogen,0,Historical
+2020,Georgia,Methanol,0,Historical
+2020,Georgia,Gasoline,7665100,Historical
+2020,Georgia,Diesel,252800,Historical
+2020,Georgia,Unknown Fuel,97600,Historical
+2020,Hawaii,EV,10700,Historical
+2020,Hawaii,PHEV,3200,Historical
+2020,Hawaii,HEV,26400,Historical
+2020,Hawaii,Biodiesel,0,Historical
+2020,Hawaii,E85,52700,Historical
+2020,Hawaii,CNG,900,Historical
+2020,Hawaii,Propane,0,Historical
+2020,Hawaii,Hydrogen,100,Historical
+2020,Hawaii,Methanol,0,Historical
+2020,Hawaii,Gasoline,948300,Historical
+2020,Hawaii,Diesel,18000,Historical
+2020,Hawaii,Unknown Fuel,6000,Historical
+2020,Idaho,EV,2300,Historical
+2020,Idaho,PHEV,1700,Historical
+2020,Idaho,HEV,24900,Historical
+2020,Idaho,Biodiesel,0,Historical
+2020,Idaho,E85,156300,Historical
+2020,Idaho,CNG,9900,Historical
+2020,Idaho,Propane,0,Historical
+2020,Idaho,Hydrogen,0,Historical
+2020,Idaho,Methanol,0,Historical
+2020,Idaho,Gasoline,1480700,Historical
+2020,Idaho,Diesel,155700,Historical
+2020,Idaho,Unknown Fuel,26900,Historical
+2020,Illinois,EV,26000,Historical
+2020,Illinois,PHEV,13000,Historical
+2020,Illinois,HEV,190600,Historical
+2020,Illinois,Biodiesel,0,Historical
+2020,Illinois,E85,1154700,Historical
+2020,Illinois,CNG,12100,Historical
+2020,Illinois,Propane,0,Historical
+2020,Illinois,Hydrogen,0,Historical
+2020,Illinois,Methanol,0,Historical
+2020,Illinois,Gasoline,8533600,Historical
+2020,Illinois,Diesel,213600,Historical
+2020,Illinois,Unknown Fuel,90600,Historical
+2020,Indiana,EV,7000,Historical
+2020,Indiana,PHEV,5300,Historical
+2020,Indiana,HEV,75300,Historical
+2020,Indiana,Biodiesel,0,Historical
+2020,Indiana,E85,774400,Historical
+2020,Indiana,CNG,13400,Historical
+2020,Indiana,Propane,0,Historical
+2020,Indiana,Hydrogen,0,Historical
+2020,Indiana,Methanol,0,Historical
+2020,Indiana,Gasoline,4916700,Historical
+2020,Indiana,Diesel,183700,Historical
+2020,Indiana,Unknown Fuel,70300,Historical
+2020,Iowa,EV,2300,Historical
+2020,Iowa,PHEV,2600,Historical
+2020,Iowa,HEV,36400,Historical
+2020,Iowa,Biodiesel,0,Historical
+2020,Iowa,E85,459900,Historical
+2020,Iowa,CNG,9500,Historical
+2020,Iowa,Propane,0,Historical
+2020,Iowa,Hydrogen,0,Historical
+2020,Iowa,Methanol,0,Historical
+2020,Iowa,Gasoline,2402200,Historical
+2020,Iowa,Diesel,125300,Historical
+2020,Iowa,Unknown Fuel,69100,Historical
+2020,Kansas,EV,3100,Historical
+2020,Kansas,PHEV,2400,Historical
+2020,Kansas,HEV,34000,Historical
+2020,Kansas,Biodiesel,0,Historical
+2020,Kansas,E85,324700,Historical
+2020,Kansas,CNG,10600,Historical
+2020,Kansas,Propane,0,Historical
+2020,Kansas,Hydrogen,0,Historical
+2020,Kansas,Methanol,0,Historical
+2020,Kansas,Gasoline,2086800,Historical
+2020,Kansas,Diesel,102900,Historical
+2020,Kansas,Unknown Fuel,27700,Historical
+2020,Kentucky,EV,2600,Historical
+2020,Kentucky,PHEV,2100,Historical
+2020,Kentucky,HEV,41300,Historical
+2020,Kentucky,Biodiesel,0,Historical
+2020,Kentucky,E85,458800,Historical
+2020,Kentucky,CNG,10900,Historical
+2020,Kentucky,Propane,0,Historical
+2020,Kentucky,Hydrogen,0,Historical
+2020,Kentucky,Methanol,0,Historical
+2020,Kentucky,Gasoline,3281300,Historical
+2020,Kentucky,Diesel,133700,Historical
+2020,Kentucky,Unknown Fuel,36500,Historical
+2020,Louisiana,EV,2000,Historical
+2020,Louisiana,PHEV,1200,Historical
+2020,Louisiana,HEV,21600,Historical
+2020,Louisiana,Biodiesel,0,Historical
+2020,Louisiana,E85,556600,Historical
+2020,Louisiana,CNG,7700,Historical
+2020,Louisiana,Propane,0,Historical
+2020,Louisiana,Hydrogen,0,Historical
+2020,Louisiana,Methanol,0,Historical
+2020,Louisiana,Gasoline,3039100,Historical
+2020,Louisiana,Diesel,164900,Historical
+2020,Louisiana,Unknown Fuel,28000,Historical
+2020,Maine,EV,1900,Historical
+2020,Maine,PHEV,2800,Historical
+2020,Maine,HEV,22400,Historical
+2020,Maine,Biodiesel,0,Historical
+2020,Maine,E85,148500,Historical
+2020,Maine,CNG,1200,Historical
+2020,Maine,Propane,0,Historical
+2020,Maine,Hydrogen,0,Historical
+2020,Maine,Methanol,0,Historical
+2020,Maine,Gasoline,1001700,Historical
+2020,Maine,Diesel,34600,Historical
+2020,Maine,Unknown Fuel,10900,Historical
+2020,Maryland,EV,18000,Historical
+2020,Maryland,PHEV,11900,Historical
+2020,Maryland,HEV,109700,Historical
+2020,Maryland,Biodiesel,0,Historical
+2020,Maryland,E85,406600,Historical
+2020,Maryland,CNG,4100,Historical
+2020,Maryland,Propane,0,Historical
+2020,Maryland,Hydrogen,0,Historical
+2020,Maryland,Methanol,0,Historical
+2020,Maryland,Gasoline,4136000,Historical
+2020,Maryland,Diesel,111700,Historical
+2020,Maryland,Unknown Fuel,37900,Historical
+2020,Massachusetts,EV,21000,Historical
+2020,Massachusetts,PHEV,15600,Historical
+2020,Massachusetts,HEV,122600,Historical
+2020,Massachusetts,Biodiesel,0,Historical
+2020,Massachusetts,E85,418900,Historical
+2020,Massachusetts,CNG,2100,Historical
+2020,Massachusetts,Propane,0,Historical
+2020,Massachusetts,Hydrogen,0,Historical
+2020,Massachusetts,Methanol,0,Historical
+2020,Massachusetts,Gasoline,4697000,Historical
+2020,Massachusetts,Diesel,75500,Historical
+2020,Massachusetts,Unknown Fuel,36800,Historical
+2020,Michigan,EV,10600,Historical
+2020,Michigan,PHEV,12500,Historical
+2020,Michigan,HEV,93400,Historical
+2020,Michigan,Biodiesel,0,Historical
+2020,Michigan,E85,1348900,Historical
+2020,Michigan,CNG,11200,Historical
+2020,Michigan,Propane,0,Historical
+2020,Michigan,Hydrogen,0,Historical
+2020,Michigan,Methanol,0,Historical
+2020,Michigan,Gasoline,6728600,Historical
+2020,Michigan,Diesel,217400,Historical
+2020,Michigan,Unknown Fuel,62100,Historical
+2020,Minnesota,EV,10400,Historical
+2020,Minnesota,PHEV,6700,Historical
+2020,Minnesota,HEV,83800,Historical
+2020,Minnesota,Biodiesel,0,Historical
+2020,Minnesota,E85,722800,Historical
+2020,Minnesota,CNG,9100,Historical
+2020,Minnesota,Propane,0,Historical
+2020,Minnesota,Hydrogen,0,Historical
+2020,Minnesota,Methanol,0,Historical
+2020,Minnesota,Gasoline,4162400,Historical
+2020,Minnesota,Diesel,161700,Historical
+2020,Minnesota,Unknown Fuel,43000,Historical
+2020,Mississippi,EV,800,Historical
+2020,Mississippi,PHEV,700,Historical
+2020,Mississippi,HEV,15800,Historical
+2020,Mississippi,Biodiesel,0,Historical
+2020,Mississippi,E85,381000,Historical
+2020,Mississippi,CNG,5000,Historical
+2020,Mississippi,Propane,0,Historical
+2020,Mississippi,Hydrogen,0,Historical
+2020,Mississippi,Methanol,0,Historical
+2020,Mississippi,Gasoline,2197800,Historical
+2020,Mississippi,Diesel,99600,Historical
+2020,Mississippi,Unknown Fuel,13800,Historical
+2020,Missouri,EV,6700,Historical
+2020,Missouri,PHEV,5300,Historical
+2020,Missouri,HEV,77600,Historical
+2020,Missouri,Biodiesel,0,Historical
+2020,Missouri,E85,744100,Historical
+2020,Missouri,CNG,14000,Historical
+2020,Missouri,Propane,0,Historical
+2020,Missouri,Hydrogen,0,Historical
+2020,Missouri,Methanol,0,Historical
+2020,Missouri,Gasoline,4442300,Historical
+2020,Missouri,Diesel,212200,Historical
+2020,Missouri,Unknown Fuel,52100,Historical
+2020,Montana,EV,900,Historical
+2020,Montana,PHEV,600,Historical
+2020,Montana,HEV,11200,Historical
+2020,Montana,Biodiesel,0,Historical
+2020,Montana,E85,130600,Historical
+2020,Montana,CNG,3600,Historical
+2020,Montana,Propane,0,Historical
+2020,Montana,Hydrogen,0,Historical
+2020,Montana,Methanol,0,Historical
+2020,Montana,Gasoline,714000,Historical
+2020,Montana,Diesel,93100,Historical
+2020,Montana,Unknown Fuel,16400,Historical
+2020,Nebraska,EV,1800,Historical
+2020,Nebraska,PHEV,1300,Historical
+2020,Nebraska,HEV,20200,Historical
+2020,Nebraska,Biodiesel,0,Historical
+2020,Nebraska,E85,262800,Historical
+2020,Nebraska,CNG,7200,Historical
+2020,Nebraska,Propane,0,Historical
+2020,Nebraska,Hydrogen,0,Historical
+2020,Nebraska,Methanol,0,Historical
+2020,Nebraska,Gasoline,1482500,Historical
+2020,Nebraska,Diesel,90400,Historical
+2020,Nebraska,Unknown Fuel,31700,Historical
+2020,Nevada,EV,11000,Historical
+2020,Nevada,PHEV,4200,Historical
+2020,Nevada,HEV,42900,Historical
+2020,Nevada,Biodiesel,0,Historical
+2020,Nevada,E85,183700,Historical
+2020,Nevada,CNG,5100,Historical
+2020,Nevada,Propane,0,Historical
+2020,Nevada,Hydrogen,0,Historical
+2020,Nevada,Methanol,0,Historical
+2020,Nevada,Gasoline,2036400,Historical
+2020,Nevada,Diesel,99100,Historical
+2020,Nevada,Unknown Fuel,28900,Historical
+2020,New Hampshire,EV,2700,Historical
+2020,New Hampshire,PHEV,2500,Historical
+2020,New Hampshire,HEV,23300,Historical
+2020,New Hampshire,Biodiesel,0,Historical
+2020,New Hampshire,E85,135900,Historical
+2020,New Hampshire,CNG,1200,Historical
+2020,New Hampshire,Propane,0,Historical
+2020,New Hampshire,Hydrogen,0,Historical
+2020,New Hampshire,Methanol,0,Historical
+2020,New Hampshire,Gasoline,1159600,Historical
+2020,New Hampshire,Diesel,37600,Historical
+2020,New Hampshire,Unknown Fuel,15800,Historical
+2020,New Jersey,EV,30400,Historical
+2020,New Jersey,PHEV,12800,Historical
+2020,New Jersey,HEV,104600,Historical
+2020,New Jersey,Biodiesel,0,Historical
+2020,New Jersey,E85,548400,Historical
+2020,New Jersey,CNG,2900,Historical
+2020,New Jersey,Propane,0,Historical
+2020,New Jersey,Hydrogen,0,Historical
+2020,New Jersey,Methanol,0,Historical
+2020,New Jersey,Gasoline,6227300,Historical
+2020,New Jersey,Diesel,106700,Historical
+2020,New Jersey,Unknown Fuel,47000,Historical
+2020,New Mexico,EV,2600,Historical
+2020,New Mexico,PHEV,1900,Historical
+2020,New Mexico,HEV,28500,Historical
+2020,New Mexico,Biodiesel,0,Historical
+2020,New Mexico,E85,197900,Historical
+2020,New Mexico,CNG,6000,Historical
+2020,New Mexico,Propane,0,Historical
+2020,New Mexico,Hydrogen,0,Historical
+2020,New Mexico,Methanol,0,Historical
+2020,New Mexico,Gasoline,1490700,Historical
+2020,New Mexico,Diesel,108100,Historical
+2020,New Mexico,Unknown Fuel,30300,Historical
+2020,New York,EV,32600,Historical
+2020,New York,PHEV,32600,Historical
+2020,New York,HEV,192700,Historical
+2020,New York,Biodiesel,0,Historical
+2020,New York,E85,1020500,Historical
+2020,New York,CNG,6200,Historical
+2020,New York,Propane,0,Historical
+2020,New York,Hydrogen,0,Historical
+2020,New York,Methanol,0,Historical
+2020,New York,Gasoline,9890800,Historical
+2020,New York,Diesel,189900,Historical
+2020,New York,Unknown Fuel,102600,Historical
+2020,North Carolina,EV,16200,Historical
+2020,North Carolina,PHEV,9300,Historical
+2020,North Carolina,HEV,133400,Historical
+2020,North Carolina,Biodiesel,0,Historical
+2020,North Carolina,E85,878800,Historical
+2020,North Carolina,CNG,19700,Historical
+2020,North Carolina,Propane,0,Historical
+2020,North Carolina,Hydrogen,0,Historical
+2020,North Carolina,Methanol,0,Historical
+2020,North Carolina,Gasoline,7376600,Historical
+2020,North Carolina,Diesel,256300,Historical
+2020,North Carolina,Unknown Fuel,93400,Historical
+2020,North Dakota,EV,200,Historical
+2020,North Dakota,PHEV,300,Historical
+2020,North Dakota,HEV,4400,Historical
+2020,North Dakota,Biodiesel,0,Historical
+2020,North Dakota,E85,135600,Historical
+2020,North Dakota,CNG,3700,Historical
+2020,North Dakota,Propane,0,Historical
+2020,North Dakota,Hydrogen,0,Historical
+2020,North Dakota,Methanol,0,Historical
+2020,North Dakota,Gasoline,567200,Historical
+2020,North Dakota,Diesel,57700,Historical
+2020,North Dakota,Unknown Fuel,12500,Historical
+2020,Ohio,EV,14500,Historical
+2020,Ohio,PHEV,9500,Historical
+2020,Ohio,HEV,124100,Historical
+2020,Ohio,Biodiesel,0,Historical
+2020,Ohio,E85,1153500,Historical
+2020,Ohio,CNG,14100,Historical
+2020,Ohio,Propane,0,Historical
+2020,Ohio,Hydrogen,0,Historical
+2020,Ohio,Methanol,0,Historical
+2020,Ohio,Gasoline,8690900,Historical
+2020,Ohio,Diesel,240900,Historical
+2020,Ohio,Unknown Fuel,88900,Historical
+2020,Oklahoma,EV,3400,Historical
+2020,Oklahoma,PHEV,1800,Historical
+2020,Oklahoma,HEV,30100,Historical
+2020,Oklahoma,Biodiesel,0,Historical
+2020,Oklahoma,E85,574100,Historical
+2020,Oklahoma,CNG,14800,Historical
+2020,Oklahoma,Propane,0,Historical
+2020,Oklahoma,Hydrogen,0,Historical
+2020,Oklahoma,Methanol,0,Historical
+2020,Oklahoma,Gasoline,3126100,Historical
+2020,Oklahoma,Diesel,190800,Historical
+2020,Oklahoma,Unknown Fuel,60600,Historical
+2020,Oregon,EV,22800,Historical
+2020,Oregon,PHEV,11800,Historical
+2020,Oregon,HEV,106100,Historical
+2020,Oregon,Biodiesel,0,Historical
+2020,Oregon,E85,222000,Historical
+2020,Oregon,CNG,10900,Historical
+2020,Oregon,Propane,0,Historical
+2020,Oregon,Hydrogen,0,Historical
+2020,Oregon,Methanol,0,Historical
+2020,Oregon,Gasoline,2990200,Historical
+2020,Oregon,Diesel,246200,Historical
+2020,Oregon,Unknown Fuel,82600,Historical
+2020,Pennsylvania,EV,17500,Historical
+2020,Pennsylvania,PHEV,12800,Historical
+2020,Pennsylvania,HEV,140800,Historical
+2020,Pennsylvania,Biodiesel,0,Historical
+2020,Pennsylvania,E85,953200,Historical
+2020,Pennsylvania,CNG,9600,Historical
+2020,Pennsylvania,Propane,0,Historical
+2020,Pennsylvania,Hydrogen,0,Historical
+2020,Pennsylvania,Methanol,0,Historical
+2020,Pennsylvania,Gasoline,8781500,Historical
+2020,Pennsylvania,Diesel,241000,Historical
+2020,Pennsylvania,Unknown Fuel,69500,Historical
+2020,Rhode Island,EV,1600,Historical
+2020,Rhode Island,PHEV,1600,Historical
+2020,Rhode Island,HEV,14100,Historical
+2020,Rhode Island,Biodiesel,0,Historical
+2020,Rhode Island,E85,59100,Historical
+2020,Rhode Island,CNG,500,Historical
+2020,Rhode Island,Propane,0,Historical
+2020,Rhode Island,Hydrogen,0,Historical
+2020,Rhode Island,Methanol,0,Historical
+2020,Rhode Island,Gasoline,785400,Historical
+2020,Rhode Island,Diesel,13300,Historical
+2020,Rhode Island,Unknown Fuel,7500,Historical
+2020,South Carolina,EV,4400,Historical
+2020,South Carolina,PHEV,3000,Historical
+2020,South Carolina,HEV,49700,Historical
+2020,South Carolina,Biodiesel,0,Historical
+2020,South Carolina,E85,515600,Historical
+2020,South Carolina,CNG,12200,Historical
+2020,South Carolina,Propane,0,Historical
+2020,South Carolina,Hydrogen,0,Historical
+2020,South Carolina,Methanol,0,Historical
+2020,South Carolina,Gasoline,4004100,Historical
+2020,South Carolina,Diesel,127200,Historical
+2020,South Carolina,Unknown Fuel,56200,Historical
+2020,South Dakota,EV,400,Historical
+2020,South Dakota,PHEV,500,Historical
+2020,South Dakota,HEV,7200,Historical
+2020,South Dakota,Biodiesel,0,Historical
+2020,South Dakota,E85,139400,Historical
+2020,South Dakota,CNG,4100,Historical
+2020,South Dakota,Propane,0,Historical
+2020,South Dakota,Hydrogen,0,Historical
+2020,South Dakota,Methanol,0,Historical
+2020,South Dakota,Gasoline,688400,Historical
+2020,South Dakota,Diesel,65500,Historical
+2020,South Dakota,Unknown Fuel,19500,Historical
+2020,Tennessee,EV,7800,Historical
+2020,Tennessee,PHEV,4300,Historical
+2020,Tennessee,HEV,68700,Historical
+2020,Tennessee,Biodiesel,0,Historical
+2020,Tennessee,E85,638600,Historical
+2020,Tennessee,CNG,16500,Historical
+2020,Tennessee,Propane,0,Historical
+2020,Tennessee,Hydrogen,0,Historical
+2020,Tennessee,Methanol,0,Historical
+2020,Tennessee,Gasoline,5218400,Historical
+2020,Tennessee,Diesel,181600,Historical
+2020,Tennessee,Unknown Fuel,50900,Historical
+2020,Texas,EV,52200,Historical
+2020,Texas,PHEV,20400,Historical
+2020,Texas,HEV,262300,Historical
+2020,Texas,Biodiesel,0,Historical
+2020,Texas,E85,3250000,Historical
+2020,Texas,CNG,43600,Historical
+2020,Texas,Propane,0,Historical
+2020,Texas,Hydrogen,100,Historical
+2020,Texas,Methanol,0,Historical
+2020,Texas,Gasoline,19609700,Historical
+2020,Texas,Diesel,1107000,Historical
+2020,Texas,Unknown Fuel,163600,Historical
+2020,Utah,EV,11200,Historical
+2020,Utah,PHEV,5200,Historical
+2020,Utah,HEV,49800,Historical
+2020,Utah,Biodiesel,0,Historical
+2020,Utah,E85,231700,Historical
+2020,Utah,CNG,8700,Historical
+2020,Utah,Propane,0,Historical
+2020,Utah,Hydrogen,0,Historical
+2020,Utah,Methanol,0,Historical
+2020,Utah,Gasoline,2346000,Historical
+2020,Utah,Diesel,191400,Historical
+2020,Utah,Unknown Fuel,35700,Historical
+2020,Vermont,EV,2200,Historical
+2020,Vermont,PHEV,2300,Historical
+2020,Vermont,HEV,13900,Historical
+2020,Vermont,Biodiesel,0,Historical
+2020,Vermont,E85,58800,Historical
+2020,Vermont,CNG,500,Historical
+2020,Vermont,Propane,0,Historical
+2020,Vermont,Hydrogen,0,Historical
+2020,Vermont,Methanol,0,Historical
+2020,Vermont,Gasoline,501000,Historical
+2020,Vermont,Diesel,19700,Historical
+2020,Vermont,Unknown Fuel,6800,Historical
+2020,Virginia,EV,20500,Historical
+2020,Virginia,PHEV,11200,Historical
+2020,Virginia,HEV,157800,Historical
+2020,Virginia,Biodiesel,0,Historical
+2020,Virginia,E85,618500,Historical
+2020,Virginia,CNG,12200,Historical
+2020,Virginia,Propane,0,Historical
+2020,Virginia,Hydrogen,0,Historical
+2020,Virginia,Methanol,0,Historical
+2020,Virginia,Gasoline,6646500,Historical
+2020,Virginia,Diesel,183700,Historical
+2020,Virginia,Unknown Fuel,46800,Historical
+2020,Washington,EV,50500,Historical
+2020,Washington,PHEV,18400,Historical
+2020,Washington,HEV,211300,Historical
+2020,Washington,Biodiesel,0,Historical
+2020,Washington,E85,424000,Historical
+2020,Washington,CNG,18700,Historical
+2020,Washington,Propane,0,Historical
+2020,Washington,Hydrogen,0,Historical
+2020,Washington,Methanol,0,Historical
+2020,Washington,Gasoline,5687600,Historical
+2020,Washington,Diesel,326300,Historical
+2020,Washington,Unknown Fuel,95300,Historical
+2020,West Virginia,EV,600,Historical
+2020,West Virginia,PHEV,700,Historical
+2020,West Virginia,HEV,11900,Historical
+2020,West Virginia,Biodiesel,0,Historical
+2020,West Virginia,E85,178200,Historical
+2020,West Virginia,CNG,2800,Historical
+2020,West Virginia,Propane,0,Historical
+2020,West Virginia,Hydrogen,0,Historical
+2020,West Virginia,Methanol,0,Historical
+2020,West Virginia,Gasoline,1216500,Historical
+2020,West Virginia,Diesel,57800,Historical
+2020,West Virginia,Unknown Fuel,14200,Historical
+2020,Wisconsin,EV,6300,Historical
+2020,Wisconsin,PHEV,5900,Historical
+2020,Wisconsin,HEV,82500,Historical
+2020,Wisconsin,Biodiesel,0,Historical
+2020,Wisconsin,E85,755700,Historical
+2020,Wisconsin,CNG,8700,Historical
+2020,Wisconsin,Propane,0,Historical
+2020,Wisconsin,Hydrogen,0,Historical
+2020,Wisconsin,Methanol,0,Historical
+2020,Wisconsin,Gasoline,4494600,Historical
+2020,Wisconsin,Diesel,175200,Historical
+2020,Wisconsin,Unknown Fuel,41900,Historical
+2020,Wyoming,EV,300,Historical
+2020,Wyoming,PHEV,300,Historical
+2020,Wyoming,HEV,4700,Historical
+2020,Wyoming,Biodiesel,0,Historical
+2020,Wyoming,E85,77100,Historical
+2020,Wyoming,CNG,3600,Historical
+2020,Wyoming,Propane,0,Historical
+2020,Wyoming,Hydrogen,0,Historical
+2020,Wyoming,Methanol,0,Historical
+2020,Wyoming,Gasoline,456200,Historical
+2020,Wyoming,Diesel,77400,Historical
+2020,Wyoming,Unknown Fuel,18700,Historical
+2021,Alabama,EV,4700,Historical
+2021,Alabama,PHEV,3300,Historical
+2021,Alabama,HEV,42500,Historical
+2021,Alabama,Biodiesel,40500,Historical
+2021,Alabama,E85,449500,Historical
+2021,Alabama,CNG,500,Historical
+2021,Alabama,Propane,100,Historical
+2021,Alabama,Hydrogen,0,Historical
+2021,Alabama,Methanol,0,Historical
+2021,Alabama,Gasoline,4051000,Historical
+2021,Alabama,Diesel,123500,Historical
+2021,Alabama,Unknown Fuel,32000,Historical
+2021,Alaska,EV,1300,Historical
+2021,Alaska,PHEV,500,Historical
+2021,Alaska,HEV,7300,Historical
+2021,Alaska,Biodiesel,7600,Historical
+2021,Alaska,E85,50100,Historical
+2021,Alaska,CNG,100,Historical
+2021,Alaska,Propane,0,Historical
+2021,Alaska,Hydrogen,0,Historical
+2021,Alaska,Methanol,0,Historical
+2021,Alaska,Gasoline,464200,Historical
+2021,Alaska,Diesel,31700,Historical
+2021,Alaska,Unknown Fuel,6300,Historical
+2021,Arizona,EV,40700,Historical
+2021,Arizona,PHEV,15500,Historical
+2021,Arizona,HEV,132200,Historical
+2021,Arizona,Biodiesel,51000,Historical
+2021,Arizona,E85,460400,Historical
+2021,Arizona,CNG,900,Historical
+2021,Arizona,Propane,900,Historical
+2021,Arizona,Hydrogen,0,Historical
+2021,Arizona,Methanol,0,Historical
+2021,Arizona,Gasoline,5395300,Historical
+2021,Arizona,Diesel,191800,Historical
+2021,Arizona,Unknown Fuel,70500,Historical
+2021,Arkansas,EV,2400,Historical
+2021,Arkansas,PHEV,1800,Historical
+2021,Arkansas,HEV,26100,Historical
+2021,Arkansas,Biodiesel,28700,Historical
+2021,Arkansas,E85,290200,Historical
+2021,Arkansas,CNG,300,Historical
+2021,Arkansas,Propane,0,Historical
+2021,Arkansas,Hydrogen,0,Historical
+2021,Arkansas,Methanol,0,Historical
+2021,Arkansas,Gasoline,2241600,Historical
+2021,Arkansas,Diesel,88800,Historical
+2021,Arkansas,Unknown Fuel,11000,Historical
+2021,California,EV,563100,Historical
+2021,California,PHEV,315300,Historical
+2021,California,HEV,1355900,Historical
+2021,California,Biodiesel,163600,Historical
+2021,California,E85,1343200,Historical
+2021,California,CNG,12600,Historical
+2021,California,Propane,1500,Historical
+2021,California,Hydrogen,11800,Historical
+2021,California,Methanol,0,Historical
+2021,California,Gasoline,30512600,Historical
+2021,California,Diesel,710500,Historical
+2021,California,Unknown Fuel,10400,Historical
+2021,Colorado,EV,37000,Historical
+2021,Colorado,PHEV,16100,Historical
+2021,Colorado,HEV,113600,Historical
+2021,Colorado,Biodiesel,53800,Historical
+2021,Colorado,E85,346700,Historical
+2021,Colorado,CNG,600,Historical
+2021,Colorado,Propane,100,Historical
+2021,Colorado,Hydrogen,0,Historical
+2021,Colorado,Methanol,0,Historical
+2021,Colorado,Gasoline,4456600,Historical
+2021,Colorado,Diesel,208400,Historical
+2021,Colorado,Unknown Fuel,53500,Historical
+2021,Connecticut,EV,13300,Historical
+2021,Connecticut,PHEV,9200,Historical
+2021,Connecticut,HEV,55400,Historical
+2021,Connecticut,Biodiesel,8800,Historical
+2021,Connecticut,E85,140700,Historical
+2021,Connecticut,CNG,400,Historical
+2021,Connecticut,Propane,0,Historical
+2021,Connecticut,Hydrogen,0,Historical
+2021,Connecticut,Methanol,0,Historical
+2021,Connecticut,Gasoline,2578400,Historical
+2021,Connecticut,Diesel,44300,Historical
+2021,Connecticut,Unknown Fuel,21500,Historical
+2021,Delaware,EV,3000,Historical
+2021,Delaware,PHEV,2000,Historical
+2021,Delaware,HEV,16700,Historical
+2021,Delaware,Biodiesel,4100,Historical
+2021,Delaware,E85,67400,Historical
+2021,Delaware,CNG,100,Historical
+2021,Delaware,Propane,0,Historical
+2021,Delaware,Hydrogen,0,Historical
+2021,Delaware,Methanol,0,Historical
+2021,Delaware,Gasoline,796400,Historical
+2021,Delaware,Diesel,14600,Historical
+2021,Delaware,Unknown Fuel,5300,Historical
+2021,District of Columbia,EV,3700,Historical
+2021,District of Columbia,PHEV,2500,Historical
+2021,District of Columbia,HEV,16100,Historical
+2021,District of Columbia,Biodiesel,300,Historical
+2021,District of Columbia,E85,17400,Historical
+2021,District of Columbia,CNG,100,Historical
+2021,District of Columbia,Propane,0,Historical
+2021,District of Columbia,Hydrogen,0,Historical
+2021,District of Columbia,Methanol,0,Historical
+2021,District of Columbia,Gasoline,278900,Historical
+2021,District of Columbia,Diesel,2100,Historical
+2021,District of Columbia,Unknown Fuel,600,Historical
+2021,Florida,EV,95600,Historical
+2021,Florida,PHEV,32200,Historical
+2021,Florida,HEV,287000,Historical
+2021,Florida,Biodiesel,129300,Historical
+2021,Florida,E85,1154600,Historical
+2021,Florida,CNG,600,Historical
+2021,Florida,Propane,100,Historical
+2021,Florida,Hydrogen,0,Historical
+2021,Florida,Methanol,0,Historical
+2021,Florida,Gasoline,15595900,Historical
+2021,Florida,Diesel,336900,Historical
+2021,Florida,Unknown Fuel,97400,Historical
+2021,Georgia,EV,34000,Historical
+2021,Georgia,PHEV,13600,Historical
+2021,Georgia,HEV,128200,Historical
+2021,Georgia,Biodiesel,70200,Historical
+2021,Georgia,E85,745200,Historical
+2021,Georgia,CNG,700,Historical
+2021,Georgia,Propane,300,Historical
+2021,Georgia,Hydrogen,0,Historical
+2021,Georgia,Methanol,0,Historical
+2021,Georgia,Gasoline,8123100,Historical
+2021,Georgia,Diesel,203200,Historical
+2021,Georgia,Unknown Fuel,81200,Historical
+2021,Hawaii,EV,14200,Historical
+2021,Hawaii,PHEV,4500,Historical
+2021,Hawaii,HEV,28800,Historical
+2021,Hawaii,Biodiesel,2800,Historical
+2021,Hawaii,E85,42200,Historical
+2021,Hawaii,CNG,100,Historical
+2021,Hawaii,Propane,0,Historical
+2021,Hawaii,Hydrogen,0,Historical
+2021,Hawaii,Methanol,0,Historical
+2021,Hawaii,Gasoline,968200,Historical
+2021,Hawaii,Diesel,15700,Historical
+2021,Hawaii,Unknown Fuel,4300,Historical
+2021,Idaho,EV,3500,Historical
+2021,Idaho,PHEV,2500,Historical
+2021,Idaho,HEV,30400,Historical
+2021,Idaho,Biodiesel,33400,Historical
+2021,Idaho,E85,132500,Historical
+2021,Idaho,CNG,300,Historical
+2021,Idaho,Propane,100,Historical
+2021,Idaho,Hydrogen,0,Historical
+2021,Idaho,Methanol,0,Historical
+2021,Idaho,Gasoline,1545500,Historical
+2021,Idaho,Diesel,133500,Historical
+2021,Idaho,Unknown Fuel,29400,Historical
+2021,Illinois,EV,36500,Historical
+2021,Illinois,PHEV,18300,Historical
+2021,Illinois,HEV,214300,Historical
+2021,Illinois,Biodiesel,48100,Historical
+2021,Illinois,E85,822300,Historical
+2021,Illinois,CNG,800,Historical
+2021,Illinois,Propane,100,Historical
+2021,Illinois,Hydrogen,0,Historical
+2021,Illinois,Methanol,0,Historical
+2021,Illinois,Gasoline,8657800,Historical
+2021,Illinois,Diesel,169900,Historical
+2021,Illinois,Unknown Fuel,59600,Historical
+2021,Indiana,EV,10400,Historical
+2021,Indiana,PHEV,7500,Historical
+2021,Indiana,HEV,88200,Historical
+2021,Indiana,Biodiesel,41100,Historical
+2021,Indiana,E85,587400,Historical
+2021,Indiana,CNG,800,Historical
+2021,Indiana,Propane,100,Historical
+2021,Indiana,Hydrogen,0,Historical
+2021,Indiana,Methanol,0,Historical
+2021,Indiana,Gasoline,5149000,Historical
+2021,Indiana,Diesel,151600,Historical
+2021,Indiana,Unknown Fuel,61000,Historical
+2021,Iowa,EV,3700,Historical
+2021,Iowa,PHEV,3600,Historical
+2021,Iowa,HEV,42500,Historical
+2021,Iowa,Biodiesel,31100,Historical
+2021,Iowa,E85,343600,Historical
+2021,Iowa,CNG,300,Historical
+2021,Iowa,Propane,0,Historical
+2021,Iowa,Hydrogen,0,Historical
+2021,Iowa,Methanol,0,Historical
+2021,Iowa,Gasoline,2525400,Historical
+2021,Iowa,Diesel,100900,Historical
+2021,Iowa,Unknown Fuel,59600,Historical
+2021,Kansas,EV,4500,Historical
+2021,Kansas,PHEV,3300,Historical
+2021,Kansas,HEV,38300,Historical
+2021,Kansas,Biodiesel,21400,Historical
+2021,Kansas,E85,260900,Historical
+2021,Kansas,CNG,400,Historical
+2021,Kansas,Propane,100,Historical
+2021,Kansas,Hydrogen,0,Historical
+2021,Kansas,Methanol,0,Historical
+2021,Kansas,Gasoline,2158100,Historical
+2021,Kansas,Diesel,85900,Historical
+2021,Kansas,Unknown Fuel,19900,Historical
+2021,Kentucky,EV,4200,Historical
+2021,Kentucky,PHEV,3100,Historical
+2021,Kentucky,HEV,48300,Historical
+2021,Kentucky,Biodiesel,27100,Historical
+2021,Kentucky,E85,365800,Historical
+2021,Kentucky,CNG,600,Historical
+2021,Kentucky,Propane,0,Historical
+2021,Kentucky,Hydrogen,0,Historical
+2021,Kentucky,Methanol,0,Historical
+2021,Kentucky,Gasoline,3422900,Historical
+2021,Kentucky,Diesel,116200,Historical
+2021,Kentucky,Unknown Fuel,28300,Historical
+2021,Louisiana,EV,3200,Historical
+2021,Louisiana,PHEV,2000,Historical
+2021,Louisiana,HEV,26000,Historical
+2021,Louisiana,Biodiesel,54400,Historical
+2021,Louisiana,E85,413200,Historical
+2021,Louisiana,CNG,300,Historical
+2021,Louisiana,Propane,0,Historical
+2021,Louisiana,Hydrogen,0,Historical
+2021,Louisiana,Methanol,0,Historical
+2021,Louisiana,Gasoline,3185200,Historical
+2021,Louisiana,Diesel,115000,Historical
+2021,Louisiana,Unknown Fuel,20700,Historical
+2021,Maine,EV,3000,Historical
+2021,Maine,PHEV,4200,Historical
+2021,Maine,HEV,25500,Historical
+2021,Maine,Biodiesel,9100,Historical
+2021,Maine,E85,112200,Historical
+2021,Maine,CNG,100,Historical
+2021,Maine,Propane,0,Historical
+2021,Maine,Hydrogen,0,Historical
+2021,Maine,Methanol,0,Historical
+2021,Maine,Gasoline,1044300,Historical
+2021,Maine,Diesel,27400,Historical
+2021,Maine,Unknown Fuel,8900,Historical
+2021,Maryland,EV,25600,Historical
+2021,Maryland,PHEV,17200,Historical
+2021,Maryland,HEV,130900,Historical
+2021,Maryland,Biodiesel,27700,Historical
+2021,Maryland,E85,347200,Historical
+2021,Maryland,CNG,400,Historical
+2021,Maryland,Propane,0,Historical
+2021,Maryland,Hydrogen,0,Historical
+2021,Maryland,Methanol,0,Historical
+2021,Maryland,Gasoline,4380600,Historical
+2021,Maryland,Diesel,89500,Historical
+2021,Maryland,Unknown Fuel,32100,Historical
+2021,Massachusetts,EV,30500,Historical
+2021,Massachusetts,PHEV,22200,Historical
+2021,Massachusetts,HEV,138800,Historical
+2021,Massachusetts,Biodiesel,17500,Historical
+2021,Massachusetts,E85,306900,Historical
+2021,Massachusetts,CNG,400,Historical
+2021,Massachusetts,Propane,0,Historical
+2021,Massachusetts,Hydrogen,0,Historical
+2021,Massachusetts,Methanol,0,Historical
+2021,Massachusetts,Gasoline,4816400,Historical
+2021,Massachusetts,Diesel,59700,Historical
+2021,Massachusetts,Unknown Fuel,30800,Historical
+2021,Michigan,EV,17500,Historical
+2021,Michigan,PHEV,17200,Historical
+2021,Michigan,HEV,106400,Historical
+2021,Michigan,Biodiesel,52100,Historical
+2021,Michigan,E85,912200,Historical
+2021,Michigan,CNG,500,Historical
+2021,Michigan,Propane,100,Historical
+2021,Michigan,Hydrogen,0,Historical
+2021,Michigan,Methanol,0,Historical
+2021,Michigan,Gasoline,7067400,Historical
+2021,Michigan,Diesel,173200,Historical
+2021,Michigan,Unknown Fuel,51600,Historical
+2021,Minnesota,EV,15000,Historical
+2021,Minnesota,PHEV,8900,Historical
+2021,Minnesota,HEV,95200,Historical
+2021,Minnesota,Biodiesel,40100,Historical
+2021,Minnesota,E85,548700,Historical
+2021,Minnesota,CNG,300,Historical
+2021,Minnesota,Propane,0,Historical
+2021,Minnesota,Hydrogen,0,Historical
+2021,Minnesota,Methanol,0,Historical
+2021,Minnesota,Gasoline,4342800,Historical
+2021,Minnesota,Diesel,128700,Historical
+2021,Minnesota,Unknown Fuel,29800,Historical
+2021,Mississippi,EV,1300,Historical
+2021,Mississippi,PHEV,1100,Historical
+2021,Mississippi,HEV,18700,Historical
+2021,Mississippi,Biodiesel,27400,Historical
+2021,Mississippi,E85,305000,Historical
+2021,Mississippi,CNG,200,Historical
+2021,Mississippi,Propane,0,Historical
+2021,Mississippi,Hydrogen,0,Historical
+2021,Mississippi,Methanol,0,Historical
+2021,Mississippi,Gasoline,2289900,Historical
+2021,Mississippi,Diesel,76000,Historical
+2021,Mississippi,Unknown Fuel,9600,Historical
+2021,Missouri,EV,10000,Historical
+2021,Missouri,PHEV,7200,Historical
+2021,Missouri,HEV,85600,Historical
+2021,Missouri,Biodiesel,55800,Historical
+2021,Missouri,E85,602500,Historical
+2021,Missouri,CNG,1800,Historical
+2021,Missouri,Propane,100,Historical
+2021,Missouri,Hydrogen,0,Historical
+2021,Missouri,Methanol,0,Historical
+2021,Missouri,Gasoline,4582100,Historical
+2021,Missouri,Diesel,172100,Historical
+2021,Missouri,Unknown Fuel,40700,Historical
+2021,Montana,EV,1600,Historical
+2021,Montana,PHEV,1100,Historical
+2021,Montana,HEV,13900,Historical
+2021,Montana,Biodiesel,27500,Historical
+2021,Montana,E85,100500,Historical
+2021,Montana,CNG,100,Historical
+2021,Montana,Propane,0,Historical
+2021,Montana,Hydrogen,0,Historical
+2021,Montana,Methanol,0,Historical
+2021,Montana,Gasoline,761800,Historical
+2021,Montana,Diesel,70900,Historical
+2021,Montana,Unknown Fuel,12200,Historical
+2021,Nebraska,EV,2700,Historical
+2021,Nebraska,PHEV,2000,Historical
+2021,Nebraska,HEV,23700,Historical
+2021,Nebraska,Biodiesel,21600,Historical
+2021,Nebraska,E85,202500,Historical
+2021,Nebraska,CNG,200,Historical
+2021,Nebraska,Propane,0,Historical
+2021,Nebraska,Hydrogen,0,Historical
+2021,Nebraska,Methanol,0,Historical
+2021,Nebraska,Gasoline,1574900,Historical
+2021,Nebraska,Diesel,73800,Historical
+2021,Nebraska,Unknown Fuel,27300,Historical
+2021,Nevada,EV,17400,Historical
+2021,Nevada,PHEV,6300,Historical
+2021,Nevada,HEV,50200,Historical
+2021,Nevada,Biodiesel,21300,Historical
+2021,Nevada,E85,133600,Historical
+2021,Nevada,CNG,300,Historical
+2021,Nevada,Propane,100,Historical
+2021,Nevada,Hydrogen,0,Historical
+2021,Nevada,Methanol,0,Historical
+2021,Nevada,Gasoline,2140700,Historical
+2021,Nevada,Diesel,84700,Historical
+2021,Nevada,Unknown Fuel,22800,Historical
+2021,New Hampshire,EV,4000,Historical
+2021,New Hampshire,PHEV,3500,Historical
+2021,New Hampshire,HEV,27000,Historical
+2021,New Hampshire,Biodiesel,11300,Historical
+2021,New Hampshire,E85,102800,Historical
+2021,New Hampshire,CNG,200,Historical
+2021,New Hampshire,Propane,0,Historical
+2021,New Hampshire,Hydrogen,0,Historical
+2021,New Hampshire,Methanol,0,Historical
+2021,New Hampshire,Gasoline,1187400,Historical
+2021,New Hampshire,Diesel,29300,Historical
+2021,New Hampshire,Unknown Fuel,12700,Historical
+2021,New Jersey,EV,47800,Historical
+2021,New Jersey,PHEV,18500,Historical
+2021,New Jersey,HEV,121500,Historical
+2021,New Jersey,Biodiesel,23900,Historical
+2021,New Jersey,E85,412200,Historical
+2021,New Jersey,CNG,500,Historical
+2021,New Jersey,Propane,100,Historical
+2021,New Jersey,Hydrogen,0,Historical
+2021,New Jersey,Methanol,0,Historical
+2021,New Jersey,Gasoline,6346100,Historical
+2021,New Jersey,Diesel,86400,Historical
+2021,New Jersey,Unknown Fuel,38100,Historical
+2021,New Mexico,EV,4200,Historical
+2021,New Mexico,PHEV,2800,Historical
+2021,New Mexico,HEV,32800,Historical
+2021,New Mexico,Biodiesel,25200,Historical
+2021,New Mexico,E85,156900,Historical
+2021,New Mexico,CNG,200,Historical
+2021,New Mexico,Propane,100,Historical
+2021,New Mexico,Hydrogen,0,Historical
+2021,New Mexico,Methanol,0,Historical
+2021,New Mexico,Gasoline,1569000,Historical
+2021,New Mexico,Diesel,87600,Historical
+2021,New Mexico,Unknown Fuel,24500,Historical
+2021,New York,EV,51900,Historical
+2021,New York,PHEV,44600,Historical
+2021,New York,HEV,221600,Historical
+2021,New York,Biodiesel,43000,Historical
+2021,New York,E85,663700,Historical
+2021,New York,CNG,900,Historical
+2021,New York,Propane,100,Historical
+2021,New York,Hydrogen,0,Historical
+2021,New York,Methanol,0,Historical
+2021,New York,Gasoline,10116400,Historical
+2021,New York,Diesel,152400,Historical
+2021,New York,Unknown Fuel,83200,Historical
+2021,North Carolina,EV,25200,Historical
+2021,North Carolina,PHEV,13500,Historical
+2021,North Carolina,HEV,151600,Historical
+2021,North Carolina,Biodiesel,61000,Historical
+2021,North Carolina,E85,687700,Historical
+2021,North Carolina,CNG,800,Historical
+2021,North Carolina,Propane,200,Historical
+2021,North Carolina,Hydrogen,0,Historical
+2021,North Carolina,Methanol,0,Historical
+2021,North Carolina,Gasoline,7685800,Historical
+2021,North Carolina,Diesel,210000,Historical
+2021,North Carolina,Unknown Fuel,77000,Historical
+2021,North Dakota,EV,400,Historical
+2021,North Dakota,PHEV,400,Historical
+2021,North Dakota,HEV,5400,Historical
+2021,North Dakota,Biodiesel,16000,Historical
+2021,North Dakota,E85,95700,Historical
+2021,North Dakota,CNG,100,Historical
+2021,North Dakota,Propane,0,Historical
+2021,North Dakota,Hydrogen,0,Historical
+2021,North Dakota,Methanol,0,Historical
+2021,North Dakota,Gasoline,607000,Historical
+2021,North Dakota,Diesel,42800,Historical
+2021,North Dakota,Unknown Fuel,9000,Historical
+2021,Ohio,EV,21200,Historical
+2021,Ohio,PHEV,13100,Historical
+2021,Ohio,HEV,143700,Historical
+2021,Ohio,Biodiesel,54600,Historical
+2021,Ohio,E85,875100,Historical
+2021,Ohio,CNG,1200,Historical
+2021,Ohio,Propane,100,Historical
+2021,Ohio,Hydrogen,0,Historical
+2021,Ohio,Methanol,0,Historical
+2021,Ohio,Gasoline,9019200,Historical
+2021,Ohio,Diesel,199200,Historical
+2021,Ohio,Unknown Fuel,68800,Historical
+2021,Oklahoma,EV,7100,Historical
+2021,Oklahoma,PHEV,6900,Historical
+2021,Oklahoma,HEV,38700,Historical
+2021,Oklahoma,Biodiesel,50700,Historical
+2021,Oklahoma,E85,391100,Historical
+2021,Oklahoma,CNG,2400,Historical
+2021,Oklahoma,Propane,300,Historical
+2021,Oklahoma,Hydrogen,0,Historical
+2021,Oklahoma,Methanol,0,Historical
+2021,Oklahoma,Gasoline,3429700,Historical
+2021,Oklahoma,Diesel,148500,Historical
+2021,Oklahoma,Unknown Fuel,48700,Historical
+2021,Oregon,EV,30300,Historical
+2021,Oregon,PHEV,16900,Historical
+2021,Oregon,HEV,123200,Historical
+2021,Oregon,Biodiesel,43900,Historical
+2021,Oregon,E85,193700,Historical
+2021,Oregon,CNG,300,Historical
+2021,Oregon,Propane,100,Historical
+2021,Oregon,Hydrogen,0,Historical
+2021,Oregon,Methanol,0,Historical
+2021,Oregon,Gasoline,3094700,Historical
+2021,Oregon,Diesel,217800,Historical
+2021,Oregon,Unknown Fuel,63900,Historical
+2021,Pennsylvania,EV,26800,Historical
+2021,Pennsylvania,PHEV,17800,Historical
+2021,Pennsylvania,HEV,168200,Historical
+2021,Pennsylvania,Biodiesel,58600,Historical
+2021,Pennsylvania,E85,723000,Historical
+2021,Pennsylvania,CNG,1200,Historical
+2021,Pennsylvania,Propane,100,Historical
+2021,Pennsylvania,Hydrogen,0,Historical
+2021,Pennsylvania,Methanol,0,Historical
+2021,Pennsylvania,Gasoline,9035500,Historical
+2021,Pennsylvania,Diesel,195000,Historical
+2021,Pennsylvania,Unknown Fuel,51000,Historical
+2021,Rhode Island,EV,2500,Historical
+2021,Rhode Island,PHEV,2400,Historical
+2021,Rhode Island,HEV,16300,Historical
+2021,Rhode Island,Biodiesel,2500,Historical
+2021,Rhode Island,E85,44100,Historical
+2021,Rhode Island,CNG,100,Historical
+2021,Rhode Island,Propane,0,Historical
+2021,Rhode Island,Hydrogen,0,Historical
+2021,Rhode Island,Methanol,0,Historical
+2021,Rhode Island,Gasoline,796100,Historical
+2021,Rhode Island,Diesel,11300,Historical
+2021,Rhode Island,Unknown Fuel,6300,Historical
+2021,South Carolina,EV,7400,Historical
+2021,South Carolina,PHEV,4700,Historical
+2021,South Carolina,HEV,57400,Historical
+2021,South Carolina,Biodiesel,32100,Historical
+2021,South Carolina,E85,411800,Historical
+2021,South Carolina,CNG,400,Historical
+2021,South Carolina,Propane,100,Historical
+2021,South Carolina,Hydrogen,0,Historical
+2021,South Carolina,Methanol,0,Historical
+2021,South Carolina,Gasoline,4200600,Historical
+2021,South Carolina,Diesel,104900,Historical
+2021,South Carolina,Unknown Fuel,46000,Historical
+2021,South Dakota,EV,700,Historical
+2021,South Dakota,PHEV,700,Historical
+2021,South Dakota,HEV,8700,Historical
+2021,South Dakota,Biodiesel,16900,Historical
+2021,South Dakota,E85,105000,Historical
+2021,South Dakota,CNG,100,Historical
+2021,South Dakota,Propane,0,Historical
+2021,South Dakota,Hydrogen,0,Historical
+2021,South Dakota,Methanol,0,Historical
+2021,South Dakota,Gasoline,726200,Historical
+2021,South Dakota,Diesel,51100,Historical
+2021,South Dakota,Unknown Fuel,15700,Historical
+2021,Tennessee,EV,12200,Historical
+2021,Tennessee,PHEV,6300,Historical
+2021,Tennessee,HEV,79800,Historical
+2021,Tennessee,Biodiesel,38400,Historical
+2021,Tennessee,E85,511000,Historical
+2021,Tennessee,CNG,500,Historical
+2021,Tennessee,Propane,100,Historical
+2021,Tennessee,Hydrogen,0,Historical
+2021,Tennessee,Methanol,0,Historical
+2021,Tennessee,Gasoline,5396100,Historical
+2021,Tennessee,Diesel,150200,Historical
+2021,Tennessee,Unknown Fuel,39600,Historical
+2021,Texas,EV,80900,Historical
+2021,Texas,PHEV,30600,Historical
+2021,Texas,HEV,304700,Historical
+2021,Texas,Biodiesel,376300,Historical
+2021,Texas,E85,2422300,Historical
+2021,Texas,CNG,2200,Historical
+2021,Texas,Propane,1600,Historical
+2021,Texas,Hydrogen,0,Historical
+2021,Texas,Methanol,0,Historical
+2021,Texas,Gasoline,20599100,Historical
+2021,Texas,Diesel,765100,Historical
+2021,Texas,Unknown Fuel,131100,Historical
+2021,Utah,EV,16500,Historical
+2021,Utah,PHEV,7500,Historical
+2021,Utah,HEV,58500,Historical
+2021,Utah,Biodiesel,51600,Historical
+2021,Utah,E85,190200,Historical
+2021,Utah,CNG,2600,Historical
+2021,Utah,Propane,700,Historical
+2021,Utah,Hydrogen,0,Historical
+2021,Utah,Methanol,0,Historical
+2021,Utah,Gasoline,2428900,Historical
+2021,Utah,Diesel,153800,Historical
+2021,Utah,Unknown Fuel,27400,Historical
+2021,Vermont,EV,3400,Historical
+2021,Vermont,PHEV,3200,Historical
+2021,Vermont,HEV,15800,Historical
+2021,Vermont,Biodiesel,5600,Historical
+2021,Vermont,E85,42000,Historical
+2021,Vermont,CNG,100,Historical
+2021,Vermont,Propane,0,Historical
+2021,Vermont,Hydrogen,0,Historical
+2021,Vermont,Methanol,0,Historical
+2021,Vermont,Gasoline,511900,Historical
+2021,Vermont,Diesel,15000,Historical
+2021,Vermont,Unknown Fuel,5400,Historical
+2021,Virginia,EV,30700,Historical
+2021,Virginia,PHEV,15800,Historical
+2021,Virginia,HEV,176500,Historical
+2021,Virginia,Biodiesel,35300,Historical
+2021,Virginia,E85,506600,Historical
+2021,Virginia,CNG,600,Historical
+2021,Virginia,Propane,100,Historical
+2021,Virginia,Hydrogen,0,Historical
+2021,Virginia,Methanol,0,Historical
+2021,Virginia,Gasoline,6661000,Historical
+2021,Virginia,Diesel,154300,Historical
+2021,Virginia,Unknown Fuel,32700,Historical
+2021,Washington,EV,66800,Historical
+2021,Washington,PHEV,24300,Historical
+2021,Washington,HEV,240000,Historical
+2021,Washington,Biodiesel,59000,Historical
+2021,Washington,E85,359700,Historical
+2021,Washington,CNG,600,Historical
+2021,Washington,Propane,100,Historical
+2021,Washington,Hydrogen,0,Historical
+2021,Washington,Methanol,0,Historical
+2021,Washington,Gasoline,5792000,Historical
+2021,Washington,Diesel,283600,Historical
+2021,Washington,Unknown Fuel,64400,Historical
+2021,West Virginia,EV,1000,Historical
+2021,West Virginia,PHEV,1000,Historical
+2021,West Virginia,HEV,14500,Historical
+2021,West Virginia,Biodiesel,13900,Historical
+2021,West Virginia,E85,129800,Historical
+2021,West Virginia,CNG,200,Historical
+2021,West Virginia,Propane,0,Historical
+2021,West Virginia,Hydrogen,0,Historical
+2021,West Virginia,Methanol,0,Historical
+2021,West Virginia,Gasoline,1268300,Historical
+2021,West Virginia,Diesel,46100,Historical
+2021,West Virginia,Unknown Fuel,10900,Historical
+2021,Wisconsin,EV,9300,Historical
+2021,Wisconsin,PHEV,7700,Historical
+2021,Wisconsin,HEV,93500,Historical
+2021,Wisconsin,Biodiesel,39800,Historical
+2021,Wisconsin,E85,556500,Historical
+2021,Wisconsin,CNG,700,Historical
+2021,Wisconsin,Propane,100,Historical
+2021,Wisconsin,Hydrogen,0,Historical
+2021,Wisconsin,Methanol,0,Historical
+2021,Wisconsin,Gasoline,4639100,Historical
+2021,Wisconsin,Diesel,143300,Historical
+2021,Wisconsin,Unknown Fuel,29900,Historical
+2021,Wyoming,EV,500,Historical
+2021,Wyoming,PHEV,400,Historical
+2021,Wyoming,HEV,5700,Historical
+2021,Wyoming,Biodiesel,17100,Historical
+2021,Wyoming,E85,59400,Historical
+2021,Wyoming,CNG,100,Historical
+2021,Wyoming,Propane,0,Historical
+2021,Wyoming,Hydrogen,0,Historical
+2021,Wyoming,Methanol,0,Historical
+2021,Wyoming,Gasoline,482400,Historical
+2021,Wyoming,Diesel,62100,Historical
+2021,Wyoming,Unknown Fuel,15600,Historical
+2022,Alabama,EV,8700,Historical
+2022,Alabama,PHEV,4400,Historical
+2022,Alabama,HEV,50800,Historical
+2022,Alabama,Biodiesel,48100,Historical
+2022,Alabama,E85,449800,Historical
+2022,Alabama,CNG,100,Historical
+2022,Alabama,Propane,100,Historical
+2022,Alabama,Hydrogen,0,Historical
+2022,Alabama,Methanol,0,Historical
+2022,Alabama,Gasoline,4077100,Historical
+2022,Alabama,Diesel,126100,Historical
+2022,Alabama,Unknown Fuel,30300,Historical
+2022,Alaska,EV,2000,Historical
+2022,Alaska,PHEV,700,Historical
+2022,Alaska,HEV,9000,Historical
+2022,Alaska,Biodiesel,8700,Historical
+2022,Alaska,E85,48600,Historical
+2022,Alaska,CNG,0,Historical
+2022,Alaska,Propane,0,Historical
+2022,Alaska,Hydrogen,0,Historical
+2022,Alaska,Methanol,0,Historical
+2022,Alaska,Gasoline,457100,Historical
+2022,Alaska,Diesel,30500,Historical
+2022,Alaska,Unknown Fuel,5500,Historical
+2022,Arizona,EV,65800,Historical
+2022,Arizona,PHEV,20400,Historical
+2022,Arizona,HEV,150800,Historical
+2022,Arizona,Biodiesel,61200,Historical
+2022,Arizona,E85,446000,Historical
+2022,Arizona,CNG,600,Historical
+2022,Arizona,Propane,800,Historical
+2022,Arizona,Hydrogen,0,Historical
+2022,Arizona,Methanol,0,Historical
+2022,Arizona,Gasoline,5476100,Historical
+2022,Arizona,Diesel,198700,Historical
+2022,Arizona,Unknown Fuel,70100,Historical
+2022,Arkansas,EV,5100,Historical
+2022,Arkansas,PHEV,2500,Historical
+2022,Arkansas,HEV,30600,Historical
+2022,Arkansas,Biodiesel,33300,Historical
+2022,Arkansas,E85,283900,Historical
+2022,Arkansas,CNG,200,Historical
+2022,Arkansas,Propane,0,Historical
+2022,Arkansas,Hydrogen,0,Historical
+2022,Arkansas,Methanol,0,Historical
+2022,Arkansas,Gasoline,2229500,Historical
+2022,Arkansas,Diesel,89700,Historical
+2022,Arkansas,Unknown Fuel,10600,Historical
+2022,California,EV,903600,Historical
+2022,California,PHEV,361100,Historical
+2022,California,HEV,1514000,Historical
+2022,California,Biodiesel,183900,Historical
+2022,California,E85,1338000,Historical
+2022,California,CNG,10300,Historical
+2022,California,Propane,1500,Historical
+2022,California,Hydrogen,14900,Historical
+2022,California,Methanol,0,Historical
+2022,California,Gasoline,31059000,Historical
+2022,California,Diesel,725300,Historical
+2022,California,Unknown Fuel,8200,Historical
+2022,Colorado,EV,59900,Historical
+2022,Colorado,PHEV,24000,Historical
+2022,Colorado,HEV,131800,Historical
+2022,Colorado,Biodiesel,62100,Historical
+2022,Colorado,E85,346400,Historical
+2022,Colorado,CNG,300,Historical
+2022,Colorado,Propane,100,Historical
+2022,Colorado,Hydrogen,0,Historical
+2022,Colorado,Methanol,0,Historical
+2022,Colorado,Gasoline,4506300,Historical
+2022,Colorado,Diesel,206800,Historical
+2022,Colorado,Unknown Fuel,49400,Historical
+2022,Connecticut,EV,22000,Historical
+2022,Connecticut,PHEV,13100,Historical
+2022,Connecticut,HEV,64500,Historical
+2022,Connecticut,Biodiesel,10100,Historical
+2022,Connecticut,E85,139800,Historical
+2022,Connecticut,CNG,200,Historical
+2022,Connecticut,Propane,0,Historical
+2022,Connecticut,Hydrogen,0,Historical
+2022,Connecticut,Methanol,0,Historical
+2022,Connecticut,Gasoline,2636300,Historical
+2022,Connecticut,Diesel,44100,Historical
+2022,Connecticut,Unknown Fuel,21200,Historical
+2022,Delaware,EV,5400,Historical
+2022,Delaware,PHEV,2800,Historical
+2022,Delaware,HEV,19500,Historical
+2022,Delaware,Biodiesel,4700,Historical
+2022,Delaware,E85,66200,Historical
+2022,Delaware,CNG,0,Historical
+2022,Delaware,Propane,0,Historical
+2022,Delaware,Hydrogen,0,Historical
+2022,Delaware,Methanol,0,Historical
+2022,Delaware,Gasoline,795400,Historical
+2022,Delaware,Diesel,14500,Historical
+2022,Delaware,Unknown Fuel,5100,Historical
+2022,District of Columbia,EV,5900,Historical
+2022,District of Columbia,PHEV,3200,Historical
+2022,District of Columbia,HEV,17200,Historical
+2022,District of Columbia,Biodiesel,400,Historical
+2022,District of Columbia,E85,17800,Historical
+2022,District of Columbia,CNG,100,Historical
+2022,District of Columbia,Propane,0,Historical
+2022,District of Columbia,Hydrogen,0,Historical
+2022,District of Columbia,Methanol,0,Historical
+2022,District of Columbia,Gasoline,272200,Historical
+2022,District of Columbia,Diesel,2000,Historical
+2022,District of Columbia,Unknown Fuel,600,Historical
+2022,Florida,EV,168000,Historical
+2022,Florida,PHEV,45800,Historical
+2022,Florida,HEV,338700,Historical
+2022,Florida,Biodiesel,150900,Historical
+2022,Florida,E85,1137200,Historical
+2022,Florida,CNG,400,Historical
+2022,Florida,Propane,100,Historical
+2022,Florida,Hydrogen,0,Historical
+2022,Florida,Methanol,0,Historical
+2022,Florida,Gasoline,15846500,Historical
+2022,Florida,Diesel,343500,Historical
+2022,Florida,Unknown Fuel,97200,Historical
+2022,Georgia,EV,60100,Historical
+2022,Georgia,PHEV,18100,Historical
+2022,Georgia,HEV,147200,Historical
+2022,Georgia,Biodiesel,82500,Historical
+2022,Georgia,E85,745000,Historical
+2022,Georgia,CNG,300,Historical
+2022,Georgia,Propane,300,Historical
+2022,Georgia,Hydrogen,0,Historical
+2022,Georgia,Methanol,0,Historical
+2022,Georgia,Gasoline,8204500,Historical
+2022,Georgia,Diesel,205900,Historical
+2022,Georgia,Unknown Fuel,78500,Historical
+2022,Hawaii,EV,19800,Historical
+2022,Hawaii,PHEV,5600,Historical
+2022,Hawaii,HEV,32600,Historical
+2022,Hawaii,Biodiesel,3100,Historical
+2022,Hawaii,E85,39900,Historical
+2022,Hawaii,CNG,0,Historical
+2022,Hawaii,Propane,0,Historical
+2022,Hawaii,Hydrogen,0,Historical
+2022,Hawaii,Methanol,0,Historical
+2022,Hawaii,Gasoline,960000,Historical
+2022,Hawaii,Diesel,15500,Historical
+2022,Hawaii,Unknown Fuel,4000,Historical
+2022,Idaho,EV,5900,Historical
+2022,Idaho,PHEV,3500,Historical
+2022,Idaho,HEV,36500,Historical
+2022,Idaho,Biodiesel,40300,Historical
+2022,Idaho,E85,133300,Historical
+2022,Idaho,CNG,100,Historical
+2022,Idaho,Propane,100,Historical
+2022,Idaho,Hydrogen,0,Historical
+2022,Idaho,Methanol,0,Historical
+2022,Idaho,Gasoline,1545500,Historical
+2022,Idaho,Diesel,136000,Historical
+2022,Idaho,Unknown Fuel,33000,Historical
+2022,Illinois,EV,66900,Historical
+2022,Illinois,PHEV,25700,Historical
+2022,Illinois,HEV,244100,Historical
+2022,Illinois,Biodiesel,55400,Historical
+2022,Illinois,E85,807900,Historical
+2022,Illinois,CNG,300,Historical
+2022,Illinois,Propane,0,Historical
+2022,Illinois,Hydrogen,0,Historical
+2022,Illinois,Methanol,0,Historical
+2022,Illinois,Gasoline,8606400,Historical
+2022,Illinois,Diesel,171300,Historical
+2022,Illinois,Unknown Fuel,59500,Historical
+2022,Indiana,EV,17700,Historical
+2022,Indiana,PHEV,10100,Historical
+2022,Indiana,HEV,100900,Historical
+2022,Indiana,Biodiesel,49100,Historical
+2022,Indiana,E85,587100,Historical
+2022,Indiana,CNG,300,Historical
+2022,Indiana,Propane,0,Historical
+2022,Indiana,Hydrogen,0,Historical
+2022,Indiana,Methanol,0,Historical
+2022,Indiana,Gasoline,5116800,Historical
+2022,Indiana,Diesel,153500,Historical
+2022,Indiana,Unknown Fuel,58900,Historical
+2022,Iowa,EV,6200,Historical
+2022,Iowa,PHEV,4900,Historical
+2022,Iowa,HEV,48600,Historical
+2022,Iowa,Biodiesel,37000,Historical
+2022,Iowa,E85,338900,Historical
+2022,Iowa,CNG,100,Historical
+2022,Iowa,Propane,0,Historical
+2022,Iowa,Hydrogen,0,Historical
+2022,Iowa,Methanol,0,Historical
+2022,Iowa,Gasoline,2521300,Historical
+2022,Iowa,Diesel,103000,Historical
+2022,Iowa,Unknown Fuel,58200,Historical
+2022,Kansas,EV,7600,Historical
+2022,Kansas,PHEV,4300,Historical
+2022,Kansas,HEV,43500,Historical
+2022,Kansas,Biodiesel,25000,Historical
+2022,Kansas,E85,260100,Historical
+2022,Kansas,CNG,200,Historical
+2022,Kansas,Propane,100,Historical
+2022,Kansas,Hydrogen,0,Historical
+2022,Kansas,Methanol,0,Historical
+2022,Kansas,Gasoline,2159200,Historical
+2022,Kansas,Diesel,87000,Historical
+2022,Kansas,Unknown Fuel,17600,Historical
+2022,Kentucky,EV,7600,Historical
+2022,Kentucky,PHEV,4400,Historical
+2022,Kentucky,HEV,55800,Historical
+2022,Kentucky,Biodiesel,32300,Historical
+2022,Kentucky,E85,363800,Historical
+2022,Kentucky,CNG,300,Historical
+2022,Kentucky,Propane,0,Historical
+2022,Kentucky,Hydrogen,0,Historical
+2022,Kentucky,Methanol,0,Historical
+2022,Kentucky,Gasoline,3368800,Historical
+2022,Kentucky,Diesel,115800,Historical
+2022,Kentucky,Unknown Fuel,25800,Historical
+2022,Louisiana,EV,5900,Historical
+2022,Louisiana,PHEV,2900,Historical
+2022,Louisiana,HEV,31400,Historical
+2022,Louisiana,Biodiesel,60100,Historical
+2022,Louisiana,E85,397500,Historical
+2022,Louisiana,CNG,100,Historical
+2022,Louisiana,Propane,0,Historical
+2022,Louisiana,Hydrogen,0,Historical
+2022,Louisiana,Methanol,0,Historical
+2022,Louisiana,Gasoline,3159000,Historical
+2022,Louisiana,Diesel,115400,Historical
+2022,Louisiana,Unknown Fuel,19900,Historical
+2022,Maine,EV,5000,Historical
+2022,Maine,PHEV,5700,Historical
+2022,Maine,HEV,28900,Historical
+2022,Maine,Biodiesel,10500,Historical
+2022,Maine,E85,109100,Historical
+2022,Maine,CNG,0,Historical
+2022,Maine,Propane,0,Historical
+2022,Maine,Hydrogen,0,Historical
+2022,Maine,Methanol,0,Historical
+2022,Maine,Gasoline,1028100,Historical
+2022,Maine,Diesel,26800,Historical
+2022,Maine,Unknown Fuel,7900,Historical
+2022,Maryland,EV,46100,Historical
+2022,Maryland,PHEV,22900,Historical
+2022,Maryland,HEV,146200,Historical
+2022,Maryland,Biodiesel,30300,Historical
+2022,Maryland,E85,326900,Historical
+2022,Maryland,CNG,300,Historical
+2022,Maryland,Propane,0,Historical
+2022,Maryland,Hydrogen,0,Historical
+2022,Maryland,Methanol,0,Historical
+2022,Maryland,Gasoline,4373900,Historical
+2022,Maryland,Diesel,88400,Historical
+2022,Maryland,Unknown Fuel,31800,Historical
+2022,Massachusetts,EV,49400,Historical
+2022,Massachusetts,PHEV,30500,Historical
+2022,Massachusetts,HEV,158600,Historical
+2022,Massachusetts,Biodiesel,19500,Historical
+2022,Massachusetts,E85,297000,Historical
+2022,Massachusetts,CNG,200,Historical
+2022,Massachusetts,Propane,0,Historical
+2022,Massachusetts,Hydrogen,0,Historical
+2022,Massachusetts,Methanol,0,Historical
+2022,Massachusetts,Gasoline,4777600,Historical
+2022,Massachusetts,Diesel,59300,Historical
+2022,Massachusetts,Unknown Fuel,30200,Historical
+2022,Michigan,EV,33100,Historical
+2022,Michigan,PHEV,24300,Historical
+2022,Michigan,HEV,122800,Historical
+2022,Michigan,Biodiesel,62800,Historical
+2022,Michigan,E85,905700,Historical
+2022,Michigan,CNG,300,Historical
+2022,Michigan,Propane,100,Historical
+2022,Michigan,Hydrogen,0,Historical
+2022,Michigan,Methanol,0,Historical
+2022,Michigan,Gasoline,7071800,Historical
+2022,Michigan,Diesel,175400,Historical
+2022,Michigan,Unknown Fuel,49600,Historical
+2022,Minnesota,EV,24300,Historical
+2022,Minnesota,PHEV,11900,Historical
+2022,Minnesota,HEV,105300,Historical
+2022,Minnesota,Biodiesel,46900,Historical
+2022,Minnesota,E85,531500,Historical
+2022,Minnesota,CNG,100,Historical
+2022,Minnesota,Propane,0,Historical
+2022,Minnesota,Hydrogen,0,Historical
+2022,Minnesota,Methanol,0,Historical
+2022,Minnesota,Gasoline,4180500,Historical
+2022,Minnesota,Diesel,127300,Historical
+2022,Minnesota,Unknown Fuel,25600,Historical
+2022,Mississippi,EV,2400,Historical
+2022,Mississippi,PHEV,1600,Historical
+2022,Mississippi,HEV,22300,Historical
+2022,Mississippi,Biodiesel,31600,Historical
+2022,Mississippi,E85,302000,Historical
+2022,Mississippi,CNG,100,Historical
+2022,Mississippi,Propane,0,Historical
+2022,Mississippi,Hydrogen,0,Historical
+2022,Mississippi,Methanol,0,Historical
+2022,Mississippi,Gasoline,2275400,Historical
+2022,Mississippi,Diesel,75400,Historical
+2022,Mississippi,Unknown Fuel,9100,Historical
+2022,Missouri,EV,17900,Historical
+2022,Missouri,PHEV,10400,Historical
+2022,Missouri,HEV,95100,Historical
+2022,Missouri,Biodiesel,61300,Historical
+2022,Missouri,E85,576700,Historical
+2022,Missouri,CNG,1200,Historical
+2022,Missouri,Propane,100,Historical
+2022,Missouri,Hydrogen,0,Historical
+2022,Missouri,Methanol,0,Historical
+2022,Missouri,Gasoline,4444600,Historical
+2022,Missouri,Diesel,176200,Historical
+2022,Missouri,Unknown Fuel,38900,Historical
+2022,Montana,EV,3300,Historical
+2022,Montana,PHEV,1700,Historical
+2022,Montana,HEV,17100,Historical
+2022,Montana,Biodiesel,33200,Historical
+2022,Montana,E85,98000,Historical
+2022,Montana,CNG,0,Historical
+2022,Montana,Propane,0,Historical
+2022,Montana,Hydrogen,0,Historical
+2022,Montana,Methanol,0,Historical
+2022,Montana,Gasoline,765400,Historical
+2022,Montana,Diesel,69900,Historical
+2022,Montana,Unknown Fuel,11000,Historical
+2022,Nebraska,EV,4600,Historical
+2022,Nebraska,PHEV,2900,Historical
+2022,Nebraska,HEV,27300,Historical
+2022,Nebraska,Biodiesel,25600,Historical
+2022,Nebraska,E85,201800,Historical
+2022,Nebraska,CNG,100,Historical
+2022,Nebraska,Propane,0,Historical
+2022,Nebraska,Hydrogen,0,Historical
+2022,Nebraska,Methanol,0,Historical
+2022,Nebraska,Gasoline,1576900,Historical
+2022,Nebraska,Diesel,75100,Historical
+2022,Nebraska,Unknown Fuel,25900,Historical
+2022,Nevada,EV,32900,Historical
+2022,Nevada,PHEV,8800,Historical
+2022,Nevada,HEV,59100,Historical
+2022,Nevada,Biodiesel,24700,Historical
+2022,Nevada,E85,130700,Historical
+2022,Nevada,CNG,200,Historical
+2022,Nevada,Propane,100,Historical
+2022,Nevada,Hydrogen,0,Historical
+2022,Nevada,Methanol,0,Historical
+2022,Nevada,Gasoline,2157700,Historical
+2022,Nevada,Diesel,85200,Historical
+2022,Nevada,Unknown Fuel,21300,Historical
+2022,New Hampshire,EV,7000,Historical
+2022,New Hampshire,PHEV,4800,Historical
+2022,New Hampshire,HEV,31100,Historical
+2022,New Hampshire,Biodiesel,12900,Historical
+2022,New Hampshire,E85,95400,Historical
+2022,New Hampshire,CNG,100,Historical
+2022,New Hampshire,Propane,0,Historical
+2022,New Hampshire,Hydrogen,0,Historical
+2022,New Hampshire,Methanol,0,Historical
+2022,New Hampshire,Gasoline,1180700,Historical
+2022,New Hampshire,Diesel,29400,Historical
+2022,New Hampshire,Unknown Fuel,12300,Historical
+2022,New Jersey,EV,87000,Historical
+2022,New Jersey,PHEV,26800,Historical
+2022,New Jersey,HEV,142600,Historical
+2022,New Jersey,Biodiesel,25900,Historical
+2022,New Jersey,E85,404200,Historical
+2022,New Jersey,CNG,300,Historical
+2022,New Jersey,Propane,0,Historical
+2022,New Jersey,Hydrogen,0,Historical
+2022,New Jersey,Methanol,0,Historical
+2022,New Jersey,Gasoline,6339500,Historical
+2022,New Jersey,Diesel,85500,Historical
+2022,New Jersey,Unknown Fuel,36900,Historical
+2022,New Mexico,EV,7100,Historical
+2022,New Mexico,PHEV,3900,Historical
+2022,New Mexico,HEV,37600,Historical
+2022,New Mexico,Biodiesel,28600,Historical
+2022,New Mexico,E85,155900,Historical
+2022,New Mexico,CNG,100,Historical
+2022,New Mexico,Propane,100,Historical
+2022,New Mexico,Hydrogen,0,Historical
+2022,New Mexico,Methanol,0,Historical
+2022,New Mexico,Gasoline,1584500,Historical
+2022,New Mexico,Diesel,88000,Historical
+2022,New Mexico,Unknown Fuel,23600,Historical
+2022,New York,EV,84700,Historical
+2022,New York,PHEV,59800,Historical
+2022,New York,HEV,259600,Historical
+2022,New York,Biodiesel,48400,Historical
+2022,New York,E85,633100,Historical
+2022,New York,CNG,400,Historical
+2022,New York,Propane,100,Historical
+2022,New York,Hydrogen,0,Historical
+2022,New York,Methanol,0,Historical
+2022,New York,Gasoline,9987400,Historical
+2022,New York,Diesel,152000,Historical
+2022,New York,Unknown Fuel,80800,Historical
+2022,North Carolina,EV,45600,Historical
+2022,North Carolina,PHEV,18800,Historical
+2022,North Carolina,HEV,175300,Historical
+2022,North Carolina,Biodiesel,71300,Historical
+2022,North Carolina,E85,675300,Historical
+2022,North Carolina,CNG,300,Historical
+2022,North Carolina,Propane,100,Historical
+2022,North Carolina,Hydrogen,0,Historical
+2022,North Carolina,Methanol,0,Historical
+2022,North Carolina,Gasoline,7700300,Historical
+2022,North Carolina,Diesel,209600,Historical
+2022,North Carolina,Unknown Fuel,73700,Historical
+2022,North Dakota,EV,600,Historical
+2022,North Dakota,PHEV,600,Historical
+2022,North Dakota,HEV,6600,Historical
+2022,North Dakota,Biodiesel,18300,Historical
+2022,North Dakota,E85,93500,Historical
+2022,North Dakota,CNG,0,Historical
+2022,North Dakota,Propane,0,Historical
+2022,North Dakota,Hydrogen,0,Historical
+2022,North Dakota,Methanol,0,Historical
+2022,North Dakota,Gasoline,614300,Historical
+2022,North Dakota,Diesel,43800,Historical
+2022,North Dakota,Unknown Fuel,7800,Historical
+2022,Ohio,EV,34100,Historical
+2022,Ohio,PHEV,17800,Historical
+2022,Ohio,HEV,165700,Historical
+2022,Ohio,Biodiesel,63400,Historical
+2022,Ohio,E85,868500,Historical
+2022,Ohio,CNG,700,Historical
+2022,Ohio,Propane,100,Historical
+2022,Ohio,Hydrogen,0,Historical
+2022,Ohio,Methanol,0,Historical
+2022,Ohio,Gasoline,8868300,Historical
+2022,Ohio,Diesel,197000,Historical
+2022,Ohio,Unknown Fuel,62700,Historical
+2022,Oklahoma,EV,16300,Historical
+2022,Oklahoma,PHEV,11500,Historical
+2022,Oklahoma,HEV,47000,Historical
+2022,Oklahoma,Biodiesel,60200,Historical
+2022,Oklahoma,E85,380800,Historical
+2022,Oklahoma,CNG,2000,Historical
+2022,Oklahoma,Propane,300,Historical
+2022,Oklahoma,Hydrogen,0,Historical
+2022,Oklahoma,Methanol,0,Historical
+2022,Oklahoma,Gasoline,3538100,Historical
+2022,Oklahoma,Diesel,147500,Historical
+2022,Oklahoma,Unknown Fuel,46200,Historical
+2022,Oregon,EV,47000,Historical
+2022,Oregon,PHEV,22500,Historical
+2022,Oregon,HEV,138900,Historical
+2022,Oregon,Biodiesel,50200,Historical
+2022,Oregon,E85,186300,Historical
+2022,Oregon,CNG,100,Historical
+2022,Oregon,Propane,100,Historical
+2022,Oregon,Hydrogen,0,Historical
+2022,Oregon,Methanol,0,Historical
+2022,Oregon,Gasoline,3065400,Historical
+2022,Oregon,Diesel,216100,Historical
+2022,Oregon,Unknown Fuel,53200,Historical
+2022,Pennsylvania,EV,47400,Historical
+2022,Pennsylvania,PHEV,25400,Historical
+2022,Pennsylvania,HEV,199600,Historical
+2022,Pennsylvania,Biodiesel,68100,Historical
+2022,Pennsylvania,E85,698500,Historical
+2022,Pennsylvania,CNG,500,Historical
+2022,Pennsylvania,Propane,100,Historical
+2022,Pennsylvania,Hydrogen,0,Historical
+2022,Pennsylvania,Methanol,0,Historical
+2022,Pennsylvania,Gasoline,8888900,Historical
+2022,Pennsylvania,Diesel,191700,Historical
+2022,Pennsylvania,Unknown Fuel,45100,Historical
+2022,Rhode Island,EV,4300,Historical
+2022,Rhode Island,PHEV,3400,Historical
+2022,Rhode Island,HEV,18600,Historical
+2022,Rhode Island,Biodiesel,2800,Historical
+2022,Rhode Island,E85,43100,Historical
+2022,Rhode Island,CNG,0,Historical
+2022,Rhode Island,Propane,0,Historical
+2022,Rhode Island,Hydrogen,0,Historical
+2022,Rhode Island,Methanol,0,Historical
+2022,Rhode Island,Gasoline,782500,Historical
+2022,Rhode Island,Diesel,11200,Historical
+2022,Rhode Island,Unknown Fuel,6100,Historical
+2022,South Carolina,EV,13500,Historical
+2022,South Carolina,PHEV,6700,Historical
+2022,South Carolina,HEV,66800,Historical
+2022,South Carolina,Biodiesel,38300,Historical
+2022,South Carolina,E85,411400,Historical
+2022,South Carolina,CNG,100,Historical
+2022,South Carolina,Propane,100,Historical
+2022,South Carolina,Hydrogen,0,Historical
+2022,South Carolina,Methanol,0,Historical
+2022,South Carolina,Gasoline,4254700,Historical
+2022,South Carolina,Diesel,107600,Historical
+2022,South Carolina,Unknown Fuel,45500,Historical
+2022,South Dakota,EV,1200,Historical
+2022,South Dakota,PHEV,1000,Historical
+2022,South Dakota,HEV,10300,Historical
+2022,South Dakota,Biodiesel,20000,Historical
+2022,South Dakota,E85,105700,Historical
+2022,South Dakota,CNG,0,Historical
+2022,South Dakota,Propane,0,Historical
+2022,South Dakota,Hydrogen,0,Historical
+2022,South Dakota,Methanol,0,Historical
+2022,South Dakota,Gasoline,739400,Historical
+2022,South Dakota,Diesel,53000,Historical
+2022,South Dakota,Unknown Fuel,14500,Historical
+2022,Tennessee,EV,22000,Historical
+2022,Tennessee,PHEV,8900,Historical
+2022,Tennessee,HEV,94000,Historical
+2022,Tennessee,Biodiesel,45700,Historical
+2022,Tennessee,E85,519400,Historical
+2022,Tennessee,CNG,100,Historical
+2022,Tennessee,Propane,100,Historical
+2022,Tennessee,Hydrogen,0,Historical
+2022,Tennessee,Methanol,0,Historical
+2022,Tennessee,Gasoline,5536100,Historical
+2022,Tennessee,Diesel,157700,Historical
+2022,Tennessee,Unknown Fuel,38600,Historical
+2022,Texas,EV,149000,Historical
+2022,Texas,PHEV,42800,Historical
+2022,Texas,HEV,361800,Historical
+2022,Texas,Biodiesel,420800,Historical
+2022,Texas,E85,2398800,Historical
+2022,Texas,CNG,1400,Historical
+2022,Texas,Propane,1400,Historical
+2022,Texas,Hydrogen,0,Historical
+2022,Texas,Methanol,0,Historical
+2022,Texas,Gasoline,21065800,Historical
+2022,Texas,Diesel,771000,Historical
+2022,Texas,Unknown Fuel,133200,Historical
+2022,Utah,EV,28000,Historical
+2022,Utah,PHEV,10200,Historical
+2022,Utah,HEV,69300,Historical
+2022,Utah,Biodiesel,61500,Historical
+2022,Utah,E85,189900,Historical
+2022,Utah,CNG,2300,Historical
+2022,Utah,Propane,600,Historical
+2022,Utah,Hydrogen,0,Historical
+2022,Utah,Methanol,0,Historical
+2022,Utah,Gasoline,2454700,Historical
+2022,Utah,Diesel,155000,Historical
+2022,Utah,Unknown Fuel,26000,Historical
+2022,Vermont,EV,5300,Historical
+2022,Vermont,PHEV,4200,Historical
+2022,Vermont,HEV,17800,Historical
+2022,Vermont,Biodiesel,6400,Historical
+2022,Vermont,E85,40000,Historical
+2022,Vermont,CNG,0,Historical
+2022,Vermont,Propane,0,Historical
+2022,Vermont,Hydrogen,0,Historical
+2022,Vermont,Methanol,0,Historical
+2022,Vermont,Gasoline,501500,Historical
+2022,Vermont,Diesel,14700,Historical
+2022,Vermont,Unknown Fuel,5100,Historical
+2022,Virginia,EV,56600,Historical
+2022,Virginia,PHEV,21700,Historical
+2022,Virginia,HEV,198400,Historical
+2022,Virginia,Biodiesel,40000,Historical
+2022,Virginia,E85,496200,Historical
+2022,Virginia,CNG,300,Historical
+2022,Virginia,Propane,0,Historical
+2022,Virginia,Hydrogen,0,Historical
+2022,Virginia,Methanol,0,Historical
+2022,Virginia,Gasoline,6643300,Historical
+2022,Virginia,Diesel,153700,Historical
+2022,Virginia,Unknown Fuel,31900,Historical
+2022,Washington,EV,104100,Historical
+2022,Washington,PHEV,31400,Historical
+2022,Washington,HEV,270200,Historical
+2022,Washington,Biodiesel,67500,Historical
+2022,Washington,E85,348300,Historical
+2022,Washington,CNG,100,Historical
+2022,Washington,Propane,100,Historical
+2022,Washington,Hydrogen,0,Historical
+2022,Washington,Methanol,0,Historical
+2022,Washington,Gasoline,5650700,Historical
+2022,Washington,Diesel,277400,Historical
+2022,Washington,Unknown Fuel,52700,Historical
+2022,West Virginia,EV,1900,Historical
+2022,West Virginia,PHEV,1400,Historical
+2022,West Virginia,HEV,18300,Historical
+2022,West Virginia,Biodiesel,15600,Historical
+2022,West Virginia,E85,127500,Historical
+2022,West Virginia,CNG,100,Historical
+2022,West Virginia,Propane,0,Historical
+2022,West Virginia,Hydrogen,0,Historical
+2022,West Virginia,Methanol,0,Historical
+2022,West Virginia,Gasoline,1267500,Historical
+2022,West Virginia,Diesel,45700,Historical
+2022,West Virginia,Unknown Fuel,10900,Historical
+2022,Wisconsin,EV,15700,Historical
+2022,Wisconsin,PHEV,10000,Historical
+2022,Wisconsin,HEV,105200,Historical
+2022,Wisconsin,Biodiesel,46500,Historical
+2022,Wisconsin,E85,549700,Historical
+2022,Wisconsin,CNG,300,Historical
+2022,Wisconsin,Propane,0,Historical
+2022,Wisconsin,Hydrogen,0,Historical
+2022,Wisconsin,Methanol,0,Historical
+2022,Wisconsin,Gasoline,4577400,Historical
+2022,Wisconsin,Diesel,144500,Historical
+2022,Wisconsin,Unknown Fuel,26900,Historical
+2022,Wyoming,EV,800,Historical
+2022,Wyoming,PHEV,600,Historical
+2022,Wyoming,HEV,6900,Historical
+2022,Wyoming,Biodiesel,19100,Historical
+2022,Wyoming,E85,58600,Historical
+2022,Wyoming,CNG,0,Historical
+2022,Wyoming,Propane,0,Historical
+2022,Wyoming,Hydrogen,0,Historical
+2022,Wyoming,Methanol,0,Historical
+2022,Wyoming,Gasoline,483000,Historical
+2022,Wyoming,Diesel,61200,Historical
+2022,Wyoming,Unknown Fuel,14200,Historical
+2023,Alabama,EV,13000,Historical
+2023,Alabama,PHEV,5800,Historical
+2023,Alabama,HEV,63300,Historical
+2023,Alabama,Biodiesel,54200,Historical
+2023,Alabama,E85,441200,Historical
+2023,Alabama,CNG,100,Historical
+2023,Alabama,Propane,100,Historical
+2023,Alabama,Hydrogen,0,Historical
+2023,Alabama,Methanol,0,Historical
+2023,Alabama,Gasoline,4102200,Historical
+2023,Alabama,Diesel,127000,Historical
+2023,Alabama,Unknown Fuel,29000,Historical
+2023,Alaska,EV,2700,Historical
+2023,Alaska,PHEV,900,Historical
+2023,Alaska,HEV,10600,Historical
+2023,Alaska,Biodiesel,9600,Historical
+2023,Alaska,E85,46800,Historical
+2023,Alaska,CNG,0,Historical
+2023,Alaska,Propane,0,Historical
+2023,Alaska,Hydrogen,0,Historical
+2023,Alaska,Methanol,0,Historical
+2023,Alaska,Gasoline,454300,Historical
+2023,Alaska,Diesel,29800,Historical
+2023,Alaska,Unknown Fuel,5100,Historical
+2023,Arizona,EV,89800,Historical
+2023,Arizona,PHEV,25600,Historical
+2023,Arizona,HEV,175700,Historical
+2023,Arizona,Biodiesel,68600,Historical
+2023,Arizona,E85,437100,Historical
+2023,Arizona,CNG,600,Historical
+2023,Arizona,Propane,700,Historical
+2023,Arizona,Hydrogen,0,Historical
+2023,Arizona,Methanol,0,Historical
+2023,Arizona,Gasoline,5469000,Historical
+2023,Arizona,Diesel,197700,Historical
+2023,Arizona,Unknown Fuel,64200,Historical
+2023,Arkansas,EV,7100,Historical
+2023,Arkansas,PHEV,3200,Historical
+2023,Arkansas,HEV,37000,Historical
+2023,Arkansas,Biodiesel,37000,Historical
+2023,Arkansas,E85,276700,Historical
+2023,Arkansas,CNG,200,Historical
+2023,Arkansas,Propane,0,Historical
+2023,Arkansas,Hydrogen,0,Historical
+2023,Arkansas,Methanol,0,Historical
+2023,Arkansas,Gasoline,2246100,Historical
+2023,Arkansas,Diesel,90700,Historical
+2023,Arkansas,Unknown Fuel,10300,Historical
+2023,California,EV,1256600,Historical
+2023,California,PHEV,410700,Historical
+2023,California,HEV,1703200,Historical
+2023,California,Biodiesel,201600,Historical
+2023,California,E85,1314600,Historical
+2023,California,CNG,10100,Historical
+2023,California,Propane,1500,Historical
+2023,California,Hydrogen,16900,Historical
+2023,California,Methanol,0,Historical
+2023,California,Gasoline,31191900,Historical
+2023,California,Diesel,735300,Historical
+2023,California,Unknown Fuel,7900,Historical
+2023,Colorado,EV,90100,Historical
+2023,Colorado,PHEV,37500,Historical
+2023,Colorado,HEV,152700,Historical
+2023,Colorado,Biodiesel,68100,Historical
+2023,Colorado,E85,334300,Historical
+2023,Colorado,CNG,300,Historical
+2023,Colorado,Propane,100,Historical
+2023,Colorado,Hydrogen,0,Historical
+2023,Colorado,Methanol,0,Historical
+2023,Colorado,Gasoline,4508800,Historical
+2023,Colorado,Diesel,203400,Historical
+2023,Colorado,Unknown Fuel,46500,Historical
+2023,Connecticut,EV,31600,Historical
+2023,Connecticut,PHEV,18400,Historical
+2023,Connecticut,HEV,75300,Historical
+2023,Connecticut,Biodiesel,10900,Historical
+2023,Connecticut,E85,133600,Historical
+2023,Connecticut,CNG,100,Historical
+2023,Connecticut,Propane,0,Historical
+2023,Connecticut,Hydrogen,0,Historical
+2023,Connecticut,Methanol,0,Historical
+2023,Connecticut,Gasoline,2612600,Historical
+2023,Connecticut,Diesel,42300,Historical
+2023,Connecticut,Unknown Fuel,20900,Historical
+2023,Delaware,EV,8400,Historical
+2023,Delaware,PHEV,3800,Historical
+2023,Delaware,HEV,22900,Historical
+2023,Delaware,Biodiesel,5100,Historical
+2023,Delaware,E85,63900,Historical
+2023,Delaware,CNG,0,Historical
+2023,Delaware,Propane,0,Historical
+2023,Delaware,Hydrogen,0,Historical
+2023,Delaware,Methanol,0,Historical
+2023,Delaware,Gasoline,791300,Historical
+2023,Delaware,Diesel,14200,Historical
+2023,Delaware,Unknown Fuel,5100,Historical
+2023,District of Columbia,EV,8100,Historical
+2023,District of Columbia,PHEV,3700,Historical
+2023,District of Columbia,HEV,18100,Historical
+2023,District of Columbia,Biodiesel,400,Historical
+2023,District of Columbia,E85,16800,Historical
+2023,District of Columbia,CNG,100,Historical
+2023,District of Columbia,Propane,0,Historical
+2023,District of Columbia,Hydrogen,0,Historical
+2023,District of Columbia,Methanol,0,Historical
+2023,District of Columbia,Gasoline,262500,Historical
+2023,District of Columbia,Diesel,1800,Historical
+2023,District of Columbia,Unknown Fuel,600,Historical
+2023,Florida,EV,254900,Historical
+2023,Florida,PHEV,57300,Historical
+2023,Florida,HEV,414500,Historical
+2023,Florida,Biodiesel,170500,Historical
+2023,Florida,E85,1101100,Historical
+2023,Florida,CNG,400,Historical
+2023,Florida,Propane,100,Historical
+2023,Florida,Hydrogen,0,Historical
+2023,Florida,Methanol,0,Historical
+2023,Florida,Gasoline,16136500,Historical
+2023,Florida,Diesel,351800,Historical
+2023,Florida,Unknown Fuel,96100,Historical
+2023,Georgia,EV,92400,Historical
+2023,Georgia,PHEV,22700,Historical
+2023,Georgia,HEV,175300,Historical
+2023,Georgia,Biodiesel,92500,Historical
+2023,Georgia,E85,719400,Historical
+2023,Georgia,CNG,300,Historical
+2023,Georgia,Propane,200,Historical
+2023,Georgia,Hydrogen,0,Historical
+2023,Georgia,Methanol,0,Historical
+2023,Georgia,Gasoline,8256400,Historical
+2023,Georgia,Diesel,206300,Historical
+2023,Georgia,Unknown Fuel,76900,Historical
+2023,Hawaii,EV,25600,Historical
+2023,Hawaii,PHEV,7300,Historical
+2023,Hawaii,HEV,36400,Historical
+2023,Hawaii,Biodiesel,3400,Historical
+2023,Hawaii,E85,37300,Historical
+2023,Hawaii,CNG,0,Historical
+2023,Hawaii,Propane,0,Historical
+2023,Hawaii,Hydrogen,0,Historical
+2023,Hawaii,Methanol,0,Historical
+2023,Hawaii,Gasoline,951000,Historical
+2023,Hawaii,Diesel,15400,Historical
+2023,Hawaii,Unknown Fuel,3700,Historical
+2023,Idaho,EV,8500,Historical
+2023,Idaho,PHEV,4600,Historical
+2023,Idaho,HEV,43700,Historical
+2023,Idaho,Biodiesel,45900,Historical
+2023,Idaho,E85,132900,Historical
+2023,Idaho,CNG,100,Historical
+2023,Idaho,Propane,100,Historical
+2023,Idaho,Hydrogen,0,Historical
+2023,Idaho,Methanol,0,Historical
+2023,Idaho,Gasoline,1568600,Historical
+2023,Idaho,Diesel,138600,Historical
+2023,Idaho,Unknown Fuel,31600,Historical
+2023,Illinois,EV,99600,Historical
+2023,Illinois,PHEV,33400,Historical
+2023,Illinois,HEV,285400,Historical
+2023,Illinois,Biodiesel,61500,Historical
+2023,Illinois,E85,772900,Historical
+2023,Illinois,CNG,300,Historical
+2023,Illinois,Propane,0,Historical
+2023,Illinois,Hydrogen,0,Historical
+2023,Illinois,Methanol,0,Historical
+2023,Illinois,Gasoline,8560300,Historical
+2023,Illinois,Diesel,170200,Historical
+2023,Illinois,Unknown Fuel,59600,Historical
+2023,Indiana,EV,26100,Historical
+2023,Indiana,PHEV,12900,Historical
+2023,Indiana,HEV,119100,Historical
+2023,Indiana,Biodiesel,56300,Historical
+2023,Indiana,E85,576300,Historical
+2023,Indiana,CNG,300,Historical
+2023,Indiana,Propane,0,Historical
+2023,Indiana,Hydrogen,0,Historical
+2023,Indiana,Methanol,0,Historical
+2023,Indiana,Gasoline,5166200,Historical
+2023,Indiana,Diesel,156400,Historical
+2023,Indiana,Unknown Fuel,58500,Historical
+2023,Iowa,EV,9000,Historical
+2023,Iowa,PHEV,6100,Historical
+2023,Iowa,HEV,57200,Historical
+2023,Iowa,Biodiesel,41700,Historical
+2023,Iowa,E85,331300,Historical
+2023,Iowa,CNG,100,Historical
+2023,Iowa,Propane,0,Historical
+2023,Iowa,Hydrogen,0,Historical
+2023,Iowa,Methanol,0,Historical
+2023,Iowa,Gasoline,2545400,Historical
+2023,Iowa,Diesel,105000,Historical
+2023,Iowa,Unknown Fuel,57500,Historical
+2023,Kansas,EV,11300,Historical
+2023,Kansas,PHEV,5600,Historical
+2023,Kansas,HEV,50400,Historical
+2023,Kansas,Biodiesel,27900,Historical
+2023,Kansas,E85,253500,Historical
+2023,Kansas,CNG,200,Historical
+2023,Kansas,Propane,100,Historical
+2023,Kansas,Hydrogen,0,Historical
+2023,Kansas,Methanol,0,Historical
+2023,Kansas,Gasoline,2168600,Historical
+2023,Kansas,Diesel,87400,Historical
+2023,Kansas,Unknown Fuel,16100,Historical
+2023,Kentucky,EV,11600,Historical
+2023,Kentucky,PHEV,5600,Historical
+2023,Kentucky,HEV,67100,Historical
+2023,Kentucky,Biodiesel,36900,Historical
+2023,Kentucky,E85,361200,Historical
+2023,Kentucky,CNG,300,Historical
+2023,Kentucky,Propane,0,Historical
+2023,Kentucky,Hydrogen,0,Historical
+2023,Kentucky,Methanol,0,Historical
+2023,Kentucky,Gasoline,3415000,Historical
+2023,Kentucky,Diesel,117600,Historical
+2023,Kentucky,Unknown Fuel,24400,Historical
+2023,Louisiana,EV,8200,Historical
+2023,Louisiana,PHEV,4000,Historical
+2023,Louisiana,HEV,40200,Historical
+2023,Louisiana,Biodiesel,64200,Historical
+2023,Louisiana,E85,380100,Historical
+2023,Louisiana,CNG,100,Historical
+2023,Louisiana,Propane,0,Historical
+2023,Louisiana,Hydrogen,0,Historical
+2023,Louisiana,Methanol,0,Historical
+2023,Louisiana,Gasoline,3142800,Historical
+2023,Louisiana,Diesel,115500,Historical
+2023,Louisiana,Unknown Fuel,19100,Historical
+2023,Maine,EV,7400,Historical
+2023,Maine,PHEV,7600,Historical
+2023,Maine,HEV,33600,Historical
+2023,Maine,Biodiesel,12000,Historical
+2023,Maine,E85,104500,Historical
+2023,Maine,CNG,0,Historical
+2023,Maine,Propane,0,Historical
+2023,Maine,Hydrogen,0,Historical
+2023,Maine,Methanol,0,Historical
+2023,Maine,Gasoline,1036100,Historical
+2023,Maine,Diesel,26900,Historical
+2023,Maine,Unknown Fuel,7900,Historical
+2023,Maryland,EV,72100,Historical
+2023,Maryland,PHEV,31300,Historical
+2023,Maryland,HEV,168700,Historical
+2023,Maryland,Biodiesel,32100,Historical
+2023,Maryland,E85,309300,Historical
+2023,Maryland,CNG,300,Historical
+2023,Maryland,Propane,0,Historical
+2023,Maryland,Hydrogen,0,Historical
+2023,Maryland,Methanol,0,Historical
+2023,Maryland,Gasoline,4327800,Historical
+2023,Maryland,Diesel,86900,Historical
+2023,Maryland,Unknown Fuel,31500,Historical
+2023,Massachusetts,EV,73800,Historical
+2023,Massachusetts,PHEV,43800,Historical
+2023,Massachusetts,HEV,187300,Historical
+2023,Massachusetts,Biodiesel,21300,Historical
+2023,Massachusetts,E85,285000,Historical
+2023,Massachusetts,CNG,200,Historical
+2023,Massachusetts,Propane,0,Historical
+2023,Massachusetts,Hydrogen,0,Historical
+2023,Massachusetts,Methanol,0,Historical
+2023,Massachusetts,Gasoline,4791300,Historical
+2023,Massachusetts,Diesel,58400,Historical
+2023,Massachusetts,Unknown Fuel,30000,Historical
+2023,Michigan,EV,50300,Historical
+2023,Michigan,PHEV,29100,Historical
+2023,Michigan,HEV,148100,Historical
+2023,Michigan,Biodiesel,70400,Historical
+2023,Michigan,E85,873700,Historical
+2023,Michigan,CNG,300,Historical
+2023,Michigan,Propane,0,Historical
+2023,Michigan,Hydrogen,0,Historical
+2023,Michigan,Methanol,0,Historical
+2023,Michigan,Gasoline,7129600,Historical
+2023,Michigan,Diesel,174500,Historical
+2023,Michigan,Unknown Fuel,49400,Historical
+2023,Minnesota,EV,37100,Historical
+2023,Minnesota,PHEV,16100,Historical
+2023,Minnesota,HEV,124500,Historical
+2023,Minnesota,Biodiesel,52700,Historical
+2023,Minnesota,E85,516400,Historical
+2023,Minnesota,CNG,100,Historical
+2023,Minnesota,Propane,0,Historical
+2023,Minnesota,Hydrogen,0,Historical
+2023,Minnesota,Methanol,0,Historical
+2023,Minnesota,Gasoline,4219200,Historical
+2023,Minnesota,Diesel,127900,Historical
+2023,Minnesota,Unknown Fuel,24500,Historical
+2023,Mississippi,EV,3600,Historical
+2023,Mississippi,PHEV,2000,Historical
+2023,Mississippi,HEV,28200,Historical
+2023,Mississippi,Biodiesel,34900,Historical
+2023,Mississippi,E85,295200,Historical
+2023,Mississippi,CNG,100,Historical
+2023,Mississippi,Propane,0,Historical
+2023,Mississippi,Hydrogen,0,Historical
+2023,Mississippi,Methanol,0,Historical
+2023,Mississippi,Gasoline,2275600,Historical
+2023,Mississippi,Diesel,75200,Historical
+2023,Mississippi,Unknown Fuel,8500,Historical
+2023,Missouri,EV,26900,Historical
+2023,Missouri,PHEV,13900,Historical
+2023,Missouri,HEV,113900,Historical
+2023,Missouri,Biodiesel,70400,Historical
+2023,Missouri,E85,575500,Historical
+2023,Missouri,CNG,900,Historical
+2023,Missouri,Propane,100,Historical
+2023,Missouri,Hydrogen,0,Historical
+2023,Missouri,Methanol,0,Historical
+2023,Missouri,Gasoline,4608600,Historical
+2023,Missouri,Diesel,178200,Historical
+2023,Missouri,Unknown Fuel,37600,Historical
+2023,Montana,EV,4600,Historical
+2023,Montana,PHEV,2500,Historical
+2023,Montana,HEV,21100,Historical
+2023,Montana,Biodiesel,37900,Historical
+2023,Montana,E85,94500,Historical
+2023,Montana,CNG,0,Historical
+2023,Montana,Propane,0,Historical
+2023,Montana,Hydrogen,0,Historical
+2023,Montana,Methanol,0,Historical
+2023,Montana,Gasoline,780700,Historical
+2023,Montana,Diesel,69600,Historical
+2023,Montana,Unknown Fuel,10800,Historical
+2023,Nebraska,EV,6900,Historical
+2023,Nebraska,PHEV,3800,Historical
+2023,Nebraska,HEV,32600,Historical
+2023,Nebraska,Biodiesel,28900,Historical
+2023,Nebraska,E85,197100,Historical
+2023,Nebraska,CNG,100,Historical
+2023,Nebraska,Propane,0,Historical
+2023,Nebraska,Hydrogen,0,Historical
+2023,Nebraska,Methanol,0,Historical
+2023,Nebraska,Gasoline,1600400,Historical
+2023,Nebraska,Diesel,76100,Historical
+2023,Nebraska,Unknown Fuel,25300,Historical
+2023,Nevada,EV,47400,Historical
+2023,Nevada,PHEV,10600,Historical
+2023,Nevada,HEV,69600,Historical
+2023,Nevada,Biodiesel,27200,Historical
+2023,Nevada,E85,125600,Historical
+2023,Nevada,CNG,200,Historical
+2023,Nevada,Propane,100,Historical
+2023,Nevada,Hydrogen,0,Historical
+2023,Nevada,Methanol,0,Historical
+2023,Nevada,Gasoline,2169300,Historical
+2023,Nevada,Diesel,85800,Historical
+2023,Nevada,Unknown Fuel,20300,Historical
+2023,New Hampshire,EV,9900,Historical
+2023,New Hampshire,PHEV,6600,Historical
+2023,New Hampshire,HEV,36800,Historical
+2023,New Hampshire,Biodiesel,13900,Historical
+2023,New Hampshire,E85,89600,Historical
+2023,New Hampshire,CNG,100,Historical
+2023,New Hampshire,Propane,0,Historical
+2023,New Hampshire,Hydrogen,0,Historical
+2023,New Hampshire,Methanol,0,Historical
+2023,New Hampshire,Gasoline,1185300,Historical
+2023,New Hampshire,Diesel,29200,Historical
+2023,New Hampshire,Unknown Fuel,12300,Historical
+2023,New Jersey,EV,134800,Historical
+2023,New Jersey,PHEV,40900,Historical
+2023,New Jersey,HEV,174200,Historical
+2023,New Jersey,Biodiesel,27800,Historical
+2023,New Jersey,E85,392100,Historical
+2023,New Jersey,CNG,300,Historical
+2023,New Jersey,Propane,0,Historical
+2023,New Jersey,Hydrogen,0,Historical
+2023,New Jersey,Methanol,0,Historical
+2023,New Jersey,Gasoline,6433000,Historical
+2023,New Jersey,Diesel,84600,Historical
+2023,New Jersey,Unknown Fuel,36400,Historical
+2023,New Mexico,EV,10300,Historical
+2023,New Mexico,PHEV,4900,Historical
+2023,New Mexico,HEV,44300,Historical
+2023,New Mexico,Biodiesel,32100,Historical
+2023,New Mexico,E85,151600,Historical
+2023,New Mexico,CNG,100,Historical
+2023,New Mexico,Propane,100,Historical
+2023,New Mexico,Hydrogen,0,Historical
+2023,New Mexico,Methanol,0,Historical
+2023,New Mexico,Gasoline,1597600,Historical
+2023,New Mexico,Diesel,88500,Historical
+2023,New Mexico,Unknown Fuel,22900,Historical
+2023,New York,EV,131300,Historical
+2023,New York,PHEV,92300,Historical
+2023,New York,HEV,314000,Historical
+2023,New York,Biodiesel,54300,Historical
+2023,New York,E85,591100,Historical
+2023,New York,CNG,400,Historical
+2023,New York,Propane,100,Historical
+2023,New York,Hydrogen,0,Historical
+2023,New York,Methanol,0,Historical
+2023,New York,Gasoline,9905500,Historical
+2023,New York,Diesel,150500,Historical
+2023,New York,Unknown Fuel,79100,Historical
+2023,North Carolina,EV,70200,Historical
+2023,North Carolina,PHEV,23700,Historical
+2023,North Carolina,HEV,210600,Historical
+2023,North Carolina,Biodiesel,80200,Historical
+2023,North Carolina,E85,655000,Historical
+2023,North Carolina,CNG,300,Historical
+2023,North Carolina,Propane,100,Historical
+2023,North Carolina,Hydrogen,0,Historical
+2023,North Carolina,Methanol,0,Historical
+2023,North Carolina,Gasoline,7764000,Historical
+2023,North Carolina,Diesel,209700,Historical
+2023,North Carolina,Unknown Fuel,71700,Historical
+2023,North Dakota,EV,1000,Historical
+2023,North Dakota,PHEV,800,Historical
+2023,North Dakota,HEV,8200,Historical
+2023,North Dakota,Biodiesel,20400,Historical
+2023,North Dakota,E85,89900,Historical
+2023,North Dakota,CNG,0,Historical
+2023,North Dakota,Propane,0,Historical
+2023,North Dakota,Hydrogen,0,Historical
+2023,North Dakota,Methanol,0,Historical
+2023,North Dakota,Gasoline,625300,Historical
+2023,North Dakota,Diesel,44600,Historical
+2023,North Dakota,Unknown Fuel,7200,Historical
+2023,Ohio,EV,50400,Historical
+2023,Ohio,PHEV,24000,Historical
+2023,Ohio,HEV,199800,Historical
+2023,Ohio,Biodiesel,70300,Historical
+2023,Ohio,E85,833500,Historical
+2023,Ohio,CNG,700,Historical
+2023,Ohio,Propane,100,Historical
+2023,Ohio,Hydrogen,0,Historical
+2023,Ohio,Methanol,0,Historical
+2023,Ohio,Gasoline,8881400,Historical
+2023,Ohio,Diesel,196200,Historical
+2023,Ohio,Unknown Fuel,60900,Historical
+2023,Oklahoma,EV,22800,Historical
+2023,Oklahoma,PHEV,33000,Historical
+2023,Oklahoma,HEV,56400,Historical
+2023,Oklahoma,Biodiesel,63100,Historical
+2023,Oklahoma,E85,352400,Historical
+2023,Oklahoma,CNG,1800,Historical
+2023,Oklahoma,Propane,200,Historical
+2023,Oklahoma,Hydrogen,0,Historical
+2023,Oklahoma,Methanol,0,Historical
+2023,Oklahoma,Gasoline,3567500,Historical
+2023,Oklahoma,Diesel,145700,Historical
+2023,Oklahoma,Unknown Fuel,45000,Historical
+2023,Oregon,EV,64400,Historical
+2023,Oregon,PHEV,28800,Historical
+2023,Oregon,HEV,156900,Historical
+2023,Oregon,Biodiesel,55500,Historical
+2023,Oregon,E85,184600,Historical
+2023,Oregon,CNG,100,Historical
+2023,Oregon,Propane,100,Historical
+2023,Oregon,Hydrogen,0,Historical
+2023,Oregon,Methanol,0,Historical
+2023,Oregon,Gasoline,3074300,Historical
+2023,Oregon,Diesel,217000,Historical
+2023,Oregon,Unknown Fuel,51000,Historical
+2023,Pennsylvania,EV,70200,Historical
+2023,Pennsylvania,PHEV,38900,Historical
+2023,Pennsylvania,HEV,245400,Historical
+2023,Pennsylvania,Biodiesel,73900,Historical
+2023,Pennsylvania,E85,661700,Historical
+2023,Pennsylvania,CNG,500,Historical
+2023,Pennsylvania,Propane,100,Historical
+2023,Pennsylvania,Hydrogen,0,Historical
+2023,Pennsylvania,Methanol,0,Historical
+2023,Pennsylvania,Gasoline,8886400,Historical
+2023,Pennsylvania,Diesel,192100,Historical
+2023,Pennsylvania,Unknown Fuel,41800,Historical
+2023,Rhode Island,EV,6400,Historical
+2023,Rhode Island,PHEV,5100,Historical
+2023,Rhode Island,HEV,22100,Historical
+2023,Rhode Island,Biodiesel,3100,Historical
+2023,Rhode Island,E85,41900,Historical
+2023,Rhode Island,CNG,0,Historical
+2023,Rhode Island,Propane,0,Historical
+2023,Rhode Island,Hydrogen,0,Historical
+2023,Rhode Island,Methanol,0,Historical
+2023,Rhode Island,Gasoline,782000,Historical
+2023,Rhode Island,Diesel,11000,Historical
+2023,Rhode Island,Unknown Fuel,6000,Historical
+2023,South Carolina,EV,20900,Historical
+2023,South Carolina,PHEV,9000,Historical
+2023,South Carolina,HEV,83100,Historical
+2023,South Carolina,Biodiesel,44600,Historical
+2023,South Carolina,E85,404600,Historical
+2023,South Carolina,CNG,100,Historical
+2023,South Carolina,Propane,100,Historical
+2023,South Carolina,Hydrogen,0,Historical
+2023,South Carolina,Methanol,0,Historical
+2023,South Carolina,Gasoline,4325000,Historical
+2023,South Carolina,Diesel,110100,Historical
+2023,South Carolina,Unknown Fuel,44900,Historical
+2023,South Dakota,EV,1700,Historical
+2023,South Dakota,PHEV,1300,Historical
+2023,South Dakota,HEV,11900,Historical
+2023,South Dakota,Biodiesel,21500,Historical
+2023,South Dakota,E85,98800,Historical
+2023,South Dakota,CNG,0,Historical
+2023,South Dakota,Propane,0,Historical
+2023,South Dakota,Hydrogen,0,Historical
+2023,South Dakota,Methanol,0,Historical
+2023,South Dakota,Gasoline,718300,Historical
+2023,South Dakota,Diesel,51200,Historical
+2023,South Dakota,Unknown Fuel,13300,Historical
+2023,Tennessee,EV,33200,Historical
+2023,Tennessee,PHEV,11000,Historical
+2023,Tennessee,HEV,113300,Historical
+2023,Tennessee,Biodiesel,53100,Historical
+2023,Tennessee,E85,509000,Historical
+2023,Tennessee,CNG,200,Historical
+2023,Tennessee,Propane,100,Historical
+2023,Tennessee,Hydrogen,0,Historical
+2023,Tennessee,Methanol,0,Historical
+2023,Tennessee,Gasoline,5620500,Historical
+2023,Tennessee,Diesel,160700,Historical
+2023,Tennessee,Unknown Fuel,37700,Historical
+2023,Texas,EV,230100,Historical
+2023,Texas,PHEV,55300,Historical
+2023,Texas,HEV,445100,Historical
+2023,Texas,Biodiesel,460700,Historical
+2023,Texas,E85,2315400,Historical
+2023,Texas,CNG,1300,Historical
+2023,Texas,Propane,1300,Historical
+2023,Texas,Hydrogen,0,Historical
+2023,Texas,Methanol,0,Historical
+2023,Texas,Gasoline,21392800,Historical
+2023,Texas,Diesel,772800,Historical
+2023,Texas,Unknown Fuel,121800,Historical
+2023,Utah,EV,40000,Historical
+2023,Utah,PHEV,13000,Historical
+2023,Utah,HEV,83200,Historical
+2023,Utah,Biodiesel,68500,Historical
+2023,Utah,E85,185200,Historical
+2023,Utah,CNG,2200,Historical
+2023,Utah,Propane,500,Historical
+2023,Utah,Hydrogen,0,Historical
+2023,Utah,Methanol,0,Historical
+2023,Utah,Gasoline,2499600,Historical
+2023,Utah,Diesel,158000,Historical
+2023,Utah,Unknown Fuel,26000,Historical
+2023,Vermont,EV,7800,Historical
+2023,Vermont,PHEV,5700,Historical
+2023,Vermont,HEV,20300,Historical
+2023,Vermont,Biodiesel,7000,Historical
+2023,Vermont,E85,36600,Historical
+2023,Vermont,CNG,0,Historical
+2023,Vermont,Propane,0,Historical
+2023,Vermont,Hydrogen,0,Historical
+2023,Vermont,Methanol,0,Historical
+2023,Vermont,Gasoline,496000,Historical
+2023,Vermont,Diesel,14700,Historical
+2023,Vermont,Unknown Fuel,5000,Historical
+2023,Virginia,EV,84900,Historical
+2023,Virginia,PHEV,26800,Historical
+2023,Virginia,HEV,229400,Historical
+2023,Virginia,Biodiesel,44300,Historical
+2023,Virginia,E85,484800,Historical
+2023,Virginia,CNG,300,Historical
+2023,Virginia,Propane,0,Historical
+2023,Virginia,Hydrogen,0,Historical
+2023,Virginia,Methanol,0,Historical
+2023,Virginia,Gasoline,6670000,Historical
+2023,Virginia,Diesel,152800,Historical
+2023,Virginia,Unknown Fuel,30200,Historical
+2023,Washington,EV,152100,Historical
+2023,Washington,PHEV,41200,Historical
+2023,Washington,HEV,307200,Historical
+2023,Washington,Biodiesel,73800,Historical
+2023,Washington,E85,337700,Historical
+2023,Washington,CNG,100,Historical
+2023,Washington,Propane,100,Historical
+2023,Washington,Hydrogen,0,Historical
+2023,Washington,Methanol,0,Historical
+2023,Washington,Gasoline,5583000,Historical
+2023,Washington,Diesel,274200,Historical
+2023,Washington,Unknown Fuel,46700,Historical
+2023,West Virginia,EV,2800,Historical
+2023,West Virginia,PHEV,1800,Historical
+2023,West Virginia,HEV,22400,Historical
+2023,West Virginia,Biodiesel,17300,Historical
+2023,West Virginia,E85,123400,Historical
+2023,West Virginia,CNG,100,Historical
+2023,West Virginia,Propane,0,Historical
+2023,West Virginia,Hydrogen,0,Historical
+2023,West Virginia,Methanol,0,Historical
+2023,West Virginia,Gasoline,1281500,Historical
+2023,West Virginia,Diesel,46400,Historical
+2023,West Virginia,Unknown Fuel,15200,Historical
+2023,Wisconsin,EV,24900,Historical
+2023,Wisconsin,PHEV,12500,Historical
+2023,Wisconsin,HEV,123600,Historical
+2023,Wisconsin,Biodiesel,52900,Historical
+2023,Wisconsin,E85,536200,Historical
+2023,Wisconsin,CNG,300,Historical
+2023,Wisconsin,Propane,0,Historical
+2023,Wisconsin,Hydrogen,0,Historical
+2023,Wisconsin,Methanol,0,Historical
+2023,Wisconsin,Gasoline,4604700,Historical
+2023,Wisconsin,Diesel,147500,Historical
+2023,Wisconsin,Unknown Fuel,26400,Historical
+2023,Wyoming,EV,1100,Historical
+2023,Wyoming,PHEV,800,Historical
+2023,Wyoming,HEV,8400,Historical
+2023,Wyoming,Biodiesel,21200,Historical
+2023,Wyoming,E85,57700,Historical
+2023,Wyoming,CNG,0,Historical
+2023,Wyoming,Propane,0,Historical
+2023,Wyoming,Hydrogen,0,Historical
+2023,Wyoming,Methanol,0,Historical
+2023,Wyoming,Gasoline,489100,Historical
+2023,Wyoming,Diesel,60900,Historical
+2023,Wyoming,Unknown Fuel,13700,Historical

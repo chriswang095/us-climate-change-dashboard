@@ -1,0 +1,612 @@
+﻿Alabama,EV,13000,2023
+Alabama,PHEV,5800,2023
+Alabama,HEV,63300,2023
+Alabama,Biodiesel,54200,2023
+Alabama,E85,441200,2023
+Alabama,CNG,100,2023
+Alabama,Propane,100,2023
+Alabama,Hydrogen,0,2023
+Alabama,Methanol,0,2023
+Alabama,Gasoline,4102200,2023
+Alabama,Diesel,127000,2023
+Alabama,Unknown Fuel,29000,2023
+Alaska,EV,2700,2023
+Alaska,PHEV,900,2023
+Alaska,HEV,10600,2023
+Alaska,Biodiesel,9600,2023
+Alaska,E85,46800,2023
+Alaska,CNG,0,2023
+Alaska,Propane,0,2023
+Alaska,Hydrogen,0,2023
+Alaska,Methanol,0,2023
+Alaska,Gasoline,454300,2023
+Alaska,Diesel,29800,2023
+Alaska,Unknown Fuel,5100,2023
+Arizona,EV,89800,2023
+Arizona,PHEV,25600,2023
+Arizona,HEV,175700,2023
+Arizona,Biodiesel,68600,2023
+Arizona,E85,437100,2023
+Arizona,CNG,600,2023
+Arizona,Propane,700,2023
+Arizona,Hydrogen,0,2023
+Arizona,Methanol,0,2023
+Arizona,Gasoline,5469000,2023
+Arizona,Diesel,197700,2023
+Arizona,Unknown Fuel,64200,2023
+Arkansas,EV,7100,2023
+Arkansas,PHEV,3200,2023
+Arkansas,HEV,37000,2023
+Arkansas,Biodiesel,37000,2023
+Arkansas,E85,276700,2023
+Arkansas,CNG,200,2023
+Arkansas,Propane,0,2023
+Arkansas,Hydrogen,0,2023
+Arkansas,Methanol,0,2023
+Arkansas,Gasoline,2246100,2023
+Arkansas,Diesel,90700,2023
+Arkansas,Unknown Fuel,10300,2023
+California,EV,1256600,2023
+California,PHEV,410700,2023
+California,HEV,1703200,2023
+California,Biodiesel,201600,2023
+California,E85,1314600,2023
+California,CNG,10100,2023
+California,Propane,1500,2023
+California,Hydrogen,16900,2023
+California,Methanol,0,2023
+California,Gasoline,31191900,2023
+California,Diesel,735300,2023
+California,Unknown Fuel,7900,2023
+Colorado,EV,90100,2023
+Colorado,PHEV,37500,2023
+Colorado,HEV,152700,2023
+Colorado,Biodiesel,68100,2023
+Colorado,E85,334300,2023
+Colorado,CNG,300,2023
+Colorado,Propane,100,2023
+Colorado,Hydrogen,0,2023
+Colorado,Methanol,0,2023
+Colorado,Gasoline,4508800,2023
+Colorado,Diesel,203400,2023
+Colorado,Unknown Fuel,46500,2023
+Connecticut,EV,31600,2023
+Connecticut,PHEV,18400,2023
+Connecticut,HEV,75300,2023
+Connecticut,Biodiesel,10900,2023
+Connecticut,E85,133600,2023
+Connecticut,CNG,100,2023
+Connecticut,Propane,0,2023
+Connecticut,Hydrogen,0,2023
+Connecticut,Methanol,0,2023
+Connecticut,Gasoline,2612600,2023
+Connecticut,Diesel,42300,2023
+Connecticut,Unknown Fuel,20900,2023
+Delaware,EV,8400,2023
+Delaware,PHEV,3800,2023
+Delaware,HEV,22900,2023
+Delaware,Biodiesel,5100,2023
+Delaware,E85,63900,2023
+Delaware,CNG,0,2023
+Delaware,Propane,0,2023
+Delaware,Hydrogen,0,2023
+Delaware,Methanol,0,2023
+Delaware,Gasoline,791300,2023
+Delaware,Diesel,14200,2023
+Delaware,Unknown Fuel,5100,2023
+District of Columbia,EV,8100,2023
+District of Columbia,PHEV,3700,2023
+District of Columbia,HEV,18100,2023
+District of Columbia,Biodiesel,400,2023
+District of Columbia,E85,16800,2023
+District of Columbia,CNG,100,2023
+District of Columbia,Propane,0,2023
+District of Columbia,Hydrogen,0,2023
+District of Columbia,Methanol,0,2023
+District of Columbia,Gasoline,262500,2023
+District of Columbia,Diesel,1800,2023
+District of Columbia,Unknown Fuel,600,2023
+Florida,EV,254900,2023
+Florida,PHEV,57300,2023
+Florida,HEV,414500,2023
+Florida,Biodiesel,170500,2023
+Florida,E85,1101100,2023
+Florida,CNG,400,2023
+Florida,Propane,100,2023
+Florida,Hydrogen,0,2023
+Florida,Methanol,0,2023
+Florida,Gasoline,16136500,2023
+Florida,Diesel,351800,2023
+Florida,Unknown Fuel,96100,2023
+Georgia,EV,92400,2023
+Georgia,PHEV,22700,2023
+Georgia,HEV,175300,2023
+Georgia,Biodiesel,92500,2023
+Georgia,E85,719400,2023
+Georgia,CNG,300,2023
+Georgia,Propane,200,2023
+Georgia,Hydrogen,0,2023
+Georgia,Methanol,0,2023
+Georgia,Gasoline,8256400,2023
+Georgia,Diesel,206300,2023
+Georgia,Unknown Fuel,76900,2023
+Hawaii,EV,25600,2023
+Hawaii,PHEV,7300,2023
+Hawaii,HEV,36400,2023
+Hawaii,Biodiesel,3400,2023
+Hawaii,E85,37300,2023
+Hawaii,CNG,0,2023
+Hawaii,Propane,0,2023
+Hawaii,Hydrogen,0,2023
+Hawaii,Methanol,0,2023
+Hawaii,Gasoline,951000,2023
+Hawaii,Diesel,15400,2023
+Hawaii,Unknown Fuel,3700,2023
+Idaho,EV,8500,2023
+Idaho,PHEV,4600,2023
+Idaho,HEV,43700,2023
+Idaho,Biodiesel,45900,2023
+Idaho,E85,132900,2023
+Idaho,CNG,100,2023
+Idaho,Propane,100,2023
+Idaho,Hydrogen,0,2023
+Idaho,Methanol,0,2023
+Idaho,Gasoline,1568600,2023
+Idaho,Diesel,138600,2023
+Idaho,Unknown Fuel,31600,2023
+Illinois,EV,99600,2023
+Illinois,PHEV,33400,2023
+Illinois,HEV,285400,2023
+Illinois,Biodiesel,61500,2023
+Illinois,E85,772900,2023
+Illinois,CNG,300,2023
+Illinois,Propane,0,2023
+Illinois,Hydrogen,0,2023
+Illinois,Methanol,0,2023
+Illinois,Gasoline,8560300,2023
+Illinois,Diesel,170200,2023
+Illinois,Unknown Fuel,59600,2023
+Indiana,EV,26100,2023
+Indiana,PHEV,12900,2023
+Indiana,HEV,119100,2023
+Indiana,Biodiesel,56300,2023
+Indiana,E85,576300,2023
+Indiana,CNG,300,2023
+Indiana,Propane,0,2023
+Indiana,Hydrogen,0,2023
+Indiana,Methanol,0,2023
+Indiana,Gasoline,5166200,2023
+Indiana,Diesel,156400,2023
+Indiana,Unknown Fuel,58500,2023
+Iowa,EV,9000,2023
+Iowa,PHEV,6100,2023
+Iowa,HEV,57200,2023
+Iowa,Biodiesel,41700,2023
+Iowa,E85,331300,2023
+Iowa,CNG,100,2023
+Iowa,Propane,0,2023
+Iowa,Hydrogen,0,2023
+Iowa,Methanol,0,2023
+Iowa,Gasoline,2545400,2023
+Iowa,Diesel,105000,2023
+Iowa,Unknown Fuel,57500,2023
+Kansas,EV,11300,2023
+Kansas,PHEV,5600,2023
+Kansas,HEV,50400,2023
+Kansas,Biodiesel,27900,2023
+Kansas,E85,253500,2023
+Kansas,CNG,200,2023
+Kansas,Propane,100,2023
+Kansas,Hydrogen,0,2023
+Kansas,Methanol,0,2023
+Kansas,Gasoline,2168600,2023
+Kansas,Diesel,87400,2023
+Kansas,Unknown Fuel,16100,2023
+Kentucky,EV,11600,2023
+Kentucky,PHEV,5600,2023
+Kentucky,HEV,67100,2023
+Kentucky,Biodiesel,36900,2023
+Kentucky,E85,361200,2023
+Kentucky,CNG,300,2023
+Kentucky,Propane,0,2023
+Kentucky,Hydrogen,0,2023
+Kentucky,Methanol,0,2023
+Kentucky,Gasoline,3415000,2023
+Kentucky,Diesel,117600,2023
+Kentucky,Unknown Fuel,24400,2023
+Louisiana,EV,8200,2023
+Louisiana,PHEV,4000,2023
+Louisiana,HEV,40200,2023
+Louisiana,Biodiesel,64200,2023
+Louisiana,E85,380100,2023
+Louisiana,CNG,100,2023
+Louisiana,Propane,0,2023
+Louisiana,Hydrogen,0,2023
+Louisiana,Methanol,0,2023
+Louisiana,Gasoline,3142800,2023
+Louisiana,Diesel,115500,2023
+Louisiana,Unknown Fuel,19100,2023
+Maine,EV,7400,2023
+Maine,PHEV,7600,2023
+Maine,HEV,33600,2023
+Maine,Biodiesel,12000,2023
+Maine,E85,104500,2023
+Maine,CNG,0,2023
+Maine,Propane,0,2023
+Maine,Hydrogen,0,2023
+Maine,Methanol,0,2023
+Maine,Gasoline,1036100,2023
+Maine,Diesel,26900,2023
+Maine,Unknown Fuel,7900,2023
+Maryland,EV,72100,2023
+Maryland,PHEV,31300,2023
+Maryland,HEV,168700,2023
+Maryland,Biodiesel,32100,2023
+Maryland,E85,309300,2023
+Maryland,CNG,300,2023
+Maryland,Propane,0,2023
+Maryland,Hydrogen,0,2023
+Maryland,Methanol,0,2023
+Maryland,Gasoline,4327800,2023
+Maryland,Diesel,86900,2023
+Maryland,Unknown Fuel,31500,2023
+Massachusetts,EV,73800,2023
+Massachusetts,PHEV,43800,2023
+Massachusetts,HEV,187300,2023
+Massachusetts,Biodiesel,21300,2023
+Massachusetts,E85,285000,2023
+Massachusetts,CNG,200,2023
+Massachusetts,Propane,0,2023
+Massachusetts,Hydrogen,0,2023
+Massachusetts,Methanol,0,2023
+Massachusetts,Gasoline,4791300,2023
+Massachusetts,Diesel,58400,2023
+Massachusetts,Unknown Fuel,30000,2023
+Michigan,EV,50300,2023
+Michigan,PHEV,29100,2023
+Michigan,HEV,148100,2023
+Michigan,Biodiesel,70400,2023
+Michigan,E85,873700,2023
+Michigan,CNG,300,2023
+Michigan,Propane,0,2023
+Michigan,Hydrogen,0,2023
+Michigan,Methanol,0,2023
+Michigan,Gasoline,7129600,2023
+Michigan,Diesel,174500,2023
+Michigan,Unknown Fuel,49400,2023
+Minnesota,EV,37100,2023
+Minnesota,PHEV,16100,2023
+Minnesota,HEV,124500,2023
+Minnesota,Biodiesel,52700,2023
+Minnesota,E85,516400,2023
+Minnesota,CNG,100,2023
+Minnesota,Propane,0,2023
+Minnesota,Hydrogen,0,2023
+Minnesota,Methanol,0,2023
+Minnesota,Gasoline,4219200,2023
+Minnesota,Diesel,127900,2023
+Minnesota,Unknown Fuel,24500,2023
+Mississippi,EV,3600,2023
+Mississippi,PHEV,2000,2023
+Mississippi,HEV,28200,2023
+Mississippi,Biodiesel,34900,2023
+Mississippi,E85,295200,2023
+Mississippi,CNG,100,2023
+Mississippi,Propane,0,2023
+Mississippi,Hydrogen,0,2023
+Mississippi,Methanol,0,2023
+Mississippi,Gasoline,2275600,2023
+Mississippi,Diesel,75200,2023
+Mississippi,Unknown Fuel,8500,2023
+Missouri,EV,26900,2023
+Missouri,PHEV,13900,2023
+Missouri,HEV,113900,2023
+Missouri,Biodiesel,70400,2023
+Missouri,E85,575500,2023
+Missouri,CNG,900,2023
+Missouri,Propane,100,2023
+Missouri,Hydrogen,0,2023
+Missouri,Methanol,0,2023
+Missouri,Gasoline,4608600,2023
+Missouri,Diesel,178200,2023
+Missouri,Unknown Fuel,37600,2023
+Montana,EV,4600,2023
+Montana,PHEV,2500,2023
+Montana,HEV,21100,2023
+Montana,Biodiesel,37900,2023
+Montana,E85,94500,2023
+Montana,CNG,0,2023
+Montana,Propane,0,2023
+Montana,Hydrogen,0,2023
+Montana,Methanol,0,2023
+Montana,Gasoline,780700,2023
+Montana,Diesel,69600,2023
+Montana,Unknown Fuel,10800,2023
+Nebraska,EV,6900,2023
+Nebraska,PHEV,3800,2023
+Nebraska,HEV,32600,2023
+Nebraska,Biodiesel,28900,2023
+Nebraska,E85,197100,2023
+Nebraska,CNG,100,2023
+Nebraska,Propane,0,2023
+Nebraska,Hydrogen,0,2023
+Nebraska,Methanol,0,2023
+Nebraska,Gasoline,1600400,2023
+Nebraska,Diesel,76100,2023
+Nebraska,Unknown Fuel,25300,2023
+Nevada,EV,47400,2023
+Nevada,PHEV,10600,2023
+Nevada,HEV,69600,2023
+Nevada,Biodiesel,27200,2023
+Nevada,E85,125600,2023
+Nevada,CNG,200,2023
+Nevada,Propane,100,2023
+Nevada,Hydrogen,0,2023
+Nevada,Methanol,0,2023
+Nevada,Gasoline,2169300,2023
+Nevada,Diesel,85800,2023
+Nevada,Unknown Fuel,20300,2023
+New Hampshire,EV,9900,2023
+New Hampshire,PHEV,6600,2023
+New Hampshire,HEV,36800,2023
+New Hampshire,Biodiesel,13900,2023
+New Hampshire,E85,89600,2023
+New Hampshire,CNG,100,2023
+New Hampshire,Propane,0,2023
+New Hampshire,Hydrogen,0,2023
+New Hampshire,Methanol,0,2023
+New Hampshire,Gasoline,1185300,2023
+New Hampshire,Diesel,29200,2023
+New Hampshire,Unknown Fuel,12300,2023
+New Jersey,EV,134800,2023
+New Jersey,PHEV,40900,2023
+New Jersey,HEV,174200,2023
+New Jersey,Biodiesel,27800,2023
+New Jersey,E85,392100,2023
+New Jersey,CNG,300,2023
+New Jersey,Propane,0,2023
+New Jersey,Hydrogen,0,2023
+New Jersey,Methanol,0,2023
+New Jersey,Gasoline,6433000,2023
+New Jersey,Diesel,84600,2023
+New Jersey,Unknown Fuel,36400,2023
+New Mexico,EV,10300,2023
+New Mexico,PHEV,4900,2023
+New Mexico,HEV,44300,2023
+New Mexico,Biodiesel,32100,2023
+New Mexico,E85,151600,2023
+New Mexico,CNG,100,2023
+New Mexico,Propane,100,2023
+New Mexico,Hydrogen,0,2023
+New Mexico,Methanol,0,2023
+New Mexico,Gasoline,1597600,2023
+New Mexico,Diesel,88500,2023
+New Mexico,Unknown Fuel,22900,2023
+New York,EV,131300,2023
+New York,PHEV,92300,2023
+New York,HEV,314000,2023
+New York,Biodiesel,54300,2023
+New York,E85,591100,2023
+New York,CNG,400,2023
+New York,Propane,100,2023
+New York,Hydrogen,0,2023
+New York,Methanol,0,2023
+New York,Gasoline,9905500,2023
+New York,Diesel,150500,2023
+New York,Unknown Fuel,79100,2023
+North Carolina,EV,70200,2023
+North Carolina,PHEV,23700,2023
+North Carolina,HEV,210600,2023
+North Carolina,Biodiesel,80200,2023
+North Carolina,E85,655000,2023
+North Carolina,CNG,300,2023
+North Carolina,Propane,100,2023
+North Carolina,Hydrogen,0,2023
+North Carolina,Methanol,0,2023
+North Carolina,Gasoline,7764000,2023
+North Carolina,Diesel,209700,2023
+North Carolina,Unknown Fuel,71700,2023
+North Dakota,EV,1000,2023
+North Dakota,PHEV,800,2023
+North Dakota,HEV,8200,2023
+North Dakota,Biodiesel,20400,2023
+North Dakota,E85,89900,2023
+North Dakota,CNG,0,2023
+North Dakota,Propane,0,2023
+North Dakota,Hydrogen,0,2023
+North Dakota,Methanol,0,2023
+North Dakota,Gasoline,625300,2023
+North Dakota,Diesel,44600,2023
+North Dakota,Unknown Fuel,7200,2023
+Ohio,EV,50400,2023
+Ohio,PHEV,24000,2023
+Ohio,HEV,199800,2023
+Ohio,Biodiesel,70300,2023
+Ohio,E85,833500,2023
+Ohio,CNG,700,2023
+Ohio,Propane,100,2023
+Ohio,Hydrogen,0,2023
+Ohio,Methanol,0,2023
+Ohio,Gasoline,8881400,2023
+Ohio,Diesel,196200,2023
+Ohio,Unknown Fuel,60900,2023
+Oklahoma,EV,22800,2023
+Oklahoma,PHEV,33000,2023
+Oklahoma,HEV,56400,2023
+Oklahoma,Biodiesel,63100,2023
+Oklahoma,E85,352400,2023
+Oklahoma,CNG,1800,2023
+Oklahoma,Propane,200,2023
+Oklahoma,Hydrogen,0,2023
+Oklahoma,Methanol,0,2023
+Oklahoma,Gasoline,3567500,2023
+Oklahoma,Diesel,145700,2023
+Oklahoma,Unknown Fuel,45000,2023
+Oregon,EV,64400,2023
+Oregon,PHEV,28800,2023
+Oregon,HEV,156900,2023
+Oregon,Biodiesel,55500,2023
+Oregon,E85,184600,2023
+Oregon,CNG,100,2023
+Oregon,Propane,100,2023
+Oregon,Hydrogen,0,2023
+Oregon,Methanol,0,2023
+Oregon,Gasoline,3074300,2023
+Oregon,Diesel,217000,2023
+Oregon,Unknown Fuel,51000,2023
+Pennsylvania,EV,70200,2023
+Pennsylvania,PHEV,38900,2023
+Pennsylvania,HEV,245400,2023
+Pennsylvania,Biodiesel,73900,2023
+Pennsylvania,E85,661700,2023
+Pennsylvania,CNG,500,2023
+Pennsylvania,Propane,100,2023
+Pennsylvania,Hydrogen,0,2023
+Pennsylvania,Methanol,0,2023
+Pennsylvania,Gasoline,8886400,2023
+Pennsylvania,Diesel,192100,2023
+Pennsylvania,Unknown Fuel,41800,2023
+Rhode Island,EV,6400,2023
+Rhode Island,PHEV,5100,2023
+Rhode Island,HEV,22100,2023
+Rhode Island,Biodiesel,3100,2023
+Rhode Island,E85,41900,2023
+Rhode Island,CNG,0,2023
+Rhode Island,Propane,0,2023
+Rhode Island,Hydrogen,0,2023
+Rhode Island,Methanol,0,2023
+Rhode Island,Gasoline,782000,2023
+Rhode Island,Diesel,11000,2023
+Rhode Island,Unknown Fuel,6000,2023
+South Carolina,EV,20900,2023
+South Carolina,PHEV,9000,2023
+South Carolina,HEV,83100,2023
+South Carolina,Biodiesel,44600,2023
+South Carolina,E85,404600,2023
+South Carolina,CNG,100,2023
+South Carolina,Propane,100,2023
+South Carolina,Hydrogen,0,2023
+South Carolina,Methanol,0,2023
+South Carolina,Gasoline,4325000,2023
+South Carolina,Diesel,110100,2023
+South Carolina,Unknown Fuel,44900,2023
+South Dakota,EV,1700,2023
+South Dakota,PHEV,1300,2023
+South Dakota,HEV,11900,2023
+South Dakota,Biodiesel,21500,2023
+South Dakota,E85,98800,2023
+South Dakota,CNG,0,2023
+South Dakota,Propane,0,2023
+South Dakota,Hydrogen,0,2023
+South Dakota,Methanol,0,2023
+South Dakota,Gasoline,718300,2023
+South Dakota,Diesel,51200,2023
+South Dakota,Unknown Fuel,13300,2023
+Tennessee,EV,33200,2023
+Tennessee,PHEV,11000,2023
+Tennessee,HEV,113300,2023
+Tennessee,Biodiesel,53100,2023
+Tennessee,E85,509000,2023
+Tennessee,CNG,200,2023
+Tennessee,Propane,100,2023
+Tennessee,Hydrogen,0,2023
+Tennessee,Methanol,0,2023
+Tennessee,Gasoline,5620500,2023
+Tennessee,Diesel,160700,2023
+Tennessee,Unknown Fuel,37700,2023
+Texas,EV,230100,2023
+Texas,PHEV,55300,2023
+Texas,HEV,445100,2023
+Texas,Biodiesel,460700,2023
+Texas,E85,2315400,2023
+Texas,CNG,1300,2023
+Texas,Propane,1300,2023
+Texas,Hydrogen,0,2023
+Texas,Methanol,0,2023
+Texas,Gasoline,21392800,2023
+Texas,Diesel,772800,2023
+Texas,Unknown Fuel,121800,2023
+Utah,EV,40000,2023
+Utah,PHEV,13000,2023
+Utah,HEV,83200,2023
+Utah,Biodiesel,68500,2023
+Utah,E85,185200,2023
+Utah,CNG,2200,2023
+Utah,Propane,500,2023
+Utah,Hydrogen,0,2023
+Utah,Methanol,0,2023
+Utah,Gasoline,2499600,2023
+Utah,Diesel,158000,2023
+Utah,Unknown Fuel,26000,2023
+Vermont,EV,7800,2023
+Vermont,PHEV,5700,2023
+Vermont,HEV,20300,2023
+Vermont,Biodiesel,7000,2023
+Vermont,E85,36600,2023
+Vermont,CNG,0,2023
+Vermont,Propane,0,2023
+Vermont,Hydrogen,0,2023
+Vermont,Methanol,0,2023
+Vermont,Gasoline,496000,2023
+Vermont,Diesel,14700,2023
+Vermont,Unknown Fuel,5000,2023
+Virginia,EV,84900,2023
+Virginia,PHEV,26800,2023
+Virginia,HEV,229400,2023
+Virginia,Biodiesel,44300,2023
+Virginia,E85,484800,2023
+Virginia,CNG,300,2023
+Virginia,Propane,0,2023
+Virginia,Hydrogen,0,2023
+Virginia,Methanol,0,2023
+Virginia,Gasoline,6670000,2023
+Virginia,Diesel,152800,2023
+Virginia,Unknown Fuel,30200,2023
+Washington,EV,152100,2023
+Washington,PHEV,41200,2023
+Washington,HEV,307200,2023
+Washington,Biodiesel,73800,2023
+Washington,E85,337700,2023
+Washington,CNG,100,2023
+Washington,Propane,100,2023
+Washington,Hydrogen,0,2023
+Washington,Methanol,0,2023
+Washington,Gasoline,5583000,2023
+Washington,Diesel,274200,2023
+Washington,Unknown Fuel,46700,2023
+West Virginia,EV,2800,2023
+West Virginia,PHEV,1800,2023
+West Virginia,HEV,22400,2023
+West Virginia,Biodiesel,17300,2023
+West Virginia,E85,123400,2023
+West Virginia,CNG,100,2023
+West Virginia,Propane,0,2023
+West Virginia,Hydrogen,0,2023
+West Virginia,Methanol,0,2023
+West Virginia,Gasoline,1281500,2023
+West Virginia,Diesel,46400,2023
+West Virginia,Unknown Fuel,15200,2023
+Wisconsin,EV,24900,2023
+Wisconsin,PHEV,12500,2023
+Wisconsin,HEV,123600,2023
+Wisconsin,Biodiesel,52900,2023
+Wisconsin,E85,536200,2023
+Wisconsin,CNG,300,2023
+Wisconsin,Propane,0,2023
+Wisconsin,Hydrogen,0,2023
+Wisconsin,Methanol,0,2023
+Wisconsin,Gasoline,4604700,2023
+Wisconsin,Diesel,147500,2023
+Wisconsin,Unknown Fuel,26400,2023
+Wyoming,EV,1100,2023
+Wyoming,PHEV,800,2023
+Wyoming,HEV,8400,2023
+Wyoming,Biodiesel,21200,2023
+Wyoming,E85,57700,2023
+Wyoming,CNG,0,2023
+Wyoming,Propane,0,2023
+Wyoming,Hydrogen,0,2023
+Wyoming,Methanol,0,2023
+Wyoming,Gasoline,489100,2023
+Wyoming,Diesel,60900,2023
+Wyoming,Unknown Fuel,13700,2023

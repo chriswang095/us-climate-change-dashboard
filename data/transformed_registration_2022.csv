@@ -1,0 +1,612 @@
+﻿Alabama,EV,"8,700",2022
+Alabama,PHEV,"4,400",2022
+Alabama,HEV,"50,800",2022
+Alabama,Biodiesel,"48,100",2022
+Alabama,E85,"449,800",2022
+Alabama,CNG,100,2022
+Alabama,Propane,100,2022
+Alabama,Hydrogen,0,2022
+Alabama,Methanol,0,2022
+Alabama,Gasoline,"4,077,100",2022
+Alabama,Diesel,"126,100",2022
+Alabama,Unknown Fuel,"30,300",2022
+Alaska,EV,"2,000",2022
+Alaska,PHEV,700,2022
+Alaska,HEV,"9,000",2022
+Alaska,Biodiesel,"8,700",2022
+Alaska,E85,"48,600",2022
+Alaska,CNG,0,2022
+Alaska,Propane,0,2022
+Alaska,Hydrogen,0,2022
+Alaska,Methanol,0,2022
+Alaska,Gasoline,"457,100",2022
+Alaska,Diesel,"30,500",2022
+Alaska,Unknown Fuel,"5,500",2022
+Arizona,EV,"65,800",2022
+Arizona,PHEV,"20,400",2022
+Arizona,HEV,"150,800",2022
+Arizona,Biodiesel,"61,200",2022
+Arizona,E85,"446,000",2022
+Arizona,CNG,600,2022
+Arizona,Propane,800,2022
+Arizona,Hydrogen,0,2022
+Arizona,Methanol,0,2022
+Arizona,Gasoline,"5,476,100",2022
+Arizona,Diesel,"198,700",2022
+Arizona,Unknown Fuel,"70,100",2022
+Arkansas,EV,"5,100",2022
+Arkansas,PHEV,"2,500",2022
+Arkansas,HEV,"30,600",2022
+Arkansas,Biodiesel,"33,300",2022
+Arkansas,E85,"283,900",2022
+Arkansas,CNG,200,2022
+Arkansas,Propane,0,2022
+Arkansas,Hydrogen,0,2022
+Arkansas,Methanol,0,2022
+Arkansas,Gasoline,"2,229,500",2022
+Arkansas,Diesel,"89,700",2022
+Arkansas,Unknown Fuel,"10,600",2022
+California,EV,"903,600",2022
+California,PHEV,"361,100",2022
+California,HEV,"1,514,000",2022
+California,Biodiesel,"183,900",2022
+California,E85,"1,338,000",2022
+California,CNG,"10,300",2022
+California,Propane,"1,500",2022
+California,Hydrogen,"14,900",2022
+California,Methanol,0,2022
+California,Gasoline,"31,059,000",2022
+California,Diesel,"725,300",2022
+California,Unknown Fuel,"8,200",2022
+Colorado,EV,"59,900",2022
+Colorado,PHEV,"24,000",2022
+Colorado,HEV,"131,800",2022
+Colorado,Biodiesel,"62,100",2022
+Colorado,E85,"346,400",2022
+Colorado,CNG,300,2022
+Colorado,Propane,100,2022
+Colorado,Hydrogen,0,2022
+Colorado,Methanol,0,2022
+Colorado,Gasoline,"4,506,300",2022
+Colorado,Diesel,"206,800",2022
+Colorado,Unknown Fuel,"49,400",2022
+Connecticut,EV,"22,000",2022
+Connecticut,PHEV,"13,100",2022
+Connecticut,HEV,"64,500",2022
+Connecticut,Biodiesel,"10,100",2022
+Connecticut,E85,"139,800",2022
+Connecticut,CNG,200,2022
+Connecticut,Propane,0,2022
+Connecticut,Hydrogen,0,2022
+Connecticut,Methanol,0,2022
+Connecticut,Gasoline,"2,636,300",2022
+Connecticut,Diesel,"44,100",2022
+Connecticut,Unknown Fuel,"21,200",2022
+Delaware,EV,"5,400",2022
+Delaware,PHEV,"2,800",2022
+Delaware,HEV,"19,500",2022
+Delaware,Biodiesel,"4,700",2022
+Delaware,E85,"66,200",2022
+Delaware,CNG,0,2022
+Delaware,Propane,0,2022
+Delaware,Hydrogen,0,2022
+Delaware,Methanol,0,2022
+Delaware,Gasoline,"795,400",2022
+Delaware,Diesel,"14,500",2022
+Delaware,Unknown Fuel,"5,100",2022
+District of Columbia,EV,"5,900",2022
+District of Columbia,PHEV,"3,200",2022
+District of Columbia,HEV,"17,200",2022
+District of Columbia,Biodiesel,400,2022
+District of Columbia,E85,"17,800",2022
+District of Columbia,CNG,100,2022
+District of Columbia,Propane,0,2022
+District of Columbia,Hydrogen,0,2022
+District of Columbia,Methanol,0,2022
+District of Columbia,Gasoline,"272,200",2022
+District of Columbia,Diesel,"2,000",2022
+District of Columbia,Unknown Fuel,600,2022
+Florida,EV,"168,000",2022
+Florida,PHEV,"45,800",2022
+Florida,HEV,"338,700",2022
+Florida,Biodiesel,"150,900",2022
+Florida,E85,"1,137,200",2022
+Florida,CNG,400,2022
+Florida,Propane,100,2022
+Florida,Hydrogen,0,2022
+Florida,Methanol,0,2022
+Florida,Gasoline,"15,846,500",2022
+Florida,Diesel,"343,500",2022
+Florida,Unknown Fuel,"97,200",2022
+Georgia,EV,"60,100",2022
+Georgia,PHEV,"18,100",2022
+Georgia,HEV,"147,200",2022
+Georgia,Biodiesel,"82,500",2022
+Georgia,E85,"745,000",2022
+Georgia,CNG,300,2022
+Georgia,Propane,300,2022
+Georgia,Hydrogen,0,2022
+Georgia,Methanol,0,2022
+Georgia,Gasoline,"8,204,500",2022
+Georgia,Diesel,"205,900",2022
+Georgia,Unknown Fuel,"78,500",2022
+Hawaii,EV,"19,800",2022
+Hawaii,PHEV,"5,600",2022
+Hawaii,HEV,"32,600",2022
+Hawaii,Biodiesel,"3,100",2022
+Hawaii,E85,"39,900",2022
+Hawaii,CNG,0,2022
+Hawaii,Propane,0,2022
+Hawaii,Hydrogen,0,2022
+Hawaii,Methanol,0,2022
+Hawaii,Gasoline,"960,000",2022
+Hawaii,Diesel,"15,500",2022
+Hawaii,Unknown Fuel,"4,000",2022
+Idaho,EV,"5,900",2022
+Idaho,PHEV,"3,500",2022
+Idaho,HEV,"36,500",2022
+Idaho,Biodiesel,"40,300",2022
+Idaho,E85,"133,300",2022
+Idaho,CNG,100,2022
+Idaho,Propane,100,2022
+Idaho,Hydrogen,0,2022
+Idaho,Methanol,0,2022
+Idaho,Gasoline,"1,545,500",2022
+Idaho,Diesel,"136,000",2022
+Idaho,Unknown Fuel,"33,000",2022
+Illinois,EV,"66,900",2022
+Illinois,PHEV,"25,700",2022
+Illinois,HEV,"244,100",2022
+Illinois,Biodiesel,"55,400",2022
+Illinois,E85,"807,900",2022
+Illinois,CNG,300,2022
+Illinois,Propane,0,2022
+Illinois,Hydrogen,0,2022
+Illinois,Methanol,0,2022
+Illinois,Gasoline,"8,606,400",2022
+Illinois,Diesel,"171,300",2022
+Illinois,Unknown Fuel,"59,500",2022
+Indiana,EV,"17,700",2022
+Indiana,PHEV,"10,100",2022
+Indiana,HEV,"100,900",2022
+Indiana,Biodiesel,"49,100",2022
+Indiana,E85,"587,100",2022
+Indiana,CNG,300,2022
+Indiana,Propane,0,2022
+Indiana,Hydrogen,0,2022
+Indiana,Methanol,0,2022
+Indiana,Gasoline,"5,116,800",2022
+Indiana,Diesel,"153,500",2022
+Indiana,Unknown Fuel,"58,900",2022
+Iowa,EV,"6,200",2022
+Iowa,PHEV,"4,900",2022
+Iowa,HEV,"48,600",2022
+Iowa,Biodiesel,"37,000",2022
+Iowa,E85,"338,900",2022
+Iowa,CNG,100,2022
+Iowa,Propane,0,2022
+Iowa,Hydrogen,0,2022
+Iowa,Methanol,0,2022
+Iowa,Gasoline,"2,521,300",2022
+Iowa,Diesel,"103,000",2022
+Iowa,Unknown Fuel,"58,200",2022
+Kansas,EV,"7,600",2022
+Kansas,PHEV,"4,300",2022
+Kansas,HEV,"43,500",2022
+Kansas,Biodiesel,"25,000",2022
+Kansas,E85,"260,100",2022
+Kansas,CNG,200,2022
+Kansas,Propane,100,2022
+Kansas,Hydrogen,0,2022
+Kansas,Methanol,0,2022
+Kansas,Gasoline,"2,159,200",2022
+Kansas,Diesel,"87,000",2022
+Kansas,Unknown Fuel,"17,600",2022
+Kentucky,EV,"7,600",2022
+Kentucky,PHEV,"4,400",2022
+Kentucky,HEV,"55,800",2022
+Kentucky,Biodiesel,"32,300",2022
+Kentucky,E85,"363,800",2022
+Kentucky,CNG,300,2022
+Kentucky,Propane,0,2022
+Kentucky,Hydrogen,0,2022
+Kentucky,Methanol,0,2022
+Kentucky,Gasoline,"3,368,800",2022
+Kentucky,Diesel,"115,800",2022
+Kentucky,Unknown Fuel,"25,800",2022
+Louisiana,EV,"5,900",2022
+Louisiana,PHEV,"2,900",2022
+Louisiana,HEV,"31,400",2022
+Louisiana,Biodiesel,"60,100",2022
+Louisiana,E85,"397,500",2022
+Louisiana,CNG,100,2022
+Louisiana,Propane,0,2022
+Louisiana,Hydrogen,0,2022
+Louisiana,Methanol,0,2022
+Louisiana,Gasoline,"3,159,000",2022
+Louisiana,Diesel,"115,400",2022
+Louisiana,Unknown Fuel,"19,900",2022
+Maine,EV,"5,000",2022
+Maine,PHEV,"5,700",2022
+Maine,HEV,"28,900",2022
+Maine,Biodiesel,"10,500",2022
+Maine,E85,"109,100",2022
+Maine,CNG,0,2022
+Maine,Propane,0,2022
+Maine,Hydrogen,0,2022
+Maine,Methanol,0,2022
+Maine,Gasoline,"1,028,100",2022
+Maine,Diesel,"26,800",2022
+Maine,Unknown Fuel,"7,900",2022
+Maryland,EV,"46,100",2022
+Maryland,PHEV,"22,900",2022
+Maryland,HEV,"146,200",2022
+Maryland,Biodiesel,"30,300",2022
+Maryland,E85,"326,900",2022
+Maryland,CNG,300,2022
+Maryland,Propane,0,2022
+Maryland,Hydrogen,0,2022
+Maryland,Methanol,0,2022
+Maryland,Gasoline,"4,373,900",2022
+Maryland,Diesel,"88,400",2022
+Maryland,Unknown Fuel,"31,800",2022
+Massachusetts,EV,"49,400",2022
+Massachusetts,PHEV,"30,500",2022
+Massachusetts,HEV,"158,600",2022
+Massachusetts,Biodiesel,"19,500",2022
+Massachusetts,E85,"297,000",2022
+Massachusetts,CNG,200,2022
+Massachusetts,Propane,0,2022
+Massachusetts,Hydrogen,0,2022
+Massachusetts,Methanol,0,2022
+Massachusetts,Gasoline,"4,777,600",2022
+Massachusetts,Diesel,"59,300",2022
+Massachusetts,Unknown Fuel,"30,200",2022
+Michigan,EV,"33,100",2022
+Michigan,PHEV,"24,300",2022
+Michigan,HEV,"122,800",2022
+Michigan,Biodiesel,"62,800",2022
+Michigan,E85,"905,700",2022
+Michigan,CNG,300,2022
+Michigan,Propane,100,2022
+Michigan,Hydrogen,0,2022
+Michigan,Methanol,0,2022
+Michigan,Gasoline,"7,071,800",2022
+Michigan,Diesel,"175,400",2022
+Michigan,Unknown Fuel,"49,600",2022
+Minnesota,EV,"24,300",2022
+Minnesota,PHEV,"11,900",2022
+Minnesota,HEV,"105,300",2022
+Minnesota,Biodiesel,"46,900",2022
+Minnesota,E85,"531,500",2022
+Minnesota,CNG,100,2022
+Minnesota,Propane,0,2022
+Minnesota,Hydrogen,0,2022
+Minnesota,Methanol,0,2022
+Minnesota,Gasoline,"4,180,500",2022
+Minnesota,Diesel,"127,300",2022
+Minnesota,Unknown Fuel,"25,600",2022
+Mississippi,EV,"2,400",2022
+Mississippi,PHEV,"1,600",2022
+Mississippi,HEV,"22,300",2022
+Mississippi,Biodiesel,"31,600",2022
+Mississippi,E85,"302,000",2022
+Mississippi,CNG,100,2022
+Mississippi,Propane,0,2022
+Mississippi,Hydrogen,0,2022
+Mississippi,Methanol,0,2022
+Mississippi,Gasoline,"2,275,400",2022
+Mississippi,Diesel,"75,400",2022
+Mississippi,Unknown Fuel,"9,100",2022
+Missouri,EV,"17,900",2022
+Missouri,PHEV,"10,400",2022
+Missouri,HEV,"95,100",2022
+Missouri,Biodiesel,"61,300",2022
+Missouri,E85,"576,700",2022
+Missouri,CNG,"1,200",2022
+Missouri,Propane,100,2022
+Missouri,Hydrogen,0,2022
+Missouri,Methanol,0,2022
+Missouri,Gasoline,"4,444,600",2022
+Missouri,Diesel,"176,200",2022
+Missouri,Unknown Fuel,"38,900",2022
+Montana,EV,"3,300",2022
+Montana,PHEV,"1,700",2022
+Montana,HEV,"17,100",2022
+Montana,Biodiesel,"33,200",2022
+Montana,E85,"98,000",2022
+Montana,CNG,0,2022
+Montana,Propane,0,2022
+Montana,Hydrogen,0,2022
+Montana,Methanol,0,2022
+Montana,Gasoline,"765,400",2022
+Montana,Diesel,"69,900",2022
+Montana,Unknown Fuel,"11,000",2022
+Nebraska,EV,"4,600",2022
+Nebraska,PHEV,"2,900",2022
+Nebraska,HEV,"27,300",2022
+Nebraska,Biodiesel,"25,600",2022
+Nebraska,E85,"201,800",2022
+Nebraska,CNG,100,2022
+Nebraska,Propane,0,2022
+Nebraska,Hydrogen,0,2022
+Nebraska,Methanol,0,2022
+Nebraska,Gasoline,"1,576,900",2022
+Nebraska,Diesel,"75,100",2022
+Nebraska,Unknown Fuel,"25,900",2022
+Nevada,EV,"32,900",2022
+Nevada,PHEV,"8,800",2022
+Nevada,HEV,"59,100",2022
+Nevada,Biodiesel,"24,700",2022
+Nevada,E85,"130,700",2022
+Nevada,CNG,200,2022
+Nevada,Propane,100,2022
+Nevada,Hydrogen,0,2022
+Nevada,Methanol,0,2022
+Nevada,Gasoline,"2,157,700",2022
+Nevada,Diesel,"85,200",2022
+Nevada,Unknown Fuel,"21,300",2022
+New Hampshire,EV,"7,000",2022
+New Hampshire,PHEV,"4,800",2022
+New Hampshire,HEV,"31,100",2022
+New Hampshire,Biodiesel,"12,900",2022
+New Hampshire,E85,"95,400",2022
+New Hampshire,CNG,100,2022
+New Hampshire,Propane,0,2022
+New Hampshire,Hydrogen,0,2022
+New Hampshire,Methanol,0,2022
+New Hampshire,Gasoline,"1,180,700",2022
+New Hampshire,Diesel,"29,400",2022
+New Hampshire,Unknown Fuel,"12,300",2022
+New Jersey,EV,"87,000",2022
+New Jersey,PHEV,"26,800",2022
+New Jersey,HEV,"142,600",2022
+New Jersey,Biodiesel,"25,900",2022
+New Jersey,E85,"404,200",2022
+New Jersey,CNG,300,2022
+New Jersey,Propane,0,2022
+New Jersey,Hydrogen,0,2022
+New Jersey,Methanol,0,2022
+New Jersey,Gasoline,"6,339,500",2022
+New Jersey,Diesel,"85,500",2022
+New Jersey,Unknown Fuel,"36,900",2022
+New Mexico,EV,"7,100",2022
+New Mexico,PHEV,"3,900",2022
+New Mexico,HEV,"37,600",2022
+New Mexico,Biodiesel,"28,600",2022
+New Mexico,E85,"155,900",2022
+New Mexico,CNG,100,2022
+New Mexico,Propane,100,2022
+New Mexico,Hydrogen,0,2022
+New Mexico,Methanol,0,2022
+New Mexico,Gasoline,"1,584,500",2022
+New Mexico,Diesel,"88,000",2022
+New Mexico,Unknown Fuel,"23,600",2022
+New York,EV,"84,700",2022
+New York,PHEV,"59,800",2022
+New York,HEV,"259,600",2022
+New York,Biodiesel,"48,400",2022
+New York,E85,"633,100",2022
+New York,CNG,400,2022
+New York,Propane,100,2022
+New York,Hydrogen,0,2022
+New York,Methanol,0,2022
+New York,Gasoline,"9,987,400",2022
+New York,Diesel,"152,000",2022
+New York,Unknown Fuel,"80,800",2022
+North Carolina,EV,"45,600",2022
+North Carolina,PHEV,"18,800",2022
+North Carolina,HEV,"175,300",2022
+North Carolina,Biodiesel,"71,300",2022
+North Carolina,E85,"675,300",2022
+North Carolina,CNG,300,2022
+North Carolina,Propane,100,2022
+North Carolina,Hydrogen,0,2022
+North Carolina,Methanol,0,2022
+North Carolina,Gasoline,"7,700,300",2022
+North Carolina,Diesel,"209,600",2022
+North Carolina,Unknown Fuel,"73,700",2022
+North Dakota,EV,600,2022
+North Dakota,PHEV,600,2022
+North Dakota,HEV,"6,600",2022
+North Dakota,Biodiesel,"18,300",2022
+North Dakota,E85,"93,500",2022
+North Dakota,CNG,0,2022
+North Dakota,Propane,0,2022
+North Dakota,Hydrogen,0,2022
+North Dakota,Methanol,0,2022
+North Dakota,Gasoline,"614,300",2022
+North Dakota,Diesel,"43,800",2022
+North Dakota,Unknown Fuel,"7,800",2022
+Ohio,EV,"34,100",2022
+Ohio,PHEV,"17,800",2022
+Ohio,HEV,"165,700",2022
+Ohio,Biodiesel,"63,400",2022
+Ohio,E85,"868,500",2022
+Ohio,CNG,700,2022
+Ohio,Propane,100,2022
+Ohio,Hydrogen,0,2022
+Ohio,Methanol,0,2022
+Ohio,Gasoline,"8,868,300",2022
+Ohio,Diesel,"197,000",2022
+Ohio,Unknown Fuel,"62,700",2022
+Oklahoma,EV,"16,300",2022
+Oklahoma,PHEV,"11,500",2022
+Oklahoma,HEV,"47,000",2022
+Oklahoma,Biodiesel,"60,200",2022
+Oklahoma,E85,"380,800",2022
+Oklahoma,CNG,"2,000",2022
+Oklahoma,Propane,300,2022
+Oklahoma,Hydrogen,0,2022
+Oklahoma,Methanol,0,2022
+Oklahoma,Gasoline,"3,538,100",2022
+Oklahoma,Diesel,"147,500",2022
+Oklahoma,Unknown Fuel,"46,200",2022
+Oregon,EV,"47,000",2022
+Oregon,PHEV,"22,500",2022
+Oregon,HEV,"138,900",2022
+Oregon,Biodiesel,"50,200",2022
+Oregon,E85,"186,300",2022
+Oregon,CNG,100,2022
+Oregon,Propane,100,2022
+Oregon,Hydrogen,0,2022
+Oregon,Methanol,0,2022
+Oregon,Gasoline,"3,065,400",2022
+Oregon,Diesel,"216,100",2022
+Oregon,Unknown Fuel,"53,200",2022
+Pennsylvania,EV,"47,400",2022
+Pennsylvania,PHEV,"25,400",2022
+Pennsylvania,HEV,"199,600",2022
+Pennsylvania,Biodiesel,"68,100",2022
+Pennsylvania,E85,"698,500",2022
+Pennsylvania,CNG,500,2022
+Pennsylvania,Propane,100,2022
+Pennsylvania,Hydrogen,0,2022
+Pennsylvania,Methanol,0,2022
+Pennsylvania,Gasoline,"8,888,900",2022
+Pennsylvania,Diesel,"191,700",2022
+Pennsylvania,Unknown Fuel,"45,100",2022
+Rhode Island,EV,"4,300",2022
+Rhode Island,PHEV,"3,400",2022
+Rhode Island,HEV,"18,600",2022
+Rhode Island,Biodiesel,"2,800",2022
+Rhode Island,E85,"43,100",2022
+Rhode Island,CNG,0,2022
+Rhode Island,Propane,0,2022
+Rhode Island,Hydrogen,0,2022
+Rhode Island,Methanol,0,2022
+Rhode Island,Gasoline,"782,500",2022
+Rhode Island,Diesel,"11,200",2022
+Rhode Island,Unknown Fuel,"6,100",2022
+South Carolina,EV,"13,500",2022
+South Carolina,PHEV,"6,700",2022
+South Carolina,HEV,"66,800",2022
+South Carolina,Biodiesel,"38,300",2022
+South Carolina,E85,"411,400",2022
+South Carolina,CNG,100,2022
+South Carolina,Propane,100,2022
+South Carolina,Hydrogen,0,2022
+South Carolina,Methanol,0,2022
+South Carolina,Gasoline,"4,254,700",2022
+South Carolina,Diesel,"107,600",2022
+South Carolina,Unknown Fuel,"45,500",2022
+South Dakota,EV,"1,200",2022
+South Dakota,PHEV,"1,000",2022
+South Dakota,HEV,"10,300",2022
+South Dakota,Biodiesel,"20,000",2022
+South Dakota,E85,"105,700",2022
+South Dakota,CNG,0,2022
+South Dakota,Propane,0,2022
+South Dakota,Hydrogen,0,2022
+South Dakota,Methanol,0,2022
+South Dakota,Gasoline,"739,400",2022
+South Dakota,Diesel,"53,000",2022
+South Dakota,Unknown Fuel,"14,500",2022
+Tennessee,EV,"22,000",2022
+Tennessee,PHEV,"8,900",2022
+Tennessee,HEV,"94,000",2022
+Tennessee,Biodiesel,"45,700",2022
+Tennessee,E85,"519,400",2022
+Tennessee,CNG,100,2022
+Tennessee,Propane,100,2022
+Tennessee,Hydrogen,0,2022
+Tennessee,Methanol,0,2022
+Tennessee,Gasoline,"5,536,100",2022
+Tennessee,Diesel,"157,700",2022
+Tennessee,Unknown Fuel,"38,600",2022
+Texas,EV,"149,000",2022
+Texas,PHEV,"42,800",2022
+Texas,HEV,"361,800",2022
+Texas,Biodiesel,"420,800",2022
+Texas,E85,"2,398,800",2022
+Texas,CNG,"1,400",2022
+Texas,Propane,"1,400",2022
+Texas,Hydrogen,0,2022
+Texas,Methanol,0,2022
+Texas,Gasoline,"21,065,800",2022
+Texas,Diesel,"771,000",2022
+Texas,Unknown Fuel,"133,200",2022
+Utah,EV,"28,000",2022
+Utah,PHEV,"10,200",2022
+Utah,HEV,"69,300",2022
+Utah,Biodiesel,"61,500",2022
+Utah,E85,"189,900",2022
+Utah,CNG,"2,300",2022
+Utah,Propane,600,2022
+Utah,Hydrogen,0,2022
+Utah,Methanol,0,2022
+Utah,Gasoline,"2,454,700",2022
+Utah,Diesel,"155,000",2022
+Utah,Unknown Fuel,"26,000",2022
+Vermont,EV,"5,300",2022
+Vermont,PHEV,"4,200",2022
+Vermont,HEV,"17,800",2022
+Vermont,Biodiesel,"6,400",2022
+Vermont,E85,"40,000",2022
+Vermont,CNG,0,2022
+Vermont,Propane,0,2022
+Vermont,Hydrogen,0,2022
+Vermont,Methanol,0,2022
+Vermont,Gasoline,"501,500",2022
+Vermont,Diesel,"14,700",2022
+Vermont,Unknown Fuel,"5,100",2022
+Virginia,EV,"56,600",2022
+Virginia,PHEV,"21,700",2022
+Virginia,HEV,"198,400",2022
+Virginia,Biodiesel,"40,000",2022
+Virginia,E85,"496,200",2022
+Virginia,CNG,300,2022
+Virginia,Propane,0,2022
+Virginia,Hydrogen,0,2022
+Virginia,Methanol,0,2022
+Virginia,Gasoline,"6,643,300",2022
+Virginia,Diesel,"153,700",2022
+Virginia,Unknown Fuel,"31,900",2022
+Washington,EV,"104,100",2022
+Washington,PHEV,"31,400",2022
+Washington,HEV,"270,200",2022
+Washington,Biodiesel,"67,500",2022
+Washington,E85,"348,300",2022
+Washington,CNG,100,2022
+Washington,Propane,100,2022
+Washington,Hydrogen,0,2022
+Washington,Methanol,0,2022
+Washington,Gasoline,"5,650,700",2022
+Washington,Diesel,"277,400",2022
+Washington,Unknown Fuel,"52,700",2022
+West Virginia,EV,"1,900",2022
+West Virginia,PHEV,"1,400",2022
+West Virginia,HEV,"18,300",2022
+West Virginia,Biodiesel,"15,600",2022
+West Virginia,E85,"127,500",2022
+West Virginia,CNG,100,2022
+West Virginia,Propane,0,2022
+West Virginia,Hydrogen,0,2022
+West Virginia,Methanol,0,2022
+West Virginia,Gasoline,"1,267,500",2022
+West Virginia,Diesel,"45,700",2022
+West Virginia,Unknown Fuel,"10,900",2022
+Wisconsin,EV,"15,700",2022
+Wisconsin,PHEV,"10,000",2022
+Wisconsin,HEV,"105,200",2022
+Wisconsin,Biodiesel,"46,500",2022
+Wisconsin,E85,"549,700",2022
+Wisconsin,CNG,300,2022
+Wisconsin,Propane,0,2022
+Wisconsin,Hydrogen,0,2022
+Wisconsin,Methanol,0,2022
+Wisconsin,Gasoline,"4,577,400",2022
+Wisconsin,Diesel,"144,500",2022
+Wisconsin,Unknown Fuel,"26,900",2022
+Wyoming,EV,800,2022
+Wyoming,PHEV,600,2022
+Wyoming,HEV,"6,900",2022
+Wyoming,Biodiesel,"19,100",2022
+Wyoming,E85,"58,600",2022
+Wyoming,CNG,0,2022
+Wyoming,Propane,0,2022
+Wyoming,Hydrogen,0,2022
+Wyoming,Methanol,0,2022
+Wyoming,Gasoline,"483,000",2022
+Wyoming,Diesel,"61,200",2022
+Wyoming,Unknown Fuel,"14,200",2022

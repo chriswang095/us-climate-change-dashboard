@@ -1,0 +1,612 @@
+﻿Alabama,EV,500,2016
+Alabama,PHEV,900,2016
+Alabama,HEV,"29,100",2016
+Alabama,Biodiesel,0,2016
+Alabama,E85,"428,300",2016
+Alabama,CNG,"20,100",2016
+Alabama,Propane,0,2016
+Alabama,Hydrogen,0,2016
+Alabama,Methanol,0,2016
+Alabama,Gasoline,"3,777,300",2016
+Alabama,Diesel,"126,500",2016
+Alabama,Unknown Fuel,"53,900",2016
+Alaska,EV,200,2016
+Alaska,PHEV,200,2016
+Alaska,HEV,"5,000",2016
+Alaska,Biodiesel,0,2016
+Alaska,E85,"55,700",2016
+Alaska,CNG,"4,900",2016
+Alaska,Propane,0,2016
+Alaska,Hydrogen,0,2016
+Alaska,Methanol,0,2016
+Alaska,Gasoline,"525,900",2016
+Alaska,Diesel,"44,800",2016
+Alaska,Unknown Fuel,"19,400",2016
+Arizona,EV,"4,700",2016
+Arizona,PHEV,"4,400",2016
+Arizona,HEV,"89,600",2016
+Arizona,Biodiesel,0,2016
+Arizona,E85,"427,300",2016
+Arizona,CNG,"17,500",2016
+Arizona,Propane,0,2016
+Arizona,Hydrogen,0,2016
+Arizona,Methanol,100,2016
+Arizona,Gasoline,"4,805,000",2016
+Arizona,Diesel,"179,500",2016
+Arizona,Unknown Fuel,"112,800",2016
+Arkansas,EV,200,2016
+Arkansas,PHEV,500,2016
+Arkansas,HEV,"19,100",2016
+Arkansas,Biodiesel,0,2016
+Arkansas,E85,"320,500",2016
+Arkansas,CNG,"12,600",2016
+Arkansas,Propane,0,2016
+Arkansas,Hydrogen,0,2016
+Arkansas,Methanol,0,2016
+Arkansas,Gasoline,"2,097,800",2016
+Arkansas,Diesel,"96,800",2016
+Arkansas,Unknown Fuel,"22,200",2016
+California,EV,"141,500",2016
+California,PHEV,"116,700",2016
+California,HEV,"966,700",2016
+California,Biodiesel,0,2016
+California,E85,"1,322,600",2016
+California,CNG,"80,600",2016
+California,Propane,0,2016
+California,Hydrogen,"1,300",2016
+California,Methanol,400,2016
+California,Gasoline,"27,241,000",2016
+California,Diesel,"710,400",2016
+California,Unknown Fuel,"115,500",2016
+Colorado,EV,"5,300",2016
+Colorado,PHEV,"3,800",2016
+Colorado,HEV,"74,000",2016
+Colorado,Biodiesel,0,2016
+Colorado,E85,"355,500",2016
+Colorado,CNG,"15,900",2016
+Colorado,Propane,0,2016
+Colorado,Hydrogen,0,2016
+Colorado,Methanol,0,2016
+Colorado,Gasoline,"4,180,500",2016
+Colorado,Diesel,"226,800",2016
+Colorado,Unknown Fuel,"89,900",2016
+Connecticut,EV,"2,000",2016
+Connecticut,PHEV,"2,800",2016
+Connecticut,HEV,"43,200",2016
+Connecticut,Biodiesel,0,2016
+Connecticut,E85,"160,800",2016
+Connecticut,CNG,"3,200",2016
+Connecticut,Propane,0,2016
+Connecticut,Hydrogen,0,2016
+Connecticut,Methanol,0,2016
+Connecticut,Gasoline,"2,690,900",2016
+Connecticut,Diesel,"59,700",2016
+Connecticut,Unknown Fuel,"30,200",2016
+Delaware,EV,300,2016
+Delaware,PHEV,700,2016
+Delaware,HEV,"11,200",2016
+Delaware,Biodiesel,0,2016
+Delaware,E85,"68,300",2016
+Delaware,CNG,"1,400",2016
+Delaware,Propane,0,2016
+Delaware,Hydrogen,0,2016
+Delaware,Methanol,0,2016
+Delaware,Gasoline,"749,800",2016
+Delaware,Diesel,"17,000",2016
+Delaware,Unknown Fuel,"7,200",2016
+District of Columbia,EV,600,2016
+District of Columbia,PHEV,500,2016
+District of Columbia,HEV,"11,800",2016
+District of Columbia,Biodiesel,0,2016
+District of Columbia,E85,"17,600",2016
+District of Columbia,CNG,300,2016
+District of Columbia,Propane,0,2016
+District of Columbia,Hydrogen,0,2016
+District of Columbia,Methanol,0,2016
+District of Columbia,Gasoline,"277,800",2016
+District of Columbia,Diesel,"3,200",2016
+District of Columbia,Unknown Fuel,"1,300",2016
+Florida,EV,"11,600",2016
+Florida,PHEV,"10,100",2016
+Florida,HEV,"207,100",2016
+Florida,Biodiesel,0,2016
+Florida,E85,"1,168,900",2016
+Florida,CNG,"18,000",2016
+Florida,Propane,0,2016
+Florida,Hydrogen,0,2016
+Florida,Methanol,0,2016
+Florida,Gasoline,"13,929,200",2016
+Florida,Diesel,"353,300",2016
+Florida,Unknown Fuel,"133,600",2016
+Georgia,EV,"18,000",2016
+Georgia,PHEV,"4,000",2016
+Georgia,HEV,"86,400",2016
+Georgia,Biodiesel,0,2016
+Georgia,E85,"710,700",2016
+Georgia,CNG,"26,900",2016
+Georgia,Propane,0,2016
+Georgia,Hydrogen,0,2016
+Georgia,Methanol,0,2016
+Georgia,Gasoline,"7,377,700",2016
+Georgia,Diesel,"206,700",2016
+Georgia,Unknown Fuel,"114,800",2016
+Hawaii,EV,"4,200",2016
+Hawaii,PHEV,"1,200",2016
+Hawaii,HEV,"22,600",2016
+Hawaii,Biodiesel,0,2016
+Hawaii,E85,"43,600",2016
+Hawaii,CNG,"1,500",2016
+Hawaii,Propane,0,2016
+Hawaii,Hydrogen,0,2016
+Hawaii,Methanol,0,2016
+Hawaii,Gasoline,"953,300",2016
+Hawaii,Diesel,"17,800",2016
+Hawaii,Unknown Fuel,"7,400",2016
+Idaho,EV,400,2016
+Idaho,PHEV,600,2016
+Idaho,HEV,"16,300",2016
+Idaho,Biodiesel,0,2016
+Idaho,E85,"107,100",2016
+Idaho,CNG,"12,800",2016
+Idaho,Propane,0,2016
+Idaho,Hydrogen,0,2016
+Idaho,Methanol,0,2016
+Idaho,Gasoline,"1,354,300",2016
+Idaho,Diesel,"123,000",2016
+Idaho,Unknown Fuel,"56,200",2016
+Illinois,EV,"5,800",2016
+Illinois,PHEV,"6,000",2016
+Illinois,HEV,"146,500",2016
+Illinois,Biodiesel,0,2016
+Illinois,E85,"968,600",2016
+Illinois,CNG,"18,500",2016
+Illinois,Propane,0,2016
+Illinois,Hydrogen,0,2016
+Illinois,Methanol,0,2016
+Illinois,Gasoline,"8,748,600",2016
+Illinois,Diesel,"200,900",2016
+Illinois,Unknown Fuel,"94,500",2016
+Indiana,EV,"1,300",2016
+Indiana,PHEV,"2,400",2016
+Indiana,HEV,"54,500",2016
+Indiana,Biodiesel,0,2016
+Indiana,E85,"569,300",2016
+Indiana,CNG,"19,900",2016
+Indiana,Propane,0,2016
+Indiana,Hydrogen,0,2016
+Indiana,Methanol,0,2016
+Indiana,Gasoline,"4,855,200",2016
+Indiana,Diesel,"156,800",2016
+Indiana,Unknown Fuel,"82,500",2016
+Iowa,EV,400,2016
+Iowa,PHEV,"1,200",2016
+Iowa,HEV,"26,900",2016
+Iowa,Biodiesel,0,2016
+Iowa,E85,"367,400",2016
+Iowa,CNG,"13,400",2016
+Iowa,Propane,0,2016
+Iowa,Hydrogen,0,2016
+Iowa,Methanol,0,2016
+Iowa,Gasoline,"2,418,600",2016
+Iowa,Diesel,"107,600",2016
+Iowa,Unknown Fuel,"80,600",2016
+Kansas,EV,600,2016
+Kansas,PHEV,"1,000",2016
+Kansas,HEV,"26,200",2016
+Kansas,Biodiesel,0,2016
+Kansas,E85,"250,600",2016
+Kansas,CNG,"14,200",2016
+Kansas,Propane,0,2016
+Kansas,Hydrogen,0,2016
+Kansas,Methanol,0,2016
+Kansas,Gasoline,"2,095,000",2016
+Kansas,Diesel,"90,000",2016
+Kansas,Unknown Fuel,"42,400",2016
+Kentucky,EV,500,2016
+Kentucky,PHEV,900,2016
+Kentucky,HEV,"30,900",2016
+Kentucky,Biodiesel,0,2016
+Kentucky,E85,"336,000",2016
+Kentucky,CNG,"15,600",2016
+Kentucky,Propane,0,2016
+Kentucky,Hydrogen,0,2016
+Kentucky,Methanol,0,2016
+Kentucky,Gasoline,"3,285,300",2016
+Kentucky,Diesel,"115,200",2016
+Kentucky,Unknown Fuel,"47,500",2016
+Louisiana,EV,400,2016
+Louisiana,PHEV,500,2016
+Louisiana,HEV,"17,700",2016
+Louisiana,Biodiesel,0,2016
+Louisiana,E85,"469,700",2016
+Louisiana,CNG,"11,900",2016
+Louisiana,Propane,0,2016
+Louisiana,Hydrogen,0,2016
+Louisiana,Methanol,0,2016
+Louisiana,Gasoline,"3,047,300",2016
+Louisiana,Diesel,"152,400",2016
+Louisiana,Unknown Fuel,"36,600",2016
+Maine,EV,300,2016
+Maine,PHEV,"1,000",2016
+Maine,HEV,"17,900",2016
+Maine,Biodiesel,0,2016
+Maine,E85,"104,700",2016
+Maine,CNG,"1,700",2016
+Maine,Propane,0,2016
+Maine,Hydrogen,0,2016
+Maine,Methanol,0,2016
+Maine,Gasoline,"1,011,700",2016
+Maine,Diesel,"31,000",2016
+Maine,Unknown Fuel,"12,900",2016
+Maryland,EV,"3,200",2016
+Maryland,PHEV,"5,000",2016
+Maryland,HEV,"85,900",2016
+Maryland,Biodiesel,0,2016
+Maryland,E85,"327,800",2016
+Maryland,CNG,"6,100",2016
+Maryland,Propane,0,2016
+Maryland,Hydrogen,0,2016
+Maryland,Methanol,0,2016
+Maryland,Gasoline,"4,039,100",2016
+Maryland,Diesel,"105,200",2016
+Maryland,Unknown Fuel,"44,500",2016
+Massachusetts,EV,"3,600",2016
+Massachusetts,PHEV,"5,200",2016
+Massachusetts,HEV,"98,300",2016
+Massachusetts,Biodiesel,0,2016
+Massachusetts,E85,"315,600",2016
+Massachusetts,CNG,"3,400",2016
+Massachusetts,Propane,0,2016
+Massachusetts,Hydrogen,0,2016
+Massachusetts,Methanol,0,2016
+Massachusetts,Gasoline,"4,623,900",2016
+Massachusetts,Diesel,"79,000",2016
+Massachusetts,Unknown Fuel,"38,800",2016
+Michigan,EV,"1,600",2016
+Michigan,PHEV,"11,600",2016
+Michigan,HEV,"64,900",2016
+Michigan,Biodiesel,0,2016
+Michigan,E85,"1,186,000",2016
+Michigan,CNG,"19,800",2016
+Michigan,Propane,0,2016
+Michigan,Hydrogen,0,2016
+Michigan,Methanol,0,2016
+Michigan,Gasoline,"6,902,900",2016
+Michigan,Diesel,"190,800",2016
+Michigan,Unknown Fuel,"81,100",2016
+Minnesota,EV,"1,600",2016
+Minnesota,PHEV,"2,400",2016
+Minnesota,HEV,"58,900",2016
+Minnesota,Biodiesel,0,2016
+Minnesota,E85,"549,600",2016
+Minnesota,CNG,"13,600",2016
+Minnesota,Propane,0,2016
+Minnesota,Hydrogen,0,2016
+Minnesota,Methanol,0,2016
+Minnesota,Gasoline,"3,981,400",2016
+Minnesota,Diesel,"135,100",2016
+Minnesota,Unknown Fuel,"51,900",2016
+Mississippi,EV,100,2016
+Mississippi,PHEV,200,2016
+Mississippi,HEV,"11,800",2016
+Mississippi,Biodiesel,0,2016
+Mississippi,E85,"279,600",2016
+Mississippi,CNG,"9,500",2016
+Mississippi,Propane,0,2016
+Mississippi,Hydrogen,0,2016
+Mississippi,Methanol,0,2016
+Mississippi,Gasoline,"2,106,700",2016
+Mississippi,Diesel,"78,300",2016
+Mississippi,Unknown Fuel,"16,300",2016
+Missouri,EV,"1,400",2016
+Missouri,PHEV,"2,100",2016
+Missouri,HEV,"63,800",2016
+Missouri,Biodiesel,0,2016
+Missouri,E85,"589,600",2016
+Missouri,CNG,"21,800",2016
+Missouri,Propane,0,2016
+Missouri,Hydrogen,0,2016
+Missouri,Methanol,0,2016
+Missouri,Gasoline,"4,597,300",2016
+Missouri,Diesel,"194,200",2016
+Missouri,Unknown Fuel,"71,300",2016
+Montana,EV,200,2016
+Montana,PHEV,200,2016
+Montana,HEV,"9,800",2016
+Montana,Biodiesel,0,2016
+Montana,E85,"111,700",2016
+Montana,CNG,"5,400",2016
+Montana,Propane,0,2016
+Montana,Hydrogen,0,2016
+Montana,Methanol,0,2016
+Montana,Gasoline,"750,600",2016
+Montana,Diesel,"87,600",2016
+Montana,Unknown Fuel,"22,600",2016
+Nebraska,EV,300,2016
+Nebraska,PHEV,600,2016
+Nebraska,HEV,"14,500",2016
+Nebraska,Biodiesel,0,2016
+Nebraska,E85,"208,300",2016
+Nebraska,CNG,"9,900",2016
+Nebraska,Propane,0,2016
+Nebraska,Hydrogen,0,2016
+Nebraska,Methanol,0,2016
+Nebraska,Gasoline,"1,468,900",2016
+Nebraska,Diesel,"79,800",2016
+Nebraska,Unknown Fuel,"38,300",2016
+Nevada,EV,"2,000",2016
+Nevada,PHEV,"1,400",2016
+Nevada,HEV,"30,700",2016
+Nevada,Biodiesel,0,2016
+Nevada,E85,"138,800",2016
+Nevada,CNG,"7,100",2016
+Nevada,Propane,0,2016
+Nevada,Hydrogen,0,2016
+Nevada,Methanol,0,2016
+Nevada,Gasoline,"1,923,600",2016
+Nevada,Diesel,"83,000",2016
+Nevada,Unknown Fuel,"36,000",2016
+New Hampshire,EV,400,2016
+New Hampshire,PHEV,"1,000",2016
+New Hampshire,HEV,"19,200",2016
+New Hampshire,Biodiesel,0,2016
+New Hampshire,E85,"100,900",2016
+New Hampshire,CNG,"1,800",2016
+New Hampshire,Propane,0,2016
+New Hampshire,Hydrogen,0,2016
+New Hampshire,Methanol,0,2016
+New Hampshire,Gasoline,"1,132,600",2016
+New Hampshire,Diesel,"34,300",2016
+New Hampshire,Unknown Fuel,"16,900",2016
+New Jersey,EV,"4,200",2016
+New Jersey,PHEV,"5,500",2016
+New Jersey,HEV,"80,900",2016
+New Jersey,Biodiesel,0,2016
+New Jersey,E85,"470,400",2016
+New Jersey,CNG,"4,400",2016
+New Jersey,Propane,0,2016
+New Jersey,Hydrogen,0,2016
+New Jersey,Methanol,0,2016
+New Jersey,Gasoline,"6,001,300",2016
+New Jersey,Diesel,"111,500",2016
+New Jersey,Unknown Fuel,"51,600",2016
+New Mexico,EV,500,2016
+New Mexico,PHEV,600,2016
+New Mexico,HEV,"20,800",2016
+New Mexico,Biodiesel,0,2016
+New Mexico,E85,"142,300",2016
+New Mexico,CNG,"7,800",2016
+New Mexico,Propane,0,2016
+New Mexico,Hydrogen,0,2016
+New Mexico,Methanol,0,2016
+New Mexico,Gasoline,"1,375,900",2016
+New Mexico,Diesel,"88,400",2016
+New Mexico,Unknown Fuel,"37,200",2016
+New York,EV,"6,100",2016
+New York,PHEV,"12,100",2016
+New York,HEV,"166,500",2016
+New York,Biodiesel,0,2016
+New York,E85,"895,500",2016
+New York,CNG,"10,200",2016
+New York,Propane,0,2016
+New York,Hydrogen,0,2016
+New York,Methanol,0,2016
+New York,Gasoline,"10,013,300",2016
+New York,Diesel,"191,300",2016
+New York,Unknown Fuel,"112,600",2016
+North Carolina,EV,"2,900",2016
+North Carolina,PHEV,"3,600",2016
+North Carolina,HEV,"107,400",2016
+North Carolina,Biodiesel,0,2016
+North Carolina,E85,"642,800",2016
+North Carolina,CNG,"26,100",2016
+North Carolina,Propane,0,2016
+North Carolina,Hydrogen,0,2016
+North Carolina,Methanol,0,2016
+North Carolina,Gasoline,"7,095,700",2016
+North Carolina,Diesel,"218,900",2016
+North Carolina,Unknown Fuel,"108,900",2016
+North Dakota,EV,0,2016
+North Dakota,PHEV,100,2016
+North Dakota,HEV,"3,400",2016
+North Dakota,Biodiesel,0,2016
+North Dakota,E85,"118,500",2016
+North Dakota,CNG,"5,100",2016
+North Dakota,Propane,0,2016
+North Dakota,Hydrogen,0,2016
+North Dakota,Methanol,0,2016
+North Dakota,Gasoline,"566,300",2016
+North Dakota,Diesel,"51,900",2016
+North Dakota,Unknown Fuel,"20,200",2016
+Ohio,EV,"2,600",2016
+Ohio,PHEV,"4,400",2016
+Ohio,HEV,"91,900",2016
+Ohio,Biodiesel,0,2016
+Ohio,E85,"909,400",2016
+Ohio,CNG,"21,600",2016
+Ohio,Propane,0,2016
+Ohio,Hydrogen,0,2016
+Ohio,Methanol,0,2016
+Ohio,Gasoline,"8,740,000",2016
+Ohio,Diesel,"209,700",2016
+Ohio,Unknown Fuel,"109,200",2016
+Oklahoma,EV,600,2016
+Oklahoma,PHEV,700,2016
+Oklahoma,HEV,"24,800",2016
+Oklahoma,Biodiesel,0,2016
+Oklahoma,E85,"599,800",2016
+Oklahoma,CNG,"20,300",2016
+Oklahoma,Propane,0,2016
+Oklahoma,Hydrogen,0,2016
+Oklahoma,Methanol,0,2016
+Oklahoma,Gasoline,"3,277,300",2016
+Oklahoma,Diesel,"171,700",2016
+Oklahoma,Unknown Fuel,"73,100",2016
+Oregon,EV,"7,700",2016
+Oregon,PHEV,"4,300",2016
+Oregon,HEV,"83,300",2016
+Oregon,Biodiesel,0,2016
+Oregon,E85,"168,600",2016
+Oregon,CNG,"15,500",2016
+Oregon,Propane,0,2016
+Oregon,Hydrogen,0,2016
+Oregon,Methanol,0,2016
+Oregon,Gasoline,"3,077,900",2016
+Oregon,Diesel,"220,300",2016
+Oregon,Unknown Fuel,"100,900",2016
+Pennsylvania,EV,"3,200",2016
+Pennsylvania,PHEV,"5,400",2016
+Pennsylvania,HEV,"103,200",2016
+Pennsylvania,Biodiesel,0,2016
+Pennsylvania,E85,"776,400",2016
+Pennsylvania,CNG,"15,300",2016
+Pennsylvania,Propane,0,2016
+Pennsylvania,Hydrogen,0,2016
+Pennsylvania,Methanol,0,2016
+Pennsylvania,Gasoline,"8,767,400",2016
+Pennsylvania,Diesel,"223,100",2016
+Pennsylvania,Unknown Fuel,"90,200",2016
+Rhode Island,EV,300,2016
+Rhode Island,PHEV,600,2016
+Rhode Island,HEV,"11,000",2016
+Rhode Island,Biodiesel,0,2016
+Rhode Island,E85,"44,300",2016
+Rhode Island,CNG,700,2016
+Rhode Island,Propane,0,2016
+Rhode Island,Hydrogen,0,2016
+Rhode Island,Methanol,0,2016
+Rhode Island,Gasoline,"778,200",2016
+Rhode Island,Diesel,"14,000",2016
+Rhode Island,Unknown Fuel,"8,500",2016
+South Carolina,EV,800,2016
+South Carolina,PHEV,"1,200",2016
+South Carolina,HEV,"39,300",2016
+South Carolina,Biodiesel,0,2016
+South Carolina,E85,"373,900",2016
+South Carolina,CNG,"16,100",2016
+South Carolina,Propane,0,2016
+South Carolina,Hydrogen,0,2016
+South Carolina,Methanol,0,2016
+South Carolina,Gasoline,"3,814,700",2016
+South Carolina,Diesel,"102,900",2016
+South Carolina,Unknown Fuel,"67,900",2016
+South Dakota,EV,100,2016
+South Dakota,PHEV,200,2016
+South Dakota,HEV,"5,300",2016
+South Dakota,Biodiesel,0,2016
+South Dakota,E85,"113,100",2016
+South Dakota,CNG,"5,700",2016
+South Dakota,Propane,0,2016
+South Dakota,Hydrogen,0,2016
+South Dakota,Methanol,0,2016
+South Dakota,Gasoline,"667,200",2016
+South Dakota,Diesel,"56,200",2016
+South Dakota,Unknown Fuel,"24,200",2016
+Tennessee,EV,"2,600",2016
+Tennessee,PHEV,"1,700",2016
+Tennessee,HEV,"48,400",2016
+Tennessee,Biodiesel,0,2016
+Tennessee,E85,"442,400",2016
+Tennessee,CNG,"21,300",2016
+Tennessee,Propane,0,2016
+Tennessee,Hydrogen,0,2016
+Tennessee,Methanol,0,2016
+Tennessee,Gasoline,"4,772,600",2016
+Tennessee,Diesel,"137,900",2016
+Tennessee,Unknown Fuel,"59,800",2016
+Texas,EV,"11,900",2016
+Texas,PHEV,"8,000",2016
+Texas,HEV,"205,800",2016
+Texas,Biodiesel,0,2016
+Texas,E85,"2,596,600",2016
+Texas,CNG,"64,700",2016
+Texas,Propane,0,2016
+Texas,Hydrogen,0,2016
+Texas,Methanol,0,2016
+Texas,Gasoline,"18,245,400",2016
+Texas,Diesel,"961,200",2016
+Texas,Unknown Fuel,"213,100",2016
+Utah,EV,"2,500",2016
+Utah,PHEV,"1,700",2016
+Utah,HEV,"32,700",2016
+Utah,Biodiesel,0,2016
+Utah,E85,"172,900",2016
+Utah,CNG,"10,800",2016
+Utah,Propane,0,2016
+Utah,Hydrogen,0,2016
+Utah,Methanol,0,2016
+Utah,Gasoline,"2,072,100",2016
+Utah,Diesel,"150,800",2016
+Utah,Unknown Fuel,"38,700",2016
+Vermont,EV,300,2016
+Vermont,PHEV,"1,200",2016
+Vermont,HEV,"11,600",2016
+Vermont,Biodiesel,0,2016
+Vermont,E85,"49,300",2016
+Vermont,CNG,800,2016
+Vermont,Propane,0,2016
+Vermont,Hydrogen,0,2016
+Vermont,Methanol,0,2016
+Vermont,Gasoline,"521,600",2016
+Vermont,Diesel,"20,200",2016
+Vermont,Unknown Fuel,"8,400",2016
+Virginia,EV,"3,100",2016
+Virginia,PHEV,"4,200",2016
+Virginia,HEV,"126,700",2016
+Virginia,Biodiesel,0,2016
+Virginia,E85,"463,300",2016
+Virginia,CNG,"17,900",2016
+Virginia,Propane,0,2016
+Virginia,Hydrogen,0,2016
+Virginia,Methanol,0,2016
+Virginia,Gasoline,"6,554,200",2016
+Virginia,Diesel,"168,900",2016
+Virginia,Unknown Fuel,"64,900",2016
+Washington,EV,"14,900",2016
+Washington,PHEV,"6,400",2016
+Washington,HEV,"143,400",2016
+Washington,Biodiesel,0,2016
+Washington,E85,"304,100",2016
+Washington,CNG,"24,400",2016
+Washington,Propane,0,2016
+Washington,Hydrogen,0,2016
+Washington,Methanol,0,2016
+Washington,Gasoline,"5,329,200",2016
+Washington,Diesel,"272,100",2016
+Washington,Unknown Fuel,"133,900",2016
+West Virginia,EV,100,2016
+West Virginia,PHEV,300,2016
+West Virginia,HEV,"9,200",2016
+West Virginia,Biodiesel,0,2016
+West Virginia,E85,"150,300",2016
+West Virginia,CNG,"4,400",2016
+West Virginia,Propane,0,2016
+West Virginia,Hydrogen,0,2016
+West Virginia,Methanol,0,2016
+West Virginia,Gasoline,"1,286,500",2016
+West Virginia,Diesel,"52,000",2016
+West Virginia,Unknown Fuel,"21,600",2016
+Wisconsin,EV,"2,600",2016
+Wisconsin,PHEV,"2,600",2016
+Wisconsin,HEV,"61,700",2016
+Wisconsin,Biodiesel,0,2016
+Wisconsin,E85,"579,200",2016
+Wisconsin,CNG,"14,400",2016
+Wisconsin,Propane,0,2016
+Wisconsin,Hydrogen,0,2016
+Wisconsin,Methanol,0,2016
+Wisconsin,Gasoline,"4,500,500",2016
+Wisconsin,Diesel,"154,400",2016
+Wisconsin,Unknown Fuel,"52,900",2016
+Wyoming,EV,100,2016
+Wyoming,PHEV,100,2016
+Wyoming,HEV,"3,800",2016
+Wyoming,Biodiesel,0,2016
+Wyoming,E85,"64,100",2016
+Wyoming,CNG,"4,800",2016
+Wyoming,Propane,0,2016
+Wyoming,Hydrogen,0,2016
+Wyoming,Methanol,0,2016
+Wyoming,Gasoline,"448,600",2016
+Wyoming,Diesel,"69,900",2016
+Wyoming,Unknown Fuel,"23,700",2016
