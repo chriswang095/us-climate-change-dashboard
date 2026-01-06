@@ -1,1 +1,0 @@
-This folder contains raw GHG emission data for all 50 US states and the District of Columbia from 1990 to 2022. The data is transformed from wide to long format via Python script for SQL database ingestion.
