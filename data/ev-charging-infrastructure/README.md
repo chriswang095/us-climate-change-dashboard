@@ -1,1 +1,1 @@
-
+This folder contains the data used for EV charging infrastructure development analysis in the Tableau dashboard. Historic data is sourced from the US DOE Alternative Fuels Data Center. Projected data from 2024 to 2030 is sourced from the National Renewable Energy Laboratory.
