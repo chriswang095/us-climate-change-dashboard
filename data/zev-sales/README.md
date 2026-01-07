@@ -1,4 +1,4 @@
-This folder contains the data used for ZEV sales and market share analysis in the Tableau dashboard.
+This folder contains the data used to analyze ZEV sales and market share in the Tableau dashboard.
 Historic data from the US DOE Alternative Fuels Data Center is aggregated at four levels. Projected data from 2024 to 2035 is sourced from the Energy Innovation public policy institution.
   1. By year
   2. All-time
