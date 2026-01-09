@@ -46,5 +46,5 @@ To execute the end-to-end, download all required files into their respective fol
 
 The pipeline produces clean, standardized CSV files ready for SQL database ingestion.
 
-# Reproducing SQL Queries
+## Reproducing SQL Queries
 To reproduce the datasets used in the Tableau dashboard visualization, ingest the pipeline-transformed datasets into SQL and and run the queries in the /scripts/sql folder.
