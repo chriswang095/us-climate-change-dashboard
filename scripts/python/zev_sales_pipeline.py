@@ -4,8 +4,9 @@
 from pathlib import Path
 from csv import reader, writer
 
-raw_dir = Path('/Users/chriswang/Documents/EV Project/Data/Raw/ZEV Sales')
-output_dir = Path('/Users/chriswang/Documents/EV Project/Data/')
+repo_root = Path(__file__).resolve().parents[2]
+raw_dir = repo_root / 'data' / 'raw' / 'zev_sales'
+output_dir = repo_root / 'data' / 'processed-for-sql-ingetion' / 'zev_sales'
 
 def run_zev_sales_pipeline():
     try:
