@@ -1,8 +1,9 @@
 from pathlib import Path
 from csv import reader, writer
 
-raw_dir = Path('/Users/chriswang/Documents/EV Project/Data/Raw/GHG Emissions')
-output_dir = Path('/Users/chriswang/Documents/EV Project/Data/')
+repo_root = Path(__file__).resolve().parents[2]
+raw_dir = repo_root / 'data' / 'raw' / 'ghg-emissions'
+output_dir = repo_root / 'data' / 'processed-for-sql-ingetion' / 'ghg-emissions'
 
 def run_ghg_emissions_pipeline():
     try:
