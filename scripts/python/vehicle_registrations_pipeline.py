@@ -1,8 +1,9 @@
 from pathlib import Path
 from csv import reader, writer
 
-raw_dir = Path('/Users/chriswang/Documents/EV Project/Data/Raw/Vehicle Registrations')
-output_dir = Path('/Users/chriswang/Documents/EV Project/Data/')
+repo_root = Path(__file__).resolve().parents[2]
+raw_dir = repo_root / 'data' / 'raw' / 'vehicle_registrations'
+output_dir = repo_root / 'data' / 'processed-for-sql-ingetion' / 'vehicle_registrations'
 
 def run_vehicle_registrations_pipeline():
     try:
