@@ -1,1 +1,1 @@
-The datasets in this folder are the result of an end-to-end Python pipeline transforming raw EV Infrastructure, GHG Emissions, Vehicle Registration, and ZEV Sales data into a format ready for SQL database insertion.
+The datasets in this folder are the outputs of an end-to-end Python pipeline transforming raw EV Infrastructure, GHG Emissions, Vehicle Registration, and ZEV Sales data into a format ready for SQL database insertion.
