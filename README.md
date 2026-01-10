@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an end-to-end Python data pipeline that ingests, cleans, and transforms multiple public datasets pertaining to US greenhouse gas emission, zero-emission vehicle sales, vehicle registrations, and EV charging infrastructure development. The pipeline produces outputs ready for downstream SQL ingestion further processing.
+This repository contains an end-to-end Python data pipeline that ingests, cleans, and transforms multiple public datasets pertaining to US greenhouse gas emission, zero-emission vehicle sales, vehicle registrations, and EV charging infrastructure development. The pipeline outputs CSV files containing rows ready for downstream SQL ingestion.
 
 ## Repository Structure
 
@@ -47,4 +47,4 @@ To execute the end-to-end, download all required files into their respective fol
 The pipeline produces clean, standardized CSV files ready for SQL database ingestion.
 
 ## Reproducing SQL Queries
-To reproduce the datasets used in the Tableau dashboard visualization, ingest the pipeline-transformed datasets into SQL and and run the queries in the /scripts/sql folder.
+To reproduce the datasets used in the Tableau dashboard visualization, ingest the pipeline-transformed datasets into SQL using the 'create_' queries and run the transformation queries, both located in the /scripts/sql folder.
