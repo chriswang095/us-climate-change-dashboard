@@ -41,6 +41,10 @@ This pipeline is composed of four sub-pipelines, each handling a particular cate
 
 Execution of the four sub-pipelines is orchestrated by a single entry-point script (run_pipeline.py).
 
+## Requirements
+  1. pathlib module
+  2. csv module
+
 ## Running the Pipeline
 To execute the end-to-end, download all required files into their respective folders and execute the run_pipeline.py script. The pipeline will process all raw CSV files and output transformed datasets to their respective folders in /data/processed-for-sql-ingestion
 
