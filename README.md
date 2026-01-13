@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an end-to-end Python data pipeline that ingests, cleans, and transforms multiple public datasets pertaining to US greenhouse gas emission, zero-emission vehicle sales, vehicle registrations, and EV charging infrastructure development. The pipeline outputs CSV files containing rows ready for downstream SQL ingestion.
+This repository contains an end-to-end Python data pipeline that ingests, cleans, and preprocesses multiple public datasets pertaining to US greenhouse gas emission, zero-emission vehicle sales, vehicle registrations, and EV charging infrastructure development. The pipeline outputs CSV files containing rows ready for downstream SQL ingestion.
 
 ## Repository Structure
 
